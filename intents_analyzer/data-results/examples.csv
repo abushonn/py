@@ -1,0 +1,496 @@
+ignore_masked,example,example_masked,intent
+,What will be my out of pocket cost for the visit?,What will be my out of pocket cost for the MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Are the pumps for diabetes covered? How much do I have to pay to get a new one? The one I have is old so I should probably replace it,Are the pumps for diabetes covered? How much do I have to pay to get a new one? The one I have is old so I should probably replace it,benefit_coverage
+,Are there benefit limitations under my plan for MASKING_PROCEDURE_NAME_1?,Are there benefit limitations under my plan for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Will this lab test be covered 100% as preventive care?,Will this lab test be covered 100% as preventive care?,benefit_coverage
+,can i get a colonoscopy,can i get a colonoscopy,benefit_coverage
+,How much will an eye MASKING_PROCEDURE_NAME_1 cost,How much will an eye MASKING_PROCEDURE_NAME_1 cost,benefit_coverage
+,How much will my copay be to see a dermatologist?,How much will my copay be to see a MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,How much will my out of pocket expenses be for my lab work requested by my doctor?,How much will my out of pocket expenses be for my lab work requested by my doctor?,benefit_coverage
+,"If I think I need MASKING_PROCEDURE_NAME_1, what do I do next? Do I need my MASKING_PROFESSIONAL_GROUP_1 to talk to my health plan?","If I think I need MASKING_PROCEDURE_NAME_1, what do I do next? Do I need my MASKING_PROFESSIONAL_GROUP_1 to talk to my health plan?",benefit_coverage
+,how should I treat a mild sprained ankle?,how should I treat a mild sprained ankle?,benefit_coverage
+,"If I want to get genetic testing done because I have a family history of particular diseases, is it covered?","If I want to get MASKING_PROCEDURE_NAME_1 done because I have a family history of particular MASKING_MEDICAL_CONDITION_1, is it covered?",benefit_coverage
+,Im looking to see if I can have the MASKING_PROCEDURE_NAME_1 under my eyes removed,Im looking to see if I can have the MASKING_PROCEDURE_NAME_1 under my eyes removed,benefit_coverage
+,Im looking to see if I can have the bags under my eyes removed,Im looking to see if I can have the bags under my eyes removed,benefit_coverage
+,Is LASIK covered by my plan?,Is LASIK covered by my plan?,benefit_coverage
+,Is MASKING_PROCEDURE_NAME_1 covered by my plan?,Is MASKING_PROCEDURE_NAME_1 covered by my plan?,benefit_coverage
+,Is MASKING_PROCEDURE_NAME_1 covered for me? How much is it going to cost?,Is MASKING_PROCEDURE_NAME_1 covered for me? How much is it going to cost?,benefit_coverage
+,Is MASKING_PROCEDURE_NAME_1 covered under PP with HSA at no cost?,Is MASKING_PROCEDURE_NAME_1 covered under PP with HSA at no cost?,benefit_coverage
+,I am having issues with male infertility,I am having issues with male infertility,benefit_coverage
+,Also I need a new MASKING_PROCEDURE_NAME_1. How much is that? Does my insurance cover it?,Also I need a new MASKING_PROCEDURE_NAME_1. How much is that? Does my insurance cover it?,benefit_coverage
+,Also I need a new insulin pump. How much is that? Does my insurance cover it?,Also I need a new insulin pump. How much is that? Does my insurance cover it?,benefit_coverage
+,Am I MASKING_PROCEDURE_NAME_1?,Am I MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Am I covered for a strep throat test?,Am I covered for a strep throat test?,benefit_coverage
+,How much does an endoscopy cost out-of-pocket?,How much does an endoscopy cost out-of-pocket?,benefit_coverage
+,Can you me tell me about Acupuncture benefits please?,Can you me tell me about Acupuncture benefits please?,benefit_coverage
+,Can I have weightloss surgery?,Can I have weightloss surgery?,benefit_coverage
+,Can I have weightloss MASKING_PROVIDER_SPECIALTY_1?,Can I have weightloss MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,Can I have a colonoscopy at RPA Lagrange Hospital?,Can I have a colonoscopy at RPA Lagrange Hospital?,benefit_coverage
+,Can I have a MASKING_PROCEDURE_NAME_1 at MASKING_FACILITY_NAME_1?,Can I have a MASKING_PROCEDURE_NAME_1 at MASKING_FACILITY_NAME_1?,benefit_coverage
+,Can I go to MASKING_FACILITY_NAME_1 for procedure ?,Can I go to MASKING_FACILITY_NAME_1 for procedure ?,benefit_coverage
+,is my procedure covered by my health insurance,is my procedure covered by my health insurance,benefit_coverage
+,Can I get my MASKING_PROCEDURE_NAME_1 checked?,Can I get my MASKING_PROCEDURE_NAME_1 checked?,benefit_coverage
+,Can I get an MRI?,Can I get an MRI?,benefit_coverage
+,Can I get a new knee under my insurance plan?,Can I get a new knee under my insurance plan?,benefit_coverage
+,Can I get a new insulin pump paid for?,Can I get a new insulin pump paid for?,benefit_coverage
+,Can I get a new MASKING_PROCEDURE_NAME_1 paid for?,Can I get a new MASKING_PROCEDURE_NAME_1 paid for?,benefit_coverage
+,Can I get a breast pump under my insurance?,Can I get a breast pump under my insurance?,benefit_coverage
+,Can I get a MASKING_PROCEDURE_NAME_1 under my insurance?,Can I get a MASKING_PROCEDURE_NAME_1 under my insurance?,benefit_coverage
+,Are you able to tell me about the services for pregnant women?,Are you able to tell me about the services for pregnant women?,benefit_coverage
+,Are voluntary reproductive health procedures covered?,Are voluntary reproductive health procedures covered?,benefit_coverage
+,Are voluntary MASKING_PROVIDER_SPECIALTY_1 MASKING_PROCEDURE_NAME_2 covered?,Are voluntary MASKING_PROVIDER_SPECIALTY_1 MASKING_PROCEDURE_NAME_2 covered?,benefit_coverage
+,Are there benefit limitations under my plan for physical therapy treatments?,Are there benefit limitations under my plan for physical therapy treatments?,benefit_coverage
+,What is my deductible for MASKING_PROCEDURE_NAME_1?,What is my deductible for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,What is my co-pay for specialist visits?,What is my co-pay for specialist visits?,benefit_coverage
+,What is my co-pay for specialist MASKING_PROCEDURE_NAME_1?,What is my co-pay for specialist MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How much will the procedure cost me out of pocket?,How much will the procedure cost me out of pocket?,benefit_coverage
+,How much will this cost?,How much will this cost?,benefit_coverage
+,How much would I pay for MASKING_PROCEDURE_NAME_1?,How much would I pay for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How much would I pay for in vitro procedures?,How much would I pay for in vitro procedures?,benefit_coverage
+,How much would I pay out of pocket for a MASKING_PROCEDURE_NAME_1?,How much would I pay out of pocket for a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,My MASKING_DEPENDENT_RELATIONSHIP_1 is getting MASKING_PROCEDURE_NAME_1.  How much will insurance cover vs. my expense?  Are there any hidden fees?,My MASKING_DEPENDENT_RELATIONSHIP_1 is getting MASKING_PROCEDURE_NAME_1.  How much will insurance cover vs. my expense?  Are there any hidden fees?,benefit_coverage
+,i need an MASKING_PROCEDURE_NAME_1 of my boobs,i need an MASKING_PROCEDURE_NAME_1 of my boobs,benefit_coverage
+,i need an xray of my boobs,i need an xray of my boobs,benefit_coverage
+,i need me some to get some MASKING_PROCEDURE_NAME_1,i need me some to get some MASKING_PROCEDURE_NAME_1,benefit_coverage
+,i need me some to get some prenatal care,i need me some to get some prenatal care,benefit_coverage
+,I think I need to have a knee replacement done this year. Can you tell me how that will affect my coverage?,I think I need to have a knee replacement done this year. Can you tell me how that will affect my coverage?,benefit_coverage
+,"Is MASKING_PROCEDURE_NAME_1 covered under the plan, and do I have use a specific facility?","Is MASKING_PROCEDURE_NAME_1 covered under the plan, and do I have use a specific facility?",benefit_coverage
+,do I have prenatal care coverage as a benefit? My wife will need this,do I have prenatal care coverage as a benefit? My wife will need this,benefit_coverage
+,does my dependents cover routine health check,does my dependents cover routine health check,benefit_coverage
+,how much will it cost for my MASKING_DEPENDENT_RELATIONSHIP_1 to do a MASKING_PROCEDURE_NAME_1?,how much will it cost for my MASKING_DEPENDENT_RELATIONSHIP_1 to do a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,how much will it cost for my wife to do a breast cancer exam?,how much will it cost for my wife to do a breast cancer exam?,benefit_coverage
+,MASKING_PERSON_NAME_1 this MASKING_PROCEDURE_NAME_1 be covered MASKING_NUMBER_a% as MASKING_PROVIDER_SPECIALTY_1?,MASKING_PERSON_NAME_1 this MASKING_PROCEDURE_NAME_1 be covered MASKING_NUMBER_a% as MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,how should I treat a mild MASKING_MEDICAL_CONDITION_1?,how should I treat a mild MASKING_MEDICAL_CONDITION_1?,benefit_coverage
+,"If I think I need knee surgery, what do I do next? Do I need my doctor to talk to my health plan?","If I think I need knee surgery, what do I do next? Do I need my doctor to talk to my health plan?",benefit_coverage
+,My MASKING_DEPENDENT_RELATIONSHIP_1 is having MASKING_PROCEDURE_NAME_1 at MASKING_FACILITY_NAME_1. What is our coverage?,My MASKING_DEPENDENT_RELATIONSHIP_1 is having MASKING_PROCEDURE_NAME_1 at MASKING_FACILITY_NAME_1. What is our coverage?,benefit_coverage
+,I would like to make an enquiry regarding a MASKING_PROCEDURE_NAME_1 please,I would like to make an enquiry regarding a MASKING_PROCEDURE_NAME_1 please,benefit_coverage
+,I would like to make an enquiry regarding a hip replacement please,I would like to make an enquiry regarding a hip replacement please,benefit_coverage
+,I'd like to know how much I need to pay for a doctor visit,I'd like to know how much I need to pay for a doctor visit,benefit_coverage
+,I'm going to give MASKING_PROCEDURE_NAME_1,I'm going to give MASKING_PROCEDURE_NAME_1,benefit_coverage
+,I'm going to give birth,I'm going to give birth,benefit_coverage
+,I'm pregnant,I'm pregnant,benefit_coverage
+,I'm pregnant right now and my MASKING_PROFESSIONAL_GROUP_1 suggested I MASKING_PROCEDURE_NAME_4 a MASKING_PROCEDURE_NAME_1. Is that covered by my MASKING_PROCEDURE_NAME_2? How much is that going to cost? And where should I get this done?,I'm pregnant right now and my MASKING_PROFESSIONAL_GROUP_1 suggested I MASKING_PROCEDURE_NAME_4 a MASKING_PROCEDURE_NAME_1. Is that covered by my MASKING_PROCEDURE_NAME_2? How much is that going to cost? And where should I get this done?,benefit_coverage
+,How much would I pay out of pocket for a mammogram?,How much would I pay out of pocket for a mammogram?,benefit_coverage
+,How often should I get a MASKING_PROCEDURE_NAME_1?,How often should I get a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How will my insurance cover a MASKING_PROCEDURE_NAME_1?,How will my insurance cover a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,will my insurance cover 100% of the cost of the proceedure,will my insurance cover 100% of the cost of the proceedure,benefit_coverage
+,will my insurance cover MASKING_NUMBER_a% of the cost of the proceedure,will my insurance cover MASKING_NUMBER_a% of the cost of the proceedure,benefit_coverage
+,"Hello, can you please tell me if I have cover for Influenza?","Hello, can you please tell me if I have cover for Influenza?",benefit_coverage
+,How much does an H. pylori breath test cost?,How much does an H. pylori breath test cost?,benefit_coverage
+,How much does an MASKING_PROCEDURE_NAME_1 cost out-of-pocket?,How much does an MASKING_PROCEDURE_NAME_1 cost out-of-pocket?,benefit_coverage
+,How will my insurance cover a nuchal translucency scan?,How will my insurance cover a nuchal translucency scan?,benefit_coverage
+,I am having MASKING_PROVIDER_SPECIALTY_1 at MASKING_FACILITY_NAME_1.? Can you tell me my coverage?,I am having MASKING_PROVIDER_SPECIALTY_1 at MASKING_FACILITY_NAME_1.? Can you tell me my coverage?,benefit_coverage
+,I am having issues with MASKING_PROCEDURE_NAME_1,I am having issues with MASKING_PROCEDURE_NAME_1,benefit_coverage
+,If I need to get a root canal is this covered by my insurance,If I need to get a root canal is this covered by my insurance,benefit_coverage
+,I'm pregnant right now and my doctor suggested I schedule a nuchal translucency scan. Is that covered by my health insurance? How much is that going to cost? And where should I get this done?,I'm pregnant right now and my doctor suggested I schedule a nuchal translucency scan. Is that covered by my health insurance? How much is that going to cost? And where should I get this done?,benefit_coverage
+,"Hello, can you please tell me if I have cover for MASKING_PROCEDURE_NAME_1?","Hello, can you please tell me if I have cover for MASKING_PROCEDURE_NAME_1?",benefit_coverage
+,How much is the average liver functionality test? Does insurance cover that?,How much is the average liver functionality test? Does insurance cover that?,benefit_coverage
+,Do I have to pay for a breast pump or will my insurance cover that cost?,Do I have to pay for a breast pump or will my insurance cover that cost?,benefit_coverage
+,Does my insurance cover nuchal translucency scans? Also does it cover breast pumps? How much will I have to pay for both?,Does my insurance cover nuchal translucency scans? Also does it cover breast pumps? How much will I have to pay for both?,benefit_coverage
+,Do I have to pay for a MASKING_PROCEDURE_NAME_1 or will my insurance cover that cost?,Do I have to pay for a MASKING_PROCEDURE_NAME_1 or will my insurance cover that cost?,benefit_coverage
+,What is my out of pocket responsibility for an MASKING_PROCEDURE_NAME_1?,What is my out of pocket responsibility for an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Do I have coverage for MASKING_PROCEDURE_NAME_1?,Do I have coverage for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Can you please tell me about benefits relating to orthopedic surgery?,Can you please tell me about benefits relating to orthopedic surgery?,benefit_coverage
+,Can you please tell me about benefits relating to MASKING_PROVIDER_SPECIALTY_1?,Can you please tell me about benefits relating to MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,Can you me tell me about MASKING_PROVIDER_SPECIALTY_1 benefits please?,Can you me tell me about MASKING_PROVIDER_SPECIALTY_1 benefits please?,benefit_coverage
+,Are dental xrays covered with my MASKING_PROCEDURE_NAME_1 insurance?,Are dental xrays covered with my MASKING_PROCEDURE_NAME_1 insurance?,benefit_coverage
+,What are my benefits when it comes to MASKING_PROCEDURE_NAME_1?,What are my benefits when it comes to MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,severe sepsis and septic shock procedure cost,severe sepsis and septic shock procedure cost,benefit_coverage
+,want to know if breast pumps are part of my benefits under my present insurance.,want to know if breast pumps are part of my benefits under my present insurance.,benefit_coverage
+,What's the cost of doing a CAT scan with my insurance policy?,What's the cost of doing a CAT scan with my insurance policy?,benefit_coverage
+,need a mammogram,need a mammogram,benefit_coverage
+,Where can I get a new MASKING_PROCEDURE_NAME_1?,Where can I get a new MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Will my insurance cover a nuchal translucency scan completely or partially?,Will my insurance cover a nuchal translucency scan completely or partially?,benefit_coverage
+,Will there be a deductible for this procedure?,Will there be a deductible for this procedure?,benefit_coverage
+,What is my deductible for an in-MASKING_PROCEDURE_NAME_1?,What is my deductible for an in-MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,What is my deductible for an in-office visit?,What is my deductible for an in-office visit?,benefit_coverage
+,What is my deductible for hearing aids?,What is my deductible for hearing aids?,benefit_coverage
+,What is my deductible on infertilitly MASKING_PROCEDURE_NAME_1,What is my deductible on infertilitly MASKING_PROCEDURE_NAME_1,benefit_coverage
+,What is my deductible on infertilitly treatments,What is my deductible on infertilitly treatments,benefit_coverage
+,What prenatal care does my policy cover?,What prenatal care does my policy cover?,benefit_coverage
+,What procedures are covered under a regular check-up?,What procedures are covered under a regular check-up?,benefit_coverage
+,What types of MASKING_PROCEDURE_NAME_1 are covered by my plan?,What types of MASKING_PROCEDURE_NAME_1 are covered by my plan?,benefit_coverage
+,What types of fertility treatments are covered by my plan?,What types of fertility treatments are covered by my plan?,benefit_coverage
+,What will I pay for out of network MASKING_MEDICAL_CONDITION_1 charges for a MASKING_PROCEDURE_NAME_1?,What will I pay for out of network MASKING_MEDICAL_CONDITION_1 charges for a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,What will I pay for out of network lab charges for a Pap?,What will I pay for out of network lab charges for a Pap?,benefit_coverage
+,What is my co-pay for an office visit?,What is my co-pay for an office visit?,benefit_coverage
+,What is my co-pay for an MASKING_PROCEDURE_NAME_1?,What is my co-pay for an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,What is my MASKING_PROCEDURE_NAME_1?,What is my MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How often should I get a colonoscopy?,How often should I get a colonoscopy?,benefit_coverage
+,MASKING_PROCEDURE_NAME_1,MASKING_PROCEDURE_NAME_1,benefit_coverage
+,MASKING_PERSON_NAME_1 there be a deductible for this procedure?,MASKING_PERSON_NAME_1 there be a deductible for this procedure?,benefit_coverage
+,MASKING_PERSON_NAME_1 my insurance cover a MASKING_PROCEDURE_NAME_1 completely or partially?,MASKING_PERSON_NAME_1 my insurance cover a MASKING_PROCEDURE_NAME_1 completely or partially?,benefit_coverage
+,MASKING_MEDICAL_CONDITION_1 and septic shock procedure cost,MASKING_MEDICAL_CONDITION_1 and septic shock procedure cost,benefit_coverage
+,MASKING_MEDICAL_CONDITION_1,MASKING_MEDICAL_CONDITION_1,benefit_coverage
+,Is this procedure covered?,Is this procedure covered?,benefit_coverage
+,Is this procedure covered under my plan?,Is this procedure covered under my plan?,benefit_coverage
+,Is the shingles vaccination covered under my plan?,Is the shingles vaccination covered under my plan?,benefit_coverage
+,"Is the cost of lab tests included? If yes, what's the maximum amount that is covered?","Is the cost of lab tests included? If yes, what's the maximum amount that is covered?",benefit_coverage
+,"Is the cost of MASKING_PROCEDURE_NAME_1 included? If yes, what's the maximum amount that is covered?","Is the cost of MASKING_PROCEDURE_NAME_1 included? If yes, what's the maximum amount that is covered?",benefit_coverage
+,Is the chiropractor covered under my plan?,Is the chiropractor covered under my plan?,benefit_coverage
+,need to know how much my MASKING_PROCEDURE_NAME_1 exam will cost under my plan.,need to know how much my MASKING_PROCEDURE_NAME_1 exam will cost under my plan.,benefit_coverage
+,What's the cost of doing a MASKING_PROCEDURE_NAME_1 with my insurance policy?,What's the cost of doing a MASKING_PROCEDURE_NAME_1 with my insurance policy?,benefit_coverage
+,need a MASKING_PROCEDURE_NAME_1,need a MASKING_PROCEDURE_NAME_1,benefit_coverage
+,my doctor suggested me to go for Colonoscopy. does it under my coverage?,my doctor suggested me to go for Colonoscopy. does it under my coverage?,benefit_coverage
+,my MASKING_PROFESSIONAL_GROUP_1 suggested me to go for MASKING_PROCEDURE_NAME_1. does it under my coverage?,my MASKING_PROFESSIONAL_GROUP_1 suggested me to go for MASKING_PROCEDURE_NAME_1. does it under my coverage?,benefit_coverage
+,Are orthotics covered with my current insurance?,Are orthotics covered with my current insurance?,benefit_coverage
+,Can I go to Duke Health Clinic for procedure ?,Can I go to Duke Health Clinic for procedure ?,benefit_coverage
+,can i get a MASKING_PROCEDURE_NAME_1,can i get a MASKING_PROCEDURE_NAME_1,benefit_coverage
+,Can I get my cholesterol levels checked?,Can I get my cholesterol levels checked?,benefit_coverage
+,Am I eligible for my annual check up visit?,Am I eligible for my annual check up visit?,benefit_coverage
+,Are MASKING_PROCEDURE_NAME_1 covered by my MASKING_PROCEDURE_NAME_1 ?,Are MASKING_PROCEDURE_NAME_1 covered by my MASKING_PROCEDURE_NAME_1 ?,benefit_coverage
+,Are MASKING_PROCEDURE_NAME_1 covered?,Are MASKING_PROCEDURE_NAME_1 covered?,benefit_coverage
+,Can I receive rountine medical care?,Can I receive rountine medical care?,benefit_coverage
+,I am having orthopedic surgery at ETH Hospital.? Can you tell me my coverage?,I am having orthopedic surgery at ETH Hospital.? Can you tell me my coverage?,benefit_coverage
+,"Hi MASKING_PERSON_NAME_1, I need to find out if my MASKING_PROCEDURE_NAME_1 is covered by my insurance","Hi MASKING_PERSON_NAME_1, I need to find out if my MASKING_PROCEDURE_NAME_1 is covered by my insurance",benefit_coverage
+,"Hi, I'm having MASKING_PROVIDER_SPECIALTY_1. Can you help me figure out my coverage?","Hi, I'm having MASKING_PROVIDER_SPECIALTY_1. Can you help me figure out my coverage?",benefit_coverage
+,"Hi, I'm having orthopedic surgery. Can you help me figure out my coverage?","Hi, I'm having orthopedic surgery. Can you help me figure out my coverage?",benefit_coverage
+,How am I covered for MASKING_PROCEDURE_NAME_1,How am I covered for MASKING_PROCEDURE_NAME_1,benefit_coverage
+,How am I covered for couples therapy,How am I covered for couples therapy,benefit_coverage
+,How do I find out whether my plan MASKING_PROCEDURE_NAME_2 MASKING_PROCEDURE_NAME_1?,How do I find out whether my plan MASKING_PROCEDURE_NAME_2 MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How much will I have to pay out of pocket for an MASKING_PROCEDURE_NAME_1?,How much will I have to pay out of pocket for an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How much of my MASKING_PROCEDURE_NAME_1 will you cover?,How much of my MASKING_PROCEDURE_NAME_1 will you cover?,benefit_coverage
+,How much will my out of pocket expenses be for my MASKING_MEDICAL_CONDITION_1 work requested by my MASKING_PROFESSIONAL_GROUP_1?,How much will my out of pocket expenses be for my MASKING_MEDICAL_CONDITION_1 work requested by my MASKING_PROFESSIONAL_GROUP_1?,benefit_coverage
+,My wife is having Routine mammogram at RPA Lagrange Hospital. What is our coverage?,My wife is having Routine mammogram at RPA Lagrange Hospital. What is our coverage?,benefit_coverage
+,My wife is 7 months pregnant. Does she qualify to get a Translucency scan?,My wife is 7 months pregnant. Does she qualify to get a Translucency scan?,benefit_coverage
+,My kid is 9.  Are his well visits still covered by my insurance?,My kid is 9.  Are his well visits still covered by my insurance?,benefit_coverage
+,My husband needs a flu shot,My husband needs a flu shot,benefit_coverage
+,My husband is considering Orthopedic surgery,My husband is considering Orthopedic surgery,benefit_coverage
+,My doctor mentions that I may need both hips replaced,My doctor mentions that I may need both hips replaced,benefit_coverage
+,My doctor informs me that I need to get a Routine mammogram and I wanted to check if my plan covers me for this?,My doctor informs me that I need to get a Routine mammogram and I wanted to check if my plan covers me for this?,benefit_coverage
+,My daughter is getting tubes in her ears.  How much will insurance cover vs. my expense?  Are there any hidden fees?,My daughter is getting tubes in her ears.  How much will insurance cover vs. my expense?  Are there any hidden fees?,benefit_coverage
+,My daughter has been referred for a Speech/Language evaluation.  Is it a covered benefit?,My daughter has been referred for a Speech/Language evaluation.  Is it a covered benefit?,benefit_coverage
+,My MASKING_PROFESSIONAL_GROUP_1 mentions that I may need both MASKING_PROCEDURE_NAME_1,My MASKING_PROFESSIONAL_GROUP_1 mentions that I may need both MASKING_PROCEDURE_NAME_1,benefit_coverage
+,My MASKING_PROFESSIONAL_GROUP_1 MASKING_PROCEDURE_NAME_3 me that I need to get a MASKING_PROCEDURE_NAME_1 and I wanted to check if my plan MASKING_PROCEDURE_NAME_3 me for this?,My MASKING_PROFESSIONAL_GROUP_1 MASKING_PROCEDURE_NAME_3 me that I need to get a MASKING_PROCEDURE_NAME_1 and I wanted to check if my plan MASKING_PROCEDURE_NAME_3 me for this?,benefit_coverage
+,My MASKING_DEPENDENT_RELATIONSHIP_1 needs a MASKING_PROCEDURE_NAME_1,My MASKING_DEPENDENT_RELATIONSHIP_1 needs a MASKING_PROCEDURE_NAME_1,benefit_coverage
+,need to know how much my annual physical exam will cost under my plan.,need to know how much my annual physical exam will cost under my plan.,benefit_coverage
+,How much will a regular checkup be if my doctor is out of network?,How much will a regular checkup be if my doctor is out of network?,benefit_coverage
+,question about how to get MASKING_PROCEDURE_NAME_1 done,question about how to get MASKING_PROCEDURE_NAME_1 done,benefit_coverage
+,question about how to get mri done,question about how to get mri done,benefit_coverage
+,question of MASKING_PROCEDURE_NAME_1,question of MASKING_PROCEDURE_NAME_1,benefit_coverage
+,question of yearly checkup,question of yearly checkup,benefit_coverage
+,quick question about MASKING_PROCEDURE_NAME_1,quick question about MASKING_PROCEDURE_NAME_1,benefit_coverage
+,quick question about mammogram,quick question about mammogram,benefit_coverage
+,Does my insurance cover knee replacement?,Does my insurance cover knee replacement?,benefit_coverage
+,Does my insurance cover nuchal translucency MASKING_PROCEDURE_NAME_1? Also does it cover MASKING_PROCEDURE_NAME_1? How much will I have to pay for both?,Does my insurance cover nuchal translucency MASKING_PROCEDURE_NAME_1? Also does it cover MASKING_PROCEDURE_NAME_1? How much will I have to pay for both?,benefit_coverage
+,Does my insurance cover talking to a MASKING_PROFESSIONAL_GROUP_1?,Does my insurance cover talking to a MASKING_PROFESSIONAL_GROUP_1?,benefit_coverage
+,Does my insurance cover talking to a therapist?,Does my insurance cover talking to a therapist?,benefit_coverage
+,Does my insurance cover this procedure?,Does my insurance cover this procedure?,benefit_coverage
+,Does my insurance plan pay for a new MASKING_PROCEDURE_NAME_1?,Does my insurance plan pay for a new MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Does my insurance plan pay for a new insulin pump?,Does my insurance plan pay for a new insulin pump?,benefit_coverage
+,"Hello, can you please assist and tell me if I have cover on my policy for Chiropractic care?","Hello, can you please assist and tell me if I have cover on my policy for Chiropractic care?",benefit_coverage
+,i have to MASKING_PROCEDURE_NAME_3 my MASKING_PROCEDURE_NAME_1 and want to know what my out of pocket cost will be,i have to MASKING_PROCEDURE_NAME_3 my MASKING_PROCEDURE_NAME_1 and want to know what my out of pocket cost will be,benefit_coverage
+,i have to schedule my colonoscopy and want to know what my out of pocket cost will be,i have to schedule my colonoscopy and want to know what my out of pocket cost will be,benefit_coverage
+,"Hi Watson, I need to find out if my check-up is covered by my insurance","Hi Watson, I need to find out if my check-up is covered by my insurance",benefit_coverage
+,I want to MASKING_PROCEDURE_NAME_1 my MASKING_PROFESSIONAL_GROUP_1 to see if I am healthy,I want to MASKING_PROCEDURE_NAME_1 my MASKING_PROFESSIONAL_GROUP_1 to see if I am healthy,benefit_coverage
+,I want to find out what level of benefits I have for MASKING_PROCEDURE_NAME_1 and MASKING_PROVIDER_SPECIALTY_1,I want to find out what level of benefits I have for MASKING_PROCEDURE_NAME_1 and MASKING_PROVIDER_SPECIALTY_1,benefit_coverage
+,can you explain what benefits are available for acupunture please?,can you explain what benefits are available for acupunture please?,benefit_coverage
+,want to know if MASKING_PROCEDURE_NAME_1 are part of my benefits under my present insurance.,want to know if MASKING_PROCEDURE_NAME_1 are part of my benefits under my present insurance.,benefit_coverage
+,"I have already had MASKING_NUMBER_a xrays this year,  how many more am I eligible for?","I have already had MASKING_NUMBER_a xrays this year,  how many more am I eligible for?",benefit_coverage
+,"I have already had MASKING_NUMBER_a xrays this year, how many more am I eligible for?","I have already had MASKING_NUMBER_a xrays this year, how many more am I eligible for?",benefit_coverage
+,"I need MASKING_PROCEDURE_NAME_1 for my left knee, how much will that cost me? Is it covered?","I need MASKING_PROCEDURE_NAME_1 for my left knee, how much will that cost me? Is it covered?",benefit_coverage
+,I need MASKING_PROCEDURE_NAME_1.  Is that covered?,I need MASKING_PROCEDURE_NAME_1.  Is that covered?,benefit_coverage
+,I need MASKING_PROVIDER_SPECIALTY_1 to MASKING_PROCEDURE_NAME_1. Is that covered.,I need MASKING_PROVIDER_SPECIALTY_1 to MASKING_PROCEDURE_NAME_1. Is that covered.,benefit_coverage
+,"I need knee surgery for my left knee, how much will that cost me? Is it covered?","I need knee surgery for my left knee, how much will that cost me? Is it covered?",benefit_coverage
+,I need knee surgery.  Is that covered?,I need knee surgery.  Is that covered?,benefit_coverage
+,I need surgery to replace a knee. Is that covered.,I need surgery to replace a knee. Is that covered.,benefit_coverage
+,I think I need to have a MASKING_PROCEDURE_NAME_1 done this year. Can you tell me how that will affect my coverage?,I think I need to have a MASKING_PROCEDURE_NAME_1 done this year. Can you tell me how that will affect my coverage?,benefit_coverage
+,"Are blood work tests for thyroid abnormalities covered? If not, how much does each test cost?","Are blood work tests for thyroid abnormalities covered? If not, how much does each test cost?",benefit_coverage
+,Are crutches covered by my health insurance ?,Are crutches covered by my health insurance ?,benefit_coverage
+,How much is my copay,How much is my copay,benefit_coverage
+,How much is the average MASKING_PROCEDURE_NAME_1? Does insurance cover that?,How much is the average MASKING_PROCEDURE_NAME_1? Does insurance cover that?,benefit_coverage
+,How do I find out whether my plan covers knee replacement?,How do I find out whether my plan covers knee replacement?,benefit_coverage
+,How many MASKING_PROCEDURE_NAME_1 sessions are covered?,How many MASKING_PROCEDURE_NAME_1 sessions are covered?,benefit_coverage
+,How many MASKING_PROCEDURE_NAME_1 sessions are covered? What is my copay for MASKING_PROCEDURE_NAME_1?,How many MASKING_PROCEDURE_NAME_1 sessions are covered? What is my copay for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How many PT sessions are covered?,How many PT sessions are covered?,benefit_coverage
+,Is MASKING_PROVIDER_SPECIALTY_1 a covered benefit?,Is MASKING_PROVIDER_SPECIALTY_1 a covered benefit?,benefit_coverage
+,Is a MASKING_PROCEDURE_NAME_1 covered,Is a MASKING_PROCEDURE_NAME_1 covered,benefit_coverage
+,Is a MASKING_PROCEDURE_NAME_1 from a MASKING_PROVIDER_SPECIALTY_1 covered under my plan?,Is a MASKING_PROCEDURE_NAME_1 from a MASKING_PROVIDER_SPECIALTY_1 covered under my plan?,benefit_coverage
+,Is a checkup covered,Is a checkup covered,benefit_coverage
+,Is a spinal adjustment from a Chiropractor covered under my plan?,Is a spinal adjustment from a Chiropractor covered under my plan?,benefit_coverage
+,Is acupuncture a covered benefit?,Is acupuncture a covered benefit?,benefit_coverage
+,Is an EKG covered in my annual physical if my doctor feels it is appropriate based on our discussion during the physical?,Is an EKG covered in my annual physical if my doctor feels it is appropriate based on our discussion during the physical?,benefit_coverage
+,Is an MASKING_PROCEDURE_NAME_6 covered in my MASKING_PROCEDURE_NAME_1 if my MASKING_PROFESSIONAL_GROUP_1 feels it is appropriate based on our MASKING_PROCEDURE_NAME_2 during the MASKING_PROCEDURE_NAME_3?,Is an MASKING_PROCEDURE_NAME_6 covered in my MASKING_PROCEDURE_NAME_1 if my MASKING_PROFESSIONAL_GROUP_1 feels it is appropriate based on our MASKING_PROCEDURE_NAME_2 during the MASKING_PROCEDURE_NAME_3?,benefit_coverage
+,"Is bariatric surgery covered under the plan, and do I have use a specific facility?","Is bariatric surgery covered under the plan, and do I have use a specific facility?",benefit_coverage
+,Is colonoscopy covered under PP with HSA at no cost?,Is colonoscopy covered under PP with HSA at no cost?,benefit_coverage
+,Is my insurance covered my Cosmetic Surgery and Skin Health Center,Is my insurance covered my Cosmetic Surgery and Skin Health Center,benefit_coverage
+,Is my insurance covered my MASKING_PROVIDER_SPECIALTY_1 and MASKING_FACILITY_NAME_1,Is my insurance covered my MASKING_PROVIDER_SPECIALTY_1 and MASKING_FACILITY_NAME_1,benefit_coverage
+,Is the MASKING_PROCEDURE_NAME_1 covered under my plan?,Is the MASKING_PROCEDURE_NAME_1 covered under my plan?,benefit_coverage
+,Is the MASKING_PROVIDER_SPECIALTY_1 covered under my plan?,Is the MASKING_PROVIDER_SPECIALTY_1 covered under my plan?,benefit_coverage
+,"Are blood work MASKING_PROCEDURE_NAME_1? If not, how much does each MASKING_PROCEDURE_NAME_5 cost?","Are blood work MASKING_PROCEDURE_NAME_1? If not, how much does each MASKING_PROCEDURE_NAME_5 cost?",benefit_coverage
+,Are MASKING_PROVIDER_SPECIALTY_1 covered with my current insurance?,Are MASKING_PROVIDER_SPECIALTY_1 covered with my current insurance?,benefit_coverage
+,Are MASKING_PROCEDURE_NAME_1 included in my insurance?,Are MASKING_PROCEDURE_NAME_1 included in my insurance?,benefit_coverage
+,How much does an H. pylori MASKING_PROCEDURE_NAME_1 cost?,How much does an H. pylori MASKING_PROCEDURE_NAME_1 cost?,benefit_coverage
+,What would be my co-pay in a nuchal translucency scan>,What would be my co-pay in a nuchal translucency scan>,benefit_coverage
+,What would be my co-pay in a MASKING_PROCEDURE_NAME_1>,What would be my co-pay in a MASKING_PROCEDURE_NAME_1>,benefit_coverage
+,What will my portion of the cost for this procedure be?,What will my portion of the cost for this procedure be?,benefit_coverage
+,"I have already had 2 xrays this year, how many more am I eligible for?","I have already had 2 xrays this year, how many more am I eligible for?",benefit_coverage
+,"I have already had 2 xrays this year,  how many more am I eligible for?","I have already had 2 xrays this year,  how many more am I eligible for?",benefit_coverage
+,I would like to get a second opinion on the reading of my abdominal ultrasound. Is this covered and what is the process?,I would like to get a second opinion on the reading of my abdominal ultrasound. Is this covered and what is the process?,benefit_coverage
+,I would like to get a second opinion on the reading of my MASKING_PROCEDURE_NAME_1. Is this covered and what is the process?,I would like to get a second opinion on the reading of my MASKING_PROCEDURE_NAME_1. Is this covered and what is the process?,benefit_coverage
+,I want to visit my doctor to see if I am healthy,I want to visit my doctor to see if I am healthy,benefit_coverage
+,I want to have information about the nuchal translucency scan and whether my insurance will cover this procedure,I want to have information about the nuchal translucency scan and whether my insurance will cover this procedure,benefit_coverage
+,I want to have information about the MASKING_PROCEDURE_NAME_1 and whether my insurance will cover this procedure,I want to have information about the MASKING_PROCEDURE_NAME_1 and whether my insurance will cover this procedure,benefit_coverage
+,I want to find out what level of benefits I have for child birth and acupuncture,I want to find out what level of benefits I have for child birth and acupuncture,benefit_coverage
+,What will my out of pocket cost be for this visit?,What will my out of pocket cost be for this visit?,benefit_coverage
+,What will my out of pocket cost be for this MASKING_PROCEDURE_NAME_1?,What will my out of pocket cost be for this MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,is my procedure covered by my MASKING_PROCEDURE_NAME_1,is my procedure covered by my MASKING_PROCEDURE_NAME_1,benefit_coverage
+,internal medicine,internal medicine,benefit_coverage
+,"i need to get a flu shot, is that covered ?","i need to get a flu shot, is that covered ?",benefit_coverage
+,"i need to get a MASKING_PROCEDURE_NAME_1, is that covered ?","i need to get a MASKING_PROCEDURE_NAME_1, is that covered ?",benefit_coverage
+,I would like to know what the cost will be to get a MASKING_NUMBER_aD MASKING_PROCEDURE_NAME_3 instead of the standard MASKING_PROCEDURE_NAME_2?,I would like to know what the cost will be to get a MASKING_NUMBER_aD MASKING_PROCEDURE_NAME_3 instead of the standard MASKING_PROCEDURE_NAME_2?,benefit_coverage
+,I would like to know what the cost will be to get a 3D Mammogram instead of the standard mammogram?,I would like to know what the cost will be to get a 3D Mammogram instead of the standard mammogram?,benefit_coverage
+,I would like to know if breast pumps are part of my benefit,I would like to know if breast pumps are part of my benefit,benefit_coverage
+,I would like to know if MASKING_PROCEDURE_NAME_1 are part of my benefit,I would like to know if MASKING_PROCEDURE_NAME_1 are part of my benefit,benefit_coverage
+,"If I have to have a new insulin pump, will that be covered","If I have to have a new insulin pump, will that be covered",benefit_coverage
+,"If I have to have a new MASKING_PROCEDURE_NAME_1, will that be covered","If I have to have a new MASKING_PROCEDURE_NAME_1, will that be covered",benefit_coverage
+,"If I have an outpatient procedure, how much or what percentage would I have to out of pocket?","If I have an outpatient procedure, how much or what percentage would I have to out of pocket?",benefit_coverage
+,"If I have an MASKING_PROCEDURE_NAME_1, how much or what percentage would I have to out of pocket?","If I have an MASKING_PROCEDURE_NAME_1, how much or what percentage would I have to out of pocket?",benefit_coverage
+,What percentage of my bill will my insurance pay for this procedure / lab work / visit?,What percentage of my bill will my insurance pay for this procedure / lab work / visit?,benefit_coverage
+,What percentage of my bill will my insurance pay for this procedure / MASKING_MEDICAL_CONDITION_1 work / MASKING_PROCEDURE_NAME_1?,What percentage of my bill will my insurance pay for this procedure / MASKING_MEDICAL_CONDITION_1 work / MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,What kind of MASKING_PROFESSIONAL_GROUP_1 do I need to see to have my MASKING_MEDICAL_CONDITION_1 MASKING_PROCEDURE_NAME_1 covered by Insurance?,What kind of MASKING_PROFESSIONAL_GROUP_1 do I need to see to have my MASKING_MEDICAL_CONDITION_1 MASKING_PROCEDURE_NAME_1 covered by Insurance?,benefit_coverage
+,What is the estimated copay for my visit?,What is the estimated copay for my visit?,benefit_coverage
+,What is the estimated copay for my MASKING_PROCEDURE_NAME_1?,What is the estimated copay for my MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,What is the copay for this session?,What is the copay for this session?,benefit_coverage
+,What is the average cost of procedure XYZ?,What is the average cost of procedure XYZ?,benefit_coverage
+,What is my out of pocket responsibility for an annual doctor visit?,What is my out of pocket responsibility for an annual doctor visit?,benefit_coverage
+,Do I have coverage for shoulder surgery?,Do I have coverage for shoulder surgery?,benefit_coverage
+,Is knee surgery covered for me? How much is it going to cost?,Is knee surgery covered for me? How much is it going to cost?,benefit_coverage
+,What is my out of pocket expense for this procedure?,What is my out of pocket expense for this procedure?,benefit_coverage
+,What is my out of pocket costs for facility and physician for a total knee replacement?,What is my out of pocket costs for facility and physician for a total knee replacement?,benefit_coverage
+,What is my out of pocket costs for facility and MASKING_PROFESSIONAL_GROUP_1 for a MASKING_PROCEDURE_NAME_1?,What is my out of pocket costs for facility and MASKING_PROFESSIONAL_GROUP_1 for a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,What is my maternity coverage?,What is my maternity coverage?,benefit_coverage
+,"Hello, can you please MASKING_PROCEDURE_NAME_3 and tell me if I have cover on my policy for MASKING_PROVIDER_SPECIALTY_1 care?","Hello, can you please MASKING_PROCEDURE_NAME_3 and tell me if I have cover on my policy for MASKING_PROVIDER_SPECIALTY_1 care?",benefit_coverage
+,Does my plan cover acupuncture?,Does my plan cover acupuncture?,benefit_coverage
+,Does my plan cover MASKING_PROVIDER_SPECIALTY_1?,Does my plan cover MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,Does my massage have to be with an RMT for it to be covered?,Does my massage have to be with an RMT for it to be covered?,benefit_coverage
+,What is my expected out of pocket cost for procedure XYZ or surgery ABC?,What is my expected out of pocket cost for procedure XYZ or surgery ABC?,benefit_coverage
+,What is my expected out of pocket cost for procedure XYZ or MASKING_PROVIDER_SPECIALTY_1 MASKING_PROCEDURE_NAME_2?,What is my expected out of pocket cost for procedure XYZ or MASKING_PROVIDER_SPECIALTY_1 MASKING_PROCEDURE_NAME_2?,benefit_coverage
+,procedure of long bone fracture,procedure of long bone fracture,benefit_coverage
+,How much will a MASKING_PROCEDURE_NAME_1 be if my MASKING_PROFESSIONAL_GROUP_1 is out of network?,How much will a MASKING_PROCEDURE_NAME_1 be if my MASKING_PROFESSIONAL_GROUP_1 is out of network?,benefit_coverage
+,What percentage will my insurance pay of this procedure?,What percentage will my insurance pay of this procedure?,benefit_coverage
+,How much will I pay out of pocket for an abdominal ultrasound?,How much will I pay out of pocket for an abdominal ultrasound?,benefit_coverage
+,How much will I pay out of pocket for an MASKING_PROCEDURE_NAME_1?,How much will I pay out of pocket for an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How much will I owe for a certain procedure?,How much will I owe for a certain procedure?,benefit_coverage
+,How much will I have to pay to get my wisdom teeth removed?,How much will I have to pay to get my wisdom teeth removed?,benefit_coverage
+,How much will I have to pay to get my MASKING_PROCEDURE_NAME_1?,How much will I have to pay to get my MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How much will I have to pay out of pocket for lab work?,How much will I have to pay out of pocket for lab work?,benefit_coverage
+,How much will I have to pay out of pocket for an MRI?,How much will I have to pay out of pocket for an MRI?,benefit_coverage
+,How much will I have to pay out of pocket for MASKING_MEDICAL_CONDITION_1 work?,How much will I have to pay out of pocket for MASKING_MEDICAL_CONDITION_1 work?,benefit_coverage
+,How much out of pocket costs will I have to pay for an x-ray?,How much out of pocket costs will I have to pay for an x-ray?,benefit_coverage
+,How much out of pocket costs will I have to pay for an MASKING_PROCEDURE_NAME_1?,How much out of pocket costs will I have to pay for an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Are glasses covered?,Are glasses covered?,benefit_coverage
+,Are eye exams included in my insurance?,Are eye exams included in my insurance?,benefit_coverage
+,Are dental xrays covered with my medical imaging insurance?,Are dental xrays covered with my medical imaging insurance?,benefit_coverage
+,How much of my MRI scan will you cover?,How much of my MRI scan will you cover?,benefit_coverage
+,Where can I get a new insulin pump?,Where can I get a new insulin pump?,benefit_coverage
+,What kind of doctor do I need to see to have my strep test covered by Insurance?,What kind of doctor do I need to see to have my strep test covered by Insurance?,benefit_coverage
+,what will my coverage pay for the rehab my doctor recommended?,what will my coverage pay for the rehab my doctor recommended?,benefit_coverage
+,what will my coverage pay for the MASKING_PROVIDER_SPECIALTY_1 my MASKING_PROFESSIONAL_GROUP_1 recommended?,what will my coverage pay for the MASKING_PROVIDER_SPECIALTY_1 my MASKING_PROFESSIONAL_GROUP_1 recommended?,benefit_coverage
+,How much can I claim back for a gp visit?,How much can I claim back for a gp visit?,benefit_coverage
+,How much can I claim back for a gp MASKING_PROCEDURE_NAME_1?,How much can I claim back for a gp MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How much am I covered for massages?,How much am I covered for massages?,benefit_coverage
+,How much am I covered for MASKING_PROCEDURE_NAME_1?,How much am I covered for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,How many PT sessions are covered? What is my copay for PT?,How many PT sessions are covered? What is my copay for PT?,benefit_coverage
+,do I have MASKING_PROCEDURE_NAME_1 coverage as a benefit? My MASKING_DEPENDENT_RELATIONSHIP_1 will need this,do I have MASKING_PROCEDURE_NAME_1 coverage as a benefit? My MASKING_DEPENDENT_RELATIONSHIP_1 will need this,benefit_coverage
+,can i have a colonoscopy,can i have a colonoscopy,benefit_coverage
+,can i have a MASKING_PROCEDURE_NAME_1,can i have a MASKING_PROCEDURE_NAME_1,benefit_coverage
+,can i get a new hip?,can i get a new hip?,benefit_coverage
+,I've just dicovered that I'm pregnant and want to see what maternity care is available to me on my current plan.,I've just dicovered that I'm pregnant and want to see what maternity care is available to me on my current plan.,benefit_coverage
+,I've just dicovered that I'm pregnant and want to see what MASKING_PROVIDER_SPECIALTY_1 is available to me on my current plan.,I've just dicovered that I'm pregnant and want to see what MASKING_PROVIDER_SPECIALTY_1 is available to me on my current plan.,benefit_coverage
+,Are the MASKING_PROCEDURE_NAME_1 for MASKING_MEDICAL_CONDITION_1 covered? How much do I have to pay to get a new one? The one I have is old so I should probably replace it,Are the MASKING_PROCEDURE_NAME_1 for MASKING_MEDICAL_CONDITION_1 covered? How much do I have to pay to get a new one? The one I have is old so I should probably replace it,benefit_coverage
+,Does my insurance cover an MRI?,Does my insurance cover an MRI?,benefit_coverage
+,Does my insurance cover an MASKING_PROCEDURE_NAME_1?,Does my insurance cover an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Does my insurance cover MASKING_PROCEDURE_NAME_1?,Does my insurance cover MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Does my health insurance cover cosmetic treatments at the dermatologist?,Does my health insurance cover cosmetic treatments at the dermatologist?,benefit_coverage
+,Does my health insurance cover cavity fillings at the dentist?,Does my health insurance cover cavity fillings at the dentist?,benefit_coverage
+,Does my health insurance cover a dermatologist?,Does my health insurance cover a dermatologist?,benefit_coverage
+,Does my MASKING_PROCEDURE_NAME_1 have to be with an RMT for it to be covered?,Does my MASKING_PROCEDURE_NAME_1 have to be with an RMT for it to be covered?,benefit_coverage
+,Does my MASKING_PROCEDURE_NAME_1 cover a MASKING_PROVIDER_SPECIALTY_1?,Does my MASKING_PROCEDURE_NAME_1 cover a MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,Does my MASKING_PROCEDURE_NAME_1 cover MASKING_PROCEDURE_NAME_6 MASKING_PROCEDURE_NAME_3 at the MASKING_PROVIDER_SPECIALTY_1?,Does my MASKING_PROCEDURE_NAME_1 cover MASKING_PROCEDURE_NAME_6 MASKING_PROCEDURE_NAME_3 at the MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,Does my MASKING_PROCEDURE_NAME_1 cover MASKING_MEDICAL_CONDITION_1 fillings at the MASKING_PROFESSIONAL_GROUP_1?,Does my MASKING_PROCEDURE_NAME_1 cover MASKING_MEDICAL_CONDITION_1 fillings at the MASKING_PROFESSIONAL_GROUP_1?,benefit_coverage
+,What are my benefits when it comes to Flu Vaccines?,What are my benefits when it comes to Flu Vaccines?,benefit_coverage
+,What MASKING_PROCEDURE_NAME_3 are covered under a MASKING_PROCEDURE_NAME_1?,What MASKING_PROCEDURE_NAME_3 are covered under a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,What MASKING_PROCEDURE_NAME_1 does my policy cover?,What MASKING_PROCEDURE_NAME_1 does my policy cover?,benefit_coverage
+,Want to get MRI by Dr. Rumancik,Want to get MRI by Dr. Rumancik,benefit_coverage
+,Want to get MASKING_PROCEDURE_NAME_1 by Dr. MASKING_PERSON_NAME_1,Want to get MASKING_PROCEDURE_NAME_1 by Dr. MASKING_PERSON_NAME_1,benefit_coverage
+,"Under my present insurance, can I get a nuchal translucency scan","Under my present insurance, can I get a nuchal translucency scan",benefit_coverage
+,"Under my present insurance, can I get a MASKING_PROCEDURE_NAME_1","Under my present insurance, can I get a MASKING_PROCEDURE_NAME_1",benefit_coverage
+,How much will an eye check up cost,How much will an eye check up cost,benefit_coverage
+,Am I covered for anything?,Am I covered for anything?,benefit_coverage
+,Am I elegible to have a MASKING_PROCEDURE_NAME_1?,Am I elegible to have a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,Am I elegible to have a total knee replacement?,Am I elegible to have a total knee replacement?,benefit_coverage
+,Am I eligible for my MASKING_PROCEDURE_NAME_1 MASKING_PROCEDURE_NAME_2?,Am I eligible for my MASKING_PROCEDURE_NAME_1 MASKING_PROCEDURE_NAME_2?,benefit_coverage
+,Do you cover mental health benefits?,Do you cover mental health benefits?,benefit_coverage
+,Do I have to pay for flu shots or are they covered?,Do I have to pay for flu shots or are they covered?,benefit_coverage
+,MASKING_PROVIDER_SPECIALTY_1,MASKING_PROVIDER_SPECIALTY_1,benefit_coverage
+,My MASKING_DEPENDENT_RELATIONSHIP_1 has been MASKING_PROCEDURE_NAME_1.  Is it a covered benefit?,My MASKING_DEPENDENT_RELATIONSHIP_1 has been MASKING_PROCEDURE_NAME_1.  Is it a covered benefit?,benefit_coverage
+,My MASKING_DEPENDENT_RELATIONSHIP_1 is MASKING_NUMBER_a months pregnant. Does she qualify to get a MASKING_PROCEDURE_NAME_1?,My MASKING_DEPENDENT_RELATIONSHIP_1 is MASKING_NUMBER_a months pregnant. Does she qualify to get a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,My MASKING_DEPENDENT_RELATIONSHIP_1 is MASKING_NUMBER_a.  Are his well MASKING_PROCEDURE_NAME_1 still covered by my insurance?,My MASKING_DEPENDENT_RELATIONSHIP_1 is MASKING_NUMBER_a.  Are his well MASKING_PROCEDURE_NAME_1 still covered by my insurance?,benefit_coverage
+,My MASKING_DEPENDENT_RELATIONSHIP_1 is considering MASKING_PROVIDER_SPECIALTY_1,My MASKING_DEPENDENT_RELATIONSHIP_1 is considering MASKING_PROVIDER_SPECIALTY_1,benefit_coverage
+,Can I get an MASKING_PROCEDURE_NAME_1?,Can I get an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,how much is remaining in my deductible?,how much is remaining in my deductible?,deductible_oop_inquiry
+,How much did I pay out-of-pocket in 2017?,How much did I pay out-of-pocket in 2017?,deductible_oop_inquiry
+,How much is left on my deductible?,How much is left on my deductible?,deductible_oop_inquiry
+,"I have a high deductible MASKING_PROCEDURE_NAME_1 policy with HSA, how much is the MASKING_DEPENDENT_RELATIONSHIP_1 deductible for this year?","I have a high deductible MASKING_PROCEDURE_NAME_1 policy with HSA, how much is the MASKING_DEPENDENT_RELATIONSHIP_1 deductible for this year?",deductible_oop_inquiry
+,does the co-pay for MASKING_PROCEDURE_NAME_1 count towards my deductible?,does the co-pay for MASKING_PROCEDURE_NAME_1 count towards my deductible?,deductible_oop_inquiry
+,MASKING_PROCEDURE_NAME_1 met his individual annual deductible?,MASKING_PROCEDURE_NAME_1 met his individual annual deductible?,deductible_oop_inquiry
+,How much is my deductible?,How much is my deductible?,deductible_oop_inquiry
+,What's the out of pocket maximum on my personal insurance plan?,What's the out of pocket maximum on my personal insurance plan?,deductible_oop_inquiry
+,What is my coinsurance out of pocket maximum?,What is my coinsurance out of pocket maximum?,deductible_oop_inquiry
+,How much did I pay out-of-pocket in MASKING_NUMBER_a?,How much did I pay out-of-pocket in MASKING_NUMBER_a?,deductible_oop_inquiry
+,Is there an individual deductible maximum within our family deductible amount?,Is there an individual deductible maximum within our family deductible amount?,deductible_oop_inquiry
+,how much of my deductible is remaining?,how much of my deductible is remaining?,deductible_oop_inquiry
+,I want to know if I have met my deductible yet this year.,I want to know if I have met my deductible yet this year.,deductible_oop_inquiry
+,what is my out-of-pocket-maximum for this year?,what is my out-of-pocket-maximum for this year?,deductible_oop_inquiry
+,"Currently, how much of my deductible and my family deductible threshold amounts are satisfied for this year?","Currently, how much of my deductible and my family deductible threshold amounts are satisfied for this year?",deductible_oop_inquiry
+,"Currently, how much of my deductible and my MASKING_DEPENDENT_RELATIONSHIP_1 deductible threshold amounts are satisfied for this year?","Currently, how much of my deductible and my MASKING_DEPENDENT_RELATIONSHIP_1 deductible threshold amounts are satisfied for this year?",deductible_oop_inquiry
+,How much is my out of pocket maximum?,How much is my out of pocket maximum?,deductible_oop_inquiry
+,How close to my deductible am I?,How close to my deductible am I?,deductible_oop_inquiry
+,Have I reached my annual deductible yet?,Have I reached my annual deductible yet?,deductible_oop_inquiry
+,What are my deductibles?,What are my deductibles?,deductible_oop_inquiry
+,Has my child met his individual annual deductible?,Has my child met his individual annual deductible?,deductible_oop_inquiry
+,How much more do I have to spend to meet the deductible of my high-deductible plan?,How much more do I have to spend to meet the deductible of my high-deductible plan?,deductible_oop_inquiry
+,Can you tell me if my deductible has been met on my insurance ?,Can you tell me if my deductible has been met on my insurance ?,deductible_oop_inquiry
+,how do i know if i met my detectible,how do i know if i met my detectible,deductible_oop_inquiry
+,Will the cost of this service exhaust my deductible?,Will the cost of this service exhaust my deductible?,deductible_oop_inquiry
+,Is there an individual deductible maximum within our MASKING_DEPENDENT_RELATIONSHIP_1 deductible amount?,Is there an individual deductible maximum within our MASKING_DEPENDENT_RELATIONSHIP_1 deductible amount?,deductible_oop_inquiry
+,How much of my deductible do I have left?,How much of my deductible do I have left?,deductible_oop_inquiry
+,What is my out of pocket maximum?,What is my out of pocket maximum?,deductible_oop_inquiry
+,Where am I relative to my out of pocket max?,Where am I relative to my out of pocket max?,deductible_oop_inquiry
+,"What happens when I exceed my ""Annual Deductible""?","What happens when I exceed my ""Annual Deductible""?",deductible_oop_inquiry
+,"I have a high deductible health insurance policy with HSA, how much is the family deductible for this year?","I have a high deductible health insurance policy with HSA, how much is the family deductible for this year?",deductible_oop_inquiry
+,MASKING_PERSON_NAME_1 the cost of this service MASKING_MEDICAL_CONDITION_1 my deductible?,MASKING_PERSON_NAME_1 the cost of this service MASKING_MEDICAL_CONDITION_1 my deductible?,deductible_oop_inquiry
+,What is my MASKING_DEPENDENT_RELATIONSHIP_1 deductible?,What is my MASKING_DEPENDENT_RELATIONSHIP_1 deductible?,deductible_oop_inquiry
+,How much of my annual deductible have I met?,How much of my annual deductible have I met?,deductible_oop_inquiry
+,Where am I on hitting my deductible?,Where am I on hitting my deductible?,deductible_oop_inquiry
+,What is my family deductible?,What is my family deductible?,deductible_oop_inquiry
+,How close am I to hitting my deductible?,How close am I to hitting my deductible?,deductible_oop_inquiry
+,How much do I have left until I hit my deductible?,How much do I have left until I hit my deductible?,deductible_oop_inquiry
+,What is my deductible?,What is my deductible?,deductible_oop_inquiry
+,does the co-pay for office visit count towards my deductible?,does the co-pay for office visit count towards my deductible?,deductible_oop_inquiry
+,Hi! I wanted to know how much is my deductible?,Hi! I wanted to know how much is my deductible?,deductible_oop_inquiry
+,What is my deductible for in-network?,What is my deductible for in-network?,deductible_oop_inquiry
+,Have I met my deductible?,Have I met my deductible?,deductible_oop_inquiry
+,I'm not sure what option to take,I'm not sure what option to take,dont_know_yet_maybe
+,unknown,unknown,dont_know_yet_maybe
+,Maybe I will choose X option,Maybe I will choose X option,dont_know_yet_maybe
+,I haven't decided yet,I haven't decided yet,dont_know_yet_maybe
+,I don't know,I don't know,dont_know_yet_maybe
+,no idea,no idea,dont_know_yet_maybe
+,Both options seems relevant,Both options seems relevant,dont_know_yet_maybe
+,I can not choose now,I can not choose now,dont_know_yet_maybe
+,Cool,Cool,exclaimation_positive
+,"good, thanks","good, thanks",exclaimation_positive
+,Super,Super,exclaimation_positive
+,this is awesome,this is awesome,exclaimation_positive
+,cool beans,cool beans,exclaimation_positive
+,thx,thx,exclaimation_positive
+,Awesome,Awesome,exclaimation_positive
+,"thanks, good","thanks, good",exclaimation_positive
+,wonderful,wonderful,exclaimation_positive
+,alright,alright,exclaimation_positive
+,terrific,terrific,exclaimation_positive
+,i love this,i love this,exclaimation_positive
+,amazing!,amazing!,exclaimation_positive
+,"i can, just one sec","i can, just one sec",exclaimation_positive
+,thats cute,thats cute,exclaimation_positive
+,incredible,incredible,exclaimation_positive
+,that would be great,that would be great,exclaimation_positive
+,excellent,excellent,exclaimation_positive
+,adorable,adorable,exclaimation_positive
+,thank you,thank you,exclaimation_positive
+,it didnt work,it didnt work,exclamation_negative
+,wrong answer,wrong answer,exclamation_negative
+,there is an error,there is an error,exclamation_negative
+,ugh. annoyed,ugh. annoyed,exclamation_negative
+,you are not right,you are not right,exclamation_negative
+,that sucks,that sucks,exclamation_negative
+,shit,shit,exclamation_negative
+,absolutely not,absolutely not,exclamation_negative
+,you are wrong,you are wrong,exclamation_negative
+,that did not work,that did not work,exclamation_negative
+,I dont think so,I dont think so,exclamation_negative
+,very disapointing to hear that,very disapointing to hear that,feelings_bad
+,horrible!,horrible!,feelings_bad
+,not great,not great,feelings_bad
+,not too great,not too great,feelings_bad
+,really bad,really bad,feelings_bad
+,shitty,shitty,feelings_bad
+,not doing good,not doing good,feelings_bad
+,i am not happy,i am not happy,feelings_bad
+,not so good,not so good,feelings_bad
+,not too goo,not too goo,feelings_bad
+,unwell,unwell,feelings_bad
+,bad,bad,feelings_bad
+,im unhappy,im unhappy,feelings_bad
+,this is awful,this is awful,feelings_bad
+,this sucks,this sucks,feelings_bad
+,not too good...,not too good...,feelings_bad
+,not okay,not okay,feelings_bad
+,awful,awful,feelings_bad
+,im quite dissapointed,im quite dissapointed,feelings_bad
+,crappy,crappy,feelings_bad
+,im sad,im sad,feelings_bad
+,ive had better days,ive had better days,feelings_bad
+,i hate you,i hate you,feelings_bad
+,sucks,sucks,feelings_bad
+,not doing well,not doing well,feelings_bad
+,not good,not good,feelings_bad
+,ive been better,ive been better,feelings_bad
+,this is the worst,this is the worst,feelings_bad
+,terrible,terrible,feelings_bad
+,not well,not well,feelings_bad
+,that's dissapointing,that's dissapointing,feelings_bad
+,the worst!,the worst!,feelings_bad
+,not the best,not the best,feelings_bad
+,this is frustrating,this is frustrating,feelings_bad
+,poor,poor,feelings_bad
+,great,great,feelings_good
+,can't complain,can't complain,feelings_good
+,goo,goo,feelings_good
+,pretty great,pretty great,feelings_good
+,pretty good,pretty good,feelings_good
+,not bad,not bad,feelings_good
+,really good,really good,feelings_good
+,well,well,feelings_good
+,not too bad,not too bad,feelings_good
+,no complaints,no complaints,feelings_good
+,im happy,im happy,feelings_good
+,good,good,feelings_good
+,goo u,goo u,feelings_good
+,I'm doing well,I'm doing well,feelings_good
+,pretty well,pretty well,feelings_good
+,cooooooooooooool,cooooooooooooool,feelings_good
+,good goo,good goo,feelings_good
+,I need to go to MASKING_PROCEDURE_NAME_1 what is my coverage,I need to go to MASKING_PROCEDURE_NAME_1 what is my coverage,medical_emergency
+,Do I have to MASKING_PROCEDURE_NAME_4 you before going to MASKING_PROCEDURE_NAME_1?,Do I have to MASKING_PROCEDURE_NAME_4 you before going to MASKING_PROCEDURE_NAME_1?,medical_emergency
+,"Help, I'm out of town and am injured. Who should I see?","Help, I'm out of town and am injured. Who should I see?",medical_emergency
+,Do I have to inform you before going to emergency care?,Do I have to inform you before going to emergency care?,medical_emergency
+,I have an MASKING_PROCEDURE_NAME_1...,I have an MASKING_PROCEDURE_NAME_1...,medical_emergency
+,I'm having severe pain in the belly. Can I go to ER?,I'm having severe pain in the belly. Can I go to ER?,medical_emergency
+,how does it work with medical emergency,how does it work with medical emergency,medical_emergency
+,do i need to get approval for an emergency?,do i need to get approval for an emergency?,medical_emergency
+,Do I need to call the insurance department if I am having a medical emergency?,Do I need to call the insurance department if I am having a medical emergency?,medical_emergency
+,I have an emergency...,I have an emergency...,medical_emergency
+,should I let you know when I have a medical emergency?,should I let you know when I have a medical emergency?,medical_emergency
+,I need to go to ER what is my coverage,I need to go to ER what is my coverage,medical_emergency
+,do i need to get approval for an MASKING_PROCEDURE_NAME_1?,do i need to get approval for an MASKING_PROCEDURE_NAME_1?,medical_emergency
+,I'm having MASKING_PROCEDURE_NAME_1. Can I go to MASKING_PROCEDURE_NAME_2?,I'm having MASKING_PROCEDURE_NAME_1. Can I go to MASKING_PROCEDURE_NAME_2?,medical_emergency
+,no thanks,no thanks,no
+,"sorry, no","sorry, no",no
+,n,n,no
+,don't want,don't want,no
+,not,not,no
+,no,no,no
+,nothing,nothing,no
+,nop,nop,no
+,"No, that's it","No, that's it",no
+,yep,yep,yes
+,okay,okay,yes
+,sure,sure,yes
+,y,y,yes
+,ok,ok,yes
+,k,k,yes
+,yup,yup,yes
+,yes,yes,yes

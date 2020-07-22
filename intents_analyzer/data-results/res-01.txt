@@ -1,0 +1,6 @@
+Utterence: *** can i meet my deductible with copays? *** Intent: *** deductible_oop_inquiry
+Utterence: *** Maximum yearly amount for mental health care *** Intent: *** benefit_coverage
+Utterence: *** after meeting deductable *** Intent: *** INTENT_NOT_FOUND
+Utterence: *** am i close to meeting my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** calendar year or plan year deductible accumulation *** Intent: *** deductible_oop_inquiry
+Utterence: *** can i get the cost that has to be paid before i do anything can you help with that thanks *** Intent: *** exclaimation_positive

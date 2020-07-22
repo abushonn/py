@@ -1,0 +1,357 @@
+ benefit_coverage	 is there a separate deductible for mental health benefits 	 Intent: 	Utterence: 
+ benefit_coverage	 deductible for substance abuse services 		
+ benefit_coverage	 what is the deductible for mental health 		
+ benefit_coverage	 Is there a lifetime cap on mental health care 		
+ benefit_coverage	 Behavioral health lifetime limit 		
+ benefit_coverage	 Is there a year-over-year limit on rehab expenses? 		
+ benefit_coverage	 Lifetime max for mental health 		
+ benefit_coverage	 What's the most I could possibly pay if I have to send my son to rehab 		
+ benefit_coverage	 Is there a separate annual limit for mental health benefits? 		
+ benefit_coverage	 Maximum yearly amount for mental health care 		
+ benefit_coverage	 do i need to meet my deductible for preventative care 		
+ benefit_coverage	 do i need to meet my deductible for preventive immunizations 		
+ benefit_coverage	 does the deductible apply for preventive care 		
+ benefit_coverage	 how much do i have to pay before medical insurance will cover my expenses 		
+ benefit_coverage	 if i have covered family members under an hsa eligible plan option how do the deductibles work 		
+ benefit_coverage	 is there a dollar amount that has to be paid before i go to a doctor 		
+ benefit_coverage	 is there a preventive immunization care deductible 		
+ benefit_coverage	 tracking my deductable 		
+ benefit_coverage	 what is my ded 		
+ benefit_coverage	 what is my medical deductable 		
+ benefit_coverage	 what is the amount of money i need to meet each year before things are covered 		
+ benefit_coverage	 what will i pay after meeting family deductable 		
+ benefit_coverage	 why does kaiser only pay for a portion of my procedure costs 		
+ benefit_coverage	 are there other deductibles for special services 		
+ benefit_coverage	 is there a lifetime limit on any services covered on this plan 		
+ benefit_coverage	 is there a lifetime maximum plan benefit 		
+ benefit_coverage	 is there a monetary limit for covered services 		
+ benefit_coverage	 is there an annual limit on any services covered on this plan 		
+ benefit_coverage	 lifetime limit for covered services on plan 		
+ benefit_coverage	 annual limit for the consumer choice plan 		
+ benefit_coverage	 at what point does the plan pay 100 percent 		
+ benefit_coverage	 can what i spend on copays count toward meeting my oopm 		
+ benefit_coverage	 can you confirm what the max out of pocket cost for my plan is 		
+ benefit_coverage	 does my copay accumulate to meeting my oopm 		
+ benefit_coverage	 how do i check my out of pocket blanace 		
+ benefit_coverage	 how much will i have to pay out of pocket 		
+ benefit_coverage	 how much will i pay out of pocket 		
+ benefit_coverage	 i want to know what is the most i could possibly have to pay each year for health care 		
+ benefit_coverage	 is there a maximum payment per year for a family 		
+ benefit_coverage	 what does my copay accumulate towards 		
+ benefit_coverage	 what happens if i meet my out of pocket 		
+ benefit_coverage	 what happens if i spend over the out of pocket limit on my health plan 		
+ benefit_coverage	 what is an out of pocket max 		
+ benefit_coverage	 what is my current oop 		
+ benefit_coverage	 what is my oop 		
+ benefit_coverage	 what is my out of pocket 		
+ benefit_coverage	 what is my out of pocket cost with my kaiser plan 		
+ benefit_coverage	 what is my total out of pocket 		
+ benefit_coverage	 what is the most i have to pay each year for healthcare 		
+ benefit_coverage	 what is the most i might pay for care in a year on my plan 		
+ benefit_coverage	 what is the out of pocket limit on my health plan 		
+ benefit_coverage	 what would my highest out of pocket be 		
+ benefit_coverage	 what would the highest amount i have to pay for in the year be 		
+ benefit_coverage	 will my copays accumulate toward something 		
+ benefit_coverage	 will paying copays help me reach my out of pocket max 		
+ benefit_coverage	 will the plan ever cover 100 percent 		
+ benefit_coverage	 will the plan ever pay for everything 		
+ benefit_coverage	 what is my pharmacy deductable 		
+ benefit_coverage	 can you tell me if there is a different deductible for prescription meds 		
+ benefit_coverage	 does the dedictbile include my costs for prescription meds 		
+ benefit_coverage	 how much is my deductible for medication 		
+ benefit_coverage	 if i need an rx is there a different dedcutible for those do you know 		
+ benefit_coverage	 is there a separate deductible for rxs 		
+ benefit_coverage	 is there another deductible for the pharmacy 		
+ benefit_coverage	 is there any kind of different dollar amount that i have to pay before i get prescriptions 		
+ benefit_coverage	 what is my deductible for an rx 		
+ benefit_coverage	 what is my deductible for pres meds 		
+ benefit_coverage	 what is my pharmacy deductible for my meds 		
+ benefit_coverage	 what is the amount for the pharmacy deductible 		
+ benefit_coverage	 is there a lifetime max on medication costs? 		
+ benefit_coverage	 how much will the play pay per lifetime for prescriptions? 		
+ benefit_coverage	 lifetime cap for prescriptions 		
+ deductible_oop_inquiry	 mental health deductible 		
+ deductible_oop_inquiry	 do behavioral health services apply toward the regular deductible 		
+ deductible_oop_inquiry	 What is the out of pocket maximum for substance abuse services? 		
+ deductible_oop_inquiry	 Do mental health services apply to the out of pocket max? 		
+ deductible_oop_inquiry	 am i close to meeting my deductible 		
+ deductible_oop_inquiry	 calendar year or plan year deductible accumulation 		
+ deductible_oop_inquiry	 can i meet my deductible with copays 		
+ deductible_oop_inquiry	 can i satisfy the whole family deductible myself 		
+ deductible_oop_inquiry	 can the full 3000 deductible be met by one participant in the plan 		
+ deductible_oop_inquiry	 can what i spend on copays count toward meeting my deductible 		
+ deductible_oop_inquiry	 can you see how much i have paid towards my deductable 		
+ deductible_oop_inquiry	 can you tell me what my deductible is 		
+ deductible_oop_inquiry	 carryover of deductible 		
+ deductible_oop_inquiry	 cost to meet in network deductible 		
+ deductible_oop_inquiry	 cost to meet out of network deductible 		
+ deductible_oop_inquiry	 deductible amount 		
+ deductible_oop_inquiry	 deductible based on calendar year or plan year 		
+ deductible_oop_inquiry	 deductible limit 		
+ deductible_oop_inquiry	 deductible totals 		
+ deductible_oop_inquiry	 do i have a deductible 		
+ deductible_oop_inquiry	 do i pay 100 percent until i meet the individual deductable 		
+ deductible_oop_inquiry	 do you know if i have a deductible that i need to pay thanks 		
+ deductible_oop_inquiry	 do you know if i have met my deductible yet 		
+ deductible_oop_inquiry	 does deductible carryover 		
+ deductible_oop_inquiry	 does my copay accumulate toward my deductible 		
+ deductible_oop_inquiry	 does my copay count toward my deductible 		
+ deductible_oop_inquiry	 does my deductible accumulate during my calendar year or plan year 		
+ deductible_oop_inquiry	 does my deductible need to be met before my plan will pay on claims 		
+ deductible_oop_inquiry	 does my plan have an in network deductible 		
+ deductible_oop_inquiry	 does my plan have an overall in network deductible 		
+ deductible_oop_inquiry	 does paying copays help me reach my overall in network deductible 		
+ deductible_oop_inquiry	 family deductable 		
+ deductible_oop_inquiry	 has my deductible been met 		
+ deductible_oop_inquiry	 have i met m y deductible 		
+ deductible_oop_inquiry	 have i met my deductible 		
+ deductible_oop_inquiry	 have i reached my deductubles 		
+ deductible_oop_inquiry	 have i used my deductible 		
+ deductible_oop_inquiry	 hello what is my deductible 		
+ deductible_oop_inquiry	 hi can you tell me if i have met my deductible thanks 		
+ deductible_oop_inquiry	 hi i thought that i had already met my deductible so why did i get a bill 		
+ deductible_oop_inquiry	 how do i find out if i have met my deductable 		
+ deductible_oop_inquiry	 how do i meet my deductible 		
+ deductible_oop_inquiry	 how do i meet my overall in network deductible 		
+ deductible_oop_inquiry	 how do i meet my overall out of network deductible 		
+ deductible_oop_inquiry	 how does it work with with my deductible 		
+ deductible_oop_inquiry	 how does my deductible work 		
+ deductible_oop_inquiry	 how does the deductible work 		
+ deductible_oop_inquiry	 how much do i have left on my deductible 		
+ deductible_oop_inquiry	 how much do i have to pay before the plan begins to pay 		
+ deductible_oop_inquiry	 how much do i have to pay before the plan pays 		
+ deductible_oop_inquiry	 how much do i have to spend before i meet my deductible 		
+ deductible_oop_inquiry	 how much do i need to spend before meeting my in network deductible 		
+ deductible_oop_inquiry	 how much have i paid towards my deductible so far 		
+ deductible_oop_inquiry	 how much have i paid towards my deductiblee 		
+ deductible_oop_inquiry	 how much is left in my deductible 		
+ deductible_oop_inquiry	 how much is left on my deductible 		
+ deductible_oop_inquiry	 how much is the deductable 		
+ deductible_oop_inquiry	 how much is my deductible 		
+ deductible_oop_inquiry	 how much is my non network deductible 		
+ deductible_oop_inquiry	 how much of my deductible has been met 		
+ deductible_oop_inquiry	 how much of my deductible i have spent already 		
+ deductible_oop_inquiry	 i know that i have that amount i have to pay toward medical first can you tell me how much is left to pay 		
+ deductible_oop_inquiry	 i need to find out what my deductible balance is do you know 		
+ deductible_oop_inquiry	 if i am paying for health services outside of the network is there ways i can save money or it go to my deductible 		
+ deductible_oop_inquiry	 in network deductible 		
+ deductible_oop_inquiry	 is a deductible on a per surgery basis or once you hit the 2700 deductible you no longer pay 		
+ deductible_oop_inquiry	 is the deductible based on the calendar year or plan year 		
+ deductible_oop_inquiry	 is there a limit per participant on reaching the maximum family deductible 		
+ deductible_oop_inquiry	 is there a preventive care deductible 		
+ deductible_oop_inquiry	 is there a deductible on my plan 		
+ deductible_oop_inquiry	 must individual meet the family deductible 		
+ deductible_oop_inquiry	 my deductible is how much 		
+ deductible_oop_inquiry	 my insurance year is july june will costs in may and june count towards this years deductible 		
+ deductible_oop_inquiry	 non network deductible 		
+ deductible_oop_inquiry	 on my plan what is the deductable amount 		
+ deductible_oop_inquiry	 out of network deductible 		
+ deductible_oop_inquiry	 uhc only paid a part of my visit even though i met my deductible 		
+ deductible_oop_inquiry	 ways to meet my deductible 		
+ deductible_oop_inquiry	 wha tis my deductible 		
+ deductible_oop_inquiry	 what are my current deductibles 		
+ deductible_oop_inquiry	 what are my deductibles 		
+ deductible_oop_inquiry	 what are my in network limits 		
+ deductible_oop_inquiry	 what are the deductibles 		
+ deductible_oop_inquiry	 what counts toward meeting my deductible 		
+ deductible_oop_inquiry	 what deductible amount do i have to meet 		
+ deductible_oop_inquiry	 what does insurance cover once i meet my deductible 		
+ deductible_oop_inquiry	 what happens after deductible has been met 		
+ deductible_oop_inquiry	 what helps me meet my deductible 		
+ deductible_oop_inquiry	 what is my annual deductible 		
+ deductible_oop_inquiry	 what is my current deductible amount 		
+ deductible_oop_inquiry	 what is my deductable 		
+ deductible_oop_inquiry	 what is my deductibe 		
+ deductible_oop_inquiry	 what is my deductible 		
+ deductible_oop_inquiry	 what is my family deductible 		
+ deductible_oop_inquiry	 what is my health deductible 		
+ deductible_oop_inquiry	 what is my individual ded 		
+ deductible_oop_inquiry	 what is my individual deductible 		
+ deductible_oop_inquiry	 what is my overall deductible 		
+ deductible_oop_inquiry	 what is my overall non network deductible 		
+ deductible_oop_inquiry	 what is my plan deductible 		
+ deductible_oop_inquiry	 what is my plans individual deductible 		
+ deductible_oop_inquiry	 what is my preventive deductible 		
+ deductible_oop_inquiry	 what is my preventive immunization deductible 		
+ deductible_oop_inquiry	 what is my total deductable 		
+ deductible_oop_inquiry	 what is the amount for meeting my deductible 		
+ deductible_oop_inquiry	 what is the deductible 		
+ deductible_oop_inquiry	 what is the deductible on my plan 		
+ deductible_oop_inquiry	 what is the deductible this year 		
+ deductible_oop_inquiry	 what is the in network deductible 		
+ deductible_oop_inquiry	 what is the maximum out of pocket deductable 		
+ deductible_oop_inquiry	 what is the out of network deductible amount 		
+ deductible_oop_inquiry	 what is the overall deductible 		
+ deductible_oop_inquiry	 when does my deductible reset 		
+ deductible_oop_inquiry	 where am i with my deductible 		
+ deductible_oop_inquiry	 why am i getting bills if i met my deductible 		
+ deductible_oop_inquiry	 why did my plan not pay for everything after i met my deductible 		
+ deductible_oop_inquiry	 why do i still get a bill after meeting my deductible 		
+ deductible_oop_inquiry	 why does insurance only cover part of procedures even after i meet my deductible 		
+ deductible_oop_inquiry	 will paying copays help me reach my deductible 		
+ deductible_oop_inquiry	 with family coverage does each participant have to contribute a portion towards deductible 		
+ deductible_oop_inquiry	 yes can you tell me if i have a deductible or not 		
+ deductible_oop_inquiry	 how much is my deductible 		
+ deductible_oop_inquiry	 What out of pocket expenses are put toward my deductible 		
+ deductible_oop_inquiry	 are there condition specific deductibles 		
+ deductible_oop_inquiry	 are there special service deductibles 		
+ deductible_oop_inquiry	 do i have to meet a condition specific deductible 		
+ deductible_oop_inquiry	 do i have to meet a special service deductible 		
+ deductible_oop_inquiry	 does my plan have a condition specific deductible 		
+ deductible_oop_inquiry	 how much is my condition specific deductible 		
+ deductible_oop_inquiry	 how much is my special services deductible 		
+ deductible_oop_inquiry	 what is my condition specific deductible 		
+ deductible_oop_inquiry	 what is my special services deductible 		
+ deductible_oop_inquiry	 do i have a lifetime maximum 		
+ deductible_oop_inquiry	 how do i know when ive met my lifetime maximum 		
+ deductible_oop_inquiry	 is there a lifetime plan maximum 		
+ deductible_oop_inquiry	 lifetime maximum what is it 		
+ deductible_oop_inquiry	 lifetime plan maximum 		
+ deductible_oop_inquiry	 plan lifetime maximum 		
+ deductible_oop_inquiry	 what is my lifetime maximum 		
+ deductible_oop_inquiry	 what is my lifetime maximum on my plan 		
+ deductible_oop_inquiry	 amount of my in network out of pocket maximum 		
+ deductible_oop_inquiry	 amount of my non network out of pocket maximum 		
+ deductible_oop_inquiry	 amount of my out of network out of pocket maximum 		
+ deductible_oop_inquiry	 are copays included in out of pocket max 		
+ deductible_oop_inquiry	 can what i spend on copays count toward meeting my yearly max 		
+ deductible_oop_inquiry	 can what i spend on copays count toward my out of pocket maximum 		
+ deductible_oop_inquiry	 can you tell me how much my non network out of pocket maximum is 		
+ deductible_oop_inquiry	 comparison of in network vs out of network for out of pocket max 		
+ deductible_oop_inquiry	 copay count toward out of pocket maximum 		
+ deductible_oop_inquiry	 definition of out of pocket maximum 		
+ deductible_oop_inquiry	 do i get money spent over my out of pocket maximum refunded to me 		
+ deductible_oop_inquiry	 do in network charges still count towards my oopm 		
+ deductible_oop_inquiry	 do my copays count towards the plan out of pocket maximum 		
+ deductible_oop_inquiry	 do you know my in network out of pocket max 		
+ deductible_oop_inquiry	 do you know what my in network out of pocket max is 		
+ deductible_oop_inquiry	 does my coinsurance count toward my out of pocket maximum 		
+ deductible_oop_inquiry	 does my copay accumulate to meeting my out of pocket maximum oopm 		
+ deductible_oop_inquiry	 does my copay count toward my oopm 		
+ deductible_oop_inquiry	 does my family have to meet the out of pocket maximum if i have met mine to be covered 		
+ deductible_oop_inquiry	 does my pharmacy copay count towards the plan max 		
+ deductible_oop_inquiry	 does my plan have an out of pocket maximum 		
+ deductible_oop_inquiry	 does the family out of pocket maximum have to be reached before individual is covered 		
+ deductible_oop_inquiry	 does the plan every pay 100 percent 		
+ deductible_oop_inquiry	 have i met my out of pocket 		
+ deductible_oop_inquiry	 how do i know how much i have spent out of pocket 		
+ deductible_oop_inquiry	 how do i meet my yearly maximum 		
+ deductible_oop_inquiry	 how does the in network out of pocket maximum compare to out of network 		
+ deductible_oop_inquiry	 how much could i possibly have to pay in one year 		
+ deductible_oop_inquiry	 how much is in network out of pocket maximum compared to out of network 		
+ deductible_oop_inquiry	 how much is my in network yearly limit 		
+ deductible_oop_inquiry	 how much is my individual annual limit 		
+ deductible_oop_inquiry	 how much is my non network out of pocket max 		
+ deductible_oop_inquiry	 how much is my out of network out of pocket max 		
+ deductible_oop_inquiry	 how much is my out of network out of pocket maximum 		
+ deductible_oop_inquiry	 how much is my out of pocket maximum 		
+ deductible_oop_inquiry	 how much is the annual amount i have to pay 		
+ deductible_oop_inquiry	 how much is the max in network out of pocket maximum 		
+ deductible_oop_inquiry	 how much of my max have i used this year so far 		
+ deductible_oop_inquiry	 how much of my out of pocket have i met 		
+ deductible_oop_inquiry	 i am trying to figure out if the yearly limit is the same if i use providers who are not in the plan network 		
+ deductible_oop_inquiry	 i do not get it is the out of pocket maximum by individual or family 		
+ deductible_oop_inquiry	 i have a family plan is the max out of pocket per individual or per family 		
+ deductible_oop_inquiry	 if i go non network what is my out of pocket max 		
+ deductible_oop_inquiry	 if i stay in network what is my annual limit 		
+ deductible_oop_inquiry	 if my service was in network does it count towards my oop max 		
+ deductible_oop_inquiry	 in network out of pocket maximum 		
+ deductible_oop_inquiry	 information on out of pocket maximum coverage 		
+ deductible_oop_inquiry	 is my coinsurance included in my out of pocket max 		
+ deductible_oop_inquiry	 is my deductible amount the most i will have to pay in the year 		
+ deductible_oop_inquiry	 is the out of pocket max by family or individual 		
+ deductible_oop_inquiry	 is the out of pocket maximum by individual or do we have to keep paying until both my husband and i reach the maximum 		
+ deductible_oop_inquiry	 is there a separate non network out of pocket maximum 		
+ deductible_oop_inquiry	 is there a separate out of pocket maximum for in and out of network 		
+ deductible_oop_inquiry	 most i can pay out of pocket a year on plan 		
+ deductible_oop_inquiry	 most i will have to pay out of pocket 		
+ deductible_oop_inquiry	 on my plan what is my out of network out of pocket maximum 		
+ deductible_oop_inquiry	 out of network out of pocket maximum 		
+ deductible_oop_inquiry	 out of pocket maximum what is it 		
+ deductible_oop_inquiry	 please tell me what the max is we have to pay per person for per family unit 		
+ deductible_oop_inquiry	 the most i will pay per person out of pocket 		
+ deductible_oop_inquiry	 what bills count toward my annual max 		
+ deductible_oop_inquiry	 what counts toward my out of pocket max 		
+ deductible_oop_inquiry	 what counts toward my out of pocket maximum 		
+ deductible_oop_inquiry	 what do i need to spend to reach my out of pocket max 		
+ deductible_oop_inquiry	 what does the out of pocket maximum include 		
+ deductible_oop_inquiry	 what expenses counts towards my out of pocket maximum 		
+ deductible_oop_inquiry	 what is highest possible non network out of pocket cost 		
+ deductible_oop_inquiry	 what is in included in maximum out of pocket expenses 		
+ deductible_oop_inquiry	 what is maximum out of pocket expense 		
+ deductible_oop_inquiry	 what is my annual maximum 		
+ deductible_oop_inquiry	 what is my in network out of pocket maximum 		
+ deductible_oop_inquiry	 what is my in network vs out of network out of pocket maximum 		
+ deductible_oop_inquiry	 what is my individual oop 		
+ deductible_oop_inquiry	 what is my max out of pocket 		
+ deductible_oop_inquiry	 what is my maximum out of pocket 		
+ deductible_oop_inquiry	 what is my non network out of pocket max 		
+ deductible_oop_inquiry	 what is my oop max 		
+ deductible_oop_inquiry	 what is my out of network out of pocket max 		
+ deductible_oop_inquiry	 what is my out of network out of pocket maximum 		
+ deductible_oop_inquiry	 what is my out of pocket max 		
+ deductible_oop_inquiry	 what is my out of pocket maximum 		
+ deductible_oop_inquiry	 what is my yearly max 		
+ deductible_oop_inquiry	 what is my yearly out of pocket limit 		
+ deductible_oop_inquiry	 what is the annual maximum 		
+ deductible_oop_inquiry	 what is the difference in out of pocket maximums for in network and out of network 		
+ deductible_oop_inquiry	 what is the highest amount i will have to pay per year 		
+ deductible_oop_inquiry	 what is the max i will pay in a year 		
+ deductible_oop_inquiry	 what is the maximum in network out of pocket cost 		
+ deductible_oop_inquiry	 what is the maximum out of network out of pocket cost 		
+ deductible_oop_inquiry	 what is the most i have to pay each year 		
+ deductible_oop_inquiry	 what is the most i have to pay in a year 		
+ deductible_oop_inquiry	 what is the most i will have to pay this year 		
+ deductible_oop_inquiry	 what is the out of pocket max 		
+ deductible_oop_inquiry	 what is the out of pocket maximum for a family 		
+ deductible_oop_inquiry	 will my coinsurance count towards something 		
+ deductible_oop_inquiry	 will my copay count towards my out of pocket max 		
+ deductible_oop_inquiry	 will my prescription copays count toward out of pocket max 		
+ deductible_oop_inquiry	 will the co pay count towards my my out of pocket maximum 		
+ deductible_oop_inquiry	 will the coinsurance amounts count towards my oopm 		
+ deductible_oop_inquiry	 if i have coinsurance do i still have a out of pocket maximum i need to meet 		
+ deductible_oop_inquiry	 if ive already hit my out of pocket maximum does it matter if i go to an out of network provider 		
+ deductible_oop_inquiry	 are my prescriptions subject to a deductible 		
+ deductible_oop_inquiry	 do costs for perscriptions go toward my deductible 		
+ deductible_oop_inquiry	 do i have a prescription deductible soemtimes pills are cheaper through insurance even tho we have not met deductible 		
+ deductible_oop_inquiry	 do i have a rx deductible 		
+ deductible_oop_inquiry	 do i have to meet the deductible when i buy a drug 		
+ deductible_oop_inquiry	 do my prescription medications go towards the deductible 		
+ deductible_oop_inquiry	 do pharmacy expenses have their own deductible 		
+ deductible_oop_inquiry	 do scripts have a deductible 		
+ deductible_oop_inquiry	 do you know how much my deductible is for an rx 		
+ deductible_oop_inquiry	 does a pharmacy script apply towards the deductible 		
+ deductible_oop_inquiry	 does the deductible apply to prescriptions 		
+ deductible_oop_inquiry	 does the entire cost of the meds go toward the deductible until it is met 		
+ deductible_oop_inquiry	 how much is prescription drugs deductible 		
+ deductible_oop_inquiry	 i am wondering if pharamcy scripts count towards my deductible 		
+ deductible_oop_inquiry	 i think my deductible is 5 800 so my prescription cost goes against this is that correct 		
+ deductible_oop_inquiry	 is there a pharmacy deductible 		
+ deductible_oop_inquiry	 is there a prescription medication deductible 		
+ deductible_oop_inquiry	 once my prescription costs meet my deductible of 5 800 i would not have to pay anything towards my drugs 		
+ deductible_oop_inquiry	 tell me more about pharmacy deductible 		
+ deductible_oop_inquiry	 what does it mean that my plan does not have pharmacy deductible 		
+ deductible_oop_inquiry	 what is the prescription deductible 		
+ deductible_oop_inquiry	 do medication copays apply toward yearly out of pocket maximum 		
+ deductible_oop_inquiry	 do rx copays count toward out of pocket limit 		
+ deductible_oop_inquiry	 does my drug coverage have an out of pocket max too 		
+ deductible_oop_inquiry	 does my prescription copay count towards the out of pocket maximum 		
+ deductible_oop_inquiry	 prescription copay count toward annual out of pocket maximum 		
+ deductible_oop_inquiry	 prescription copay counts toward annual limit 		
+ deductible_oop_inquiry	 would my rx costs go towards the year out of pocket max 		
+ dont_know_yet_maybe	 what goes against the deducatble 		
+ exclaimation_positive	 can i get the cost that has to be paid before i do anything can you help with that thanks 		
+ exclaimation_positive	 hi can you tell me how does a deductible work i need to find out thanks 		
+ exclaimation_positive	 do you know if i will have to pay on a different dedcutible for my meds i need to find out thanks 		
+ exclamation_negative	 i know there is an amount that i have to pay first can you tell me more about that 		
+ feelings_good	 do i have to pay for claims before the plan starts to pay 		
+ INTENT_NOT_FOUND	 substance abuse services life time maximum 		
+ INTENT_NOT_FOUND	 after meeting deductable 		
+ INTENT_NOT_FOUND	 do co insurance payments accumulate towards anything 		
+ INTENT_NOT_FOUND	 what do co paymentss accumulate towards 		
+ INTENT_NOT_FOUND	 hi i am trying to figure out which prescriptions count for the deductible 		
+ INTENT_NOT_FOUND	 does optum set a year-over-year maximum on rx services? 		
+ INTENT_NOT_FOUND	 does the lifetime max apply to pharmacy services? 		
+ INTENT_NOT_FOUND	 do medication copays apply toward yeearly out of pocket max 		
+ medical_emergency	 is there an amount of charges i have to pay before the plan starts to pay 		
+ medical_emergency	 what is the amount i need to meet before coverage applies 		

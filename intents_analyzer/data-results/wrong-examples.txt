@@ -1,0 +1,88 @@
+ benefit_coverage	 is there a separate deductible for mental health benefits 	 Intent: 	Utterence: 
+ benefit_coverage	 deductible for substance abuse services 		
+ benefit_coverage	 what is the deductible for mental health 		
+ benefit_coverage	 Is there a lifetime cap on mental health care 		
+ benefit_coverage	 Behavioral health lifetime limit 		
+ benefit_coverage	 Is there a year-over-year limit on rehab expenses? 		
+ benefit_coverage	 Lifetime max for mental health 		
+ benefit_coverage	 What's the most I could possibly pay if I have to send my son to rehab 		
+ benefit_coverage	 Is there a separate annual limit for mental health benefits? 		
+ benefit_coverage	 Maximum yearly amount for mental health care 		
+ benefit_coverage	 do i need to meet my deductible for preventative care 		
+ benefit_coverage	 do i need to meet my deductible for preventive immunizations 		
+ benefit_coverage	 does the deductible apply for preventive care 		
+ benefit_coverage	 how much do i have to pay before medical insurance will cover my expenses 		
+ benefit_coverage	 if i have covered family members under an hsa eligible plan option how do the deductibles work 		
+ benefit_coverage	 is there a dollar amount that has to be paid before i go to a doctor 		
+ benefit_coverage	 is there a preventive immunization care deductible 		
+ benefit_coverage	 tracking my deductable 		
+ benefit_coverage	 what is my ded 		
+ benefit_coverage	 what is my medical deductable 		
+ benefit_coverage	 what is the amount of money i need to meet each year before things are covered 		
+ benefit_coverage	 what will i pay after meeting family deductable 		
+ benefit_coverage	 why does kaiser only pay for a portion of my procedure costs 		
+ benefit_coverage	 are there other deductibles for special services 		
+ benefit_coverage	 is there a lifetime limit on any services covered on this plan 		
+ benefit_coverage	 is there a lifetime maximum plan benefit 		
+ benefit_coverage	 is there a monetary limit for covered services 		
+ benefit_coverage	 is there an annual limit on any services covered on this plan 		
+ benefit_coverage	 lifetime limit for covered services on plan 		
+ benefit_coverage	 annual limit for the consumer choice plan 		
+ benefit_coverage	 at what point does the plan pay 100 percent 		
+ benefit_coverage	 can what i spend on copays count toward meeting my oopm 		
+ benefit_coverage	 can you confirm what the max out of pocket cost for my plan is 		
+ benefit_coverage	 does my copay accumulate to meeting my oopm 		
+ benefit_coverage	 how do i check my out of pocket blanace 		
+ benefit_coverage	 how much will i have to pay out of pocket 		
+ benefit_coverage	 how much will i pay out of pocket 		
+ benefit_coverage	 i want to know what is the most i could possibly have to pay each year for health care 		
+ benefit_coverage	 is there a maximum payment per year for a family 		
+ benefit_coverage	 what does my copay accumulate towards 		
+ benefit_coverage	 what happens if i meet my out of pocket 		
+ benefit_coverage	 what happens if i spend over the out of pocket limit on my health plan 		
+ benefit_coverage	 what is an out of pocket max 		
+ benefit_coverage	 what is my current oop 		
+ benefit_coverage	 what is my oop 		
+ benefit_coverage	 what is my out of pocket 		
+ benefit_coverage	 what is my out of pocket cost with my kaiser plan 		
+ benefit_coverage	 what is my total out of pocket 		
+ benefit_coverage	 what is the most i have to pay each year for healthcare 		
+ benefit_coverage	 what is the most i might pay for care in a year on my plan 		
+ benefit_coverage	 what is the out of pocket limit on my health plan 		
+ benefit_coverage	 what would my highest out of pocket be 		
+ benefit_coverage	 what would the highest amount i have to pay for in the year be 		
+ benefit_coverage	 will my copays accumulate toward something 		
+ benefit_coverage	 will paying copays help me reach my out of pocket max 		
+ benefit_coverage	 will the plan ever cover 100 percent 		
+ benefit_coverage	 will the plan ever pay for everything 		
+ benefit_coverage	 what is my pharmacy deductable 		
+ benefit_coverage	 can you tell me if there is a different deductible for prescription meds 		
+ benefit_coverage	 does the dedictbile include my costs for prescription meds 		
+ benefit_coverage	 how much is my deductible for medication 		
+ benefit_coverage	 if i need an rx is there a different dedcutible for those do you know 		
+ benefit_coverage	 is there a separate deductible for rxs 		
+ benefit_coverage	 is there another deductible for the pharmacy 		
+ benefit_coverage	 is there any kind of different dollar amount that i have to pay before i get prescriptions 		
+ benefit_coverage	 what is my deductible for an rx 		
+ benefit_coverage	 what is my deductible for pres meds 		
+ benefit_coverage	 what is my pharmacy deductible for my meds 		
+ benefit_coverage	 what is the amount for the pharmacy deductible 		
+ benefit_coverage	 is there a lifetime max on medication costs? 		
+ benefit_coverage	 how much will the play pay per lifetime for prescriptions? 		
+ benefit_coverage	 lifetime cap for prescriptions 		
+ dont_know_yet_maybe	 what goes against the deducatble 		
+ exclaimation_positive	 can i get the cost that has to be paid before i do anything can you help with that thanks 		
+ exclaimation_positive	 hi can you tell me how does a deductible work i need to find out thanks 		
+ exclaimation_positive	 do you know if i will have to pay on a different dedcutible for my meds i need to find out thanks 		
+ exclamation_negative	 i know there is an amount that i have to pay first can you tell me more about that 		
+ feelings_good	 do i have to pay for claims before the plan starts to pay 		
+ INTENT_NOT_FOUND	 substance abuse services life time maximum 		
+ INTENT_NOT_FOUND	 after meeting deductable 		
+ INTENT_NOT_FOUND	 do co insurance payments accumulate towards anything 		
+ INTENT_NOT_FOUND	 what do co paymentss accumulate towards 		
+ INTENT_NOT_FOUND	 hi i am trying to figure out which prescriptions count for the deductible 		
+ INTENT_NOT_FOUND	 does optum set a year-over-year maximum on rx services? 		
+ INTENT_NOT_FOUND	 does the lifetime max apply to pharmacy services? 		
+ INTENT_NOT_FOUND	 do medication copays apply toward yeearly out of pocket max 		
+ medical_emergency	 is there an amount of charges i have to pay before the plan starts to pay 		
+ medical_emergency	 what is the amount i need to meet before coverage applies 		

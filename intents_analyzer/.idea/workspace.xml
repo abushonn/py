@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba3f411c-841c-4b09-adac-d44372b2e957" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1dKVU7NxnGBzATqVjxoEm80c0Un" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../regression" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\wafhb\Core\WFBWCSWorkspaces\src\python\intents_analyzer" />
+      <recent name="C:\dev\wafhb\Core\WFBWCSWorkspaces\src\python\intents_analyzer\data-results" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba3f411c-841c-4b09-adac-d44372b2e957" name="Default Changelist" comment="" />
+      <created>1592173785209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592173785209</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="589" y="168" key="FileChooserDialogImpl" timestamp="1592668290104">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="589" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592668290104" />
+    <state x="346" y="69" key="SettingsEditor" timestamp="1595407141152">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="346" y="69" key="SettingsEditor/-1920.0.1536.832/1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1595407141152" />
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592668320385" />
+    <state x="456" y="259" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1592668292159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="456" y="259" width="705" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1592668292159" />
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup" timestamp="1595406875028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="183" width="840" height="856" key="search.everywhere.popup/-1920.0.1536.832/1920.0.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1595406875028" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592668307579" />
+  </component>
+</project>

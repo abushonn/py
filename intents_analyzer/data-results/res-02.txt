@@ -1,0 +1,357 @@
+Utterence: *** is there a separate deductible for mental health benefits *** Intent: *** benefit_coverage
+Utterence: *** mental health deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** deductible for substance abuse services *** Intent: *** benefit_coverage
+Utterence: *** do behavioral health services apply toward the regular deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the deductible for mental health *** Intent: *** benefit_coverage
+Utterence: *** Is there a lifetime cap on mental health care *** Intent: *** benefit_coverage
+Utterence: *** Behavioral health lifetime limit *** Intent: *** benefit_coverage
+Utterence: *** Is there a year-over-year limit on rehab expenses? *** Intent: *** benefit_coverage
+Utterence: *** Lifetime max for mental health *** Intent: *** benefit_coverage
+Utterence: *** substance abuse services life time maximum *** Intent: *** INTENT_NOT_FOUND
+Utterence: *** What is the out of pocket maximum for substance abuse services? *** Intent: *** deductible_oop_inquiry
+Utterence: *** What's the most I could possibly pay if I have to send my son to rehab *** Intent: *** benefit_coverage
+Utterence: *** Do mental health services apply to the out of pocket max? *** Intent: *** deductible_oop_inquiry
+Utterence: *** Is there a separate annual limit for mental health benefits? *** Intent: *** benefit_coverage
+Utterence: *** Maximum yearly amount for mental health care *** Intent: *** benefit_coverage
+Utterence: *** after meeting deductable *** Intent: *** INTENT_NOT_FOUND
+Utterence: *** am i close to meeting my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** calendar year or plan year deductible accumulation *** Intent: *** deductible_oop_inquiry
+Utterence: *** can i get the cost that has to be paid before i do anything can you help with that thanks *** Intent: *** exclaimation_positive
+Utterence: *** can i meet my deductible with copays *** Intent: *** deductible_oop_inquiry
+Utterence: *** can i satisfy the whole family deductible myself *** Intent: *** deductible_oop_inquiry
+Utterence: *** can the full 3000 deductible be met by one participant in the plan *** Intent: *** deductible_oop_inquiry
+Utterence: *** can what i spend on copays count toward meeting my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** can you see how much i have paid towards my deductable *** Intent: *** deductible_oop_inquiry
+Utterence: *** can you tell me what my deductible is *** Intent: *** deductible_oop_inquiry
+Utterence: *** carryover of deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** cost to meet in network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** cost to meet out of network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** deductible amount *** Intent: *** deductible_oop_inquiry
+Utterence: *** deductible based on calendar year or plan year *** Intent: *** deductible_oop_inquiry
+Utterence: *** deductible limit *** Intent: *** deductible_oop_inquiry
+Utterence: *** deductible totals *** Intent: *** deductible_oop_inquiry
+Utterence: *** do i have a deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** do i have to pay for claims before the plan starts to pay *** Intent: *** feelings_good
+Utterence: *** do i need to meet my deductible for preventative care *** Intent: *** benefit_coverage
+Utterence: *** do i need to meet my deductible for preventive immunizations *** Intent: *** benefit_coverage
+Utterence: *** do i pay 100 percent until i meet the individual deductable *** Intent: *** deductible_oop_inquiry
+Utterence: *** do you know if i have a deductible that i need to pay thanks *** Intent: *** deductible_oop_inquiry
+Utterence: *** do you know if i have met my deductible yet *** Intent: *** deductible_oop_inquiry
+Utterence: *** does deductible carryover *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my copay accumulate toward my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my copay count toward my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my deductible accumulate during my calendar year or plan year *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my deductible need to be met before my plan will pay on claims *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my plan have an in network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my plan have an overall in network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** does paying copays help me reach my overall in network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** does the deductible apply for preventive care *** Intent: *** benefit_coverage
+Utterence: *** family deductable *** Intent: *** deductible_oop_inquiry
+Utterence: *** has my deductible been met *** Intent: *** deductible_oop_inquiry
+Utterence: *** have i met m y deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** have i met my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** have i reached my deductubles *** Intent: *** deductible_oop_inquiry
+Utterence: *** have i used my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** hello what is my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** hi can you tell me how does a deductible work i need to find out thanks *** Intent: *** exclaimation_positive
+Utterence: *** hi can you tell me if i have met my deductible thanks *** Intent: *** deductible_oop_inquiry
+Utterence: *** hi i thought that i had already met my deductible so why did i get a bill *** Intent: *** deductible_oop_inquiry
+Utterence: *** how do i find out if i have met my deductable *** Intent: *** deductible_oop_inquiry
+Utterence: *** how do i meet my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how do i meet my overall in network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how do i meet my overall out of network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how does it work with with my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how does my deductible work *** Intent: *** deductible_oop_inquiry
+Utterence: *** how does the deductible work *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much do i have left on my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much do i have to pay before medical insurance will cover my expenses *** Intent: *** benefit_coverage
+Utterence: *** how much do i have to pay before the plan begins to pay *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much do i have to pay before the plan pays *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much do i have to spend before i meet my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much do i need to spend before meeting my in network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much have i paid towards my deductible so far *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much have i paid towards my deductiblee *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is left in my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is left on my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is the deductable *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my non network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much of my deductible has been met *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much of my deductible i have spent already *** Intent: *** deductible_oop_inquiry
+Utterence: *** i know that i have that amount i have to pay toward medical first can you tell me how much is left to pay *** Intent: *** deductible_oop_inquiry
+Utterence: *** i know there is an amount that i have to pay first can you tell me more about that *** Intent: *** exclamation_negative
+Utterence: *** i need to find out what my deductible balance is do you know *** Intent: *** deductible_oop_inquiry
+Utterence: *** if i am paying for health services outside of the network is there ways i can save money or it go to my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** if i have covered family members under an hsa eligible plan option how do the deductibles work *** Intent: *** benefit_coverage
+Utterence: *** in network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** is a deductible on a per surgery basis or once you hit the 2700 deductible you no longer pay *** Intent: *** deductible_oop_inquiry
+Utterence: *** is the deductible based on the calendar year or plan year *** Intent: *** deductible_oop_inquiry
+Utterence: *** is there a dollar amount that has to be paid before i go to a doctor *** Intent: *** benefit_coverage
+Utterence: *** is there a limit per participant on reaching the maximum family deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** is there a preventive care deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** is there a preventive immunization care deductible *** Intent: *** benefit_coverage
+Utterence: *** is there an amount of charges i have to pay before the plan starts to pay *** Intent: *** medical_emergency
+Utterence: *** is there a deductible on my plan *** Intent: *** deductible_oop_inquiry
+Utterence: *** must individual meet the family deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** my deductible is how much *** Intent: *** deductible_oop_inquiry
+Utterence: *** my insurance year is july june will costs in may and june count towards this years deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** non network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** on my plan what is the deductable amount *** Intent: *** deductible_oop_inquiry
+Utterence: *** out of network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** tracking my deductable *** Intent: *** benefit_coverage
+Utterence: *** uhc only paid a part of my visit even though i met my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** ways to meet my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** wha tis my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what are my current deductibles *** Intent: *** deductible_oop_inquiry
+Utterence: *** what are my deductibles *** Intent: *** deductible_oop_inquiry
+Utterence: *** what are my in network limits *** Intent: *** deductible_oop_inquiry
+Utterence: *** what are the deductibles *** Intent: *** deductible_oop_inquiry
+Utterence: *** what counts toward meeting my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what deductible amount do i have to meet *** Intent: *** deductible_oop_inquiry
+Utterence: *** what does insurance cover once i meet my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what goes against the deducatble *** Intent: *** dont_know_yet_maybe
+Utterence: *** what happens after deductible has been met *** Intent: *** deductible_oop_inquiry
+Utterence: *** what helps me meet my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my annual deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my current deductible amount *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my ded *** Intent: *** benefit_coverage
+Utterence: *** what is my deductable *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my deductibe *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my family deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my health deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my individual ded *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my individual deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my medical deductable *** Intent: *** benefit_coverage
+Utterence: *** what is my overall deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my overall non network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my plan deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my plans individual deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my preventive deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my preventive immunization deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my total deductable *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the amount for meeting my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the amount i need to meet before coverage applies *** Intent: *** medical_emergency
+Utterence: *** what is the amount of money i need to meet each year before things are covered *** Intent: *** benefit_coverage
+Utterence: *** what is the deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the deductible on my plan *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the deductible this year *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the in network deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the maximum out of pocket deductable *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the out of network deductible amount *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the overall deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what will i pay after meeting family deductable *** Intent: *** benefit_coverage
+Utterence: *** when does my deductible reset *** Intent: *** deductible_oop_inquiry
+Utterence: *** where am i with my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** why am i getting bills if i met my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** why did my plan not pay for everything after i met my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** why do i still get a bill after meeting my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** why does insurance only cover part of procedures even after i meet my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** why does kaiser only pay for a portion of my procedure costs *** Intent: *** benefit_coverage
+Utterence: *** will paying copays help me reach my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** with family coverage does each participant have to contribute a portion towards deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** yes can you tell me if i have a deductible or not *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** What out of pocket expenses are put toward my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** are there condition specific deductibles *** Intent: *** deductible_oop_inquiry
+Utterence: *** are there other deductibles for special services *** Intent: *** benefit_coverage
+Utterence: *** are there special service deductibles *** Intent: *** deductible_oop_inquiry
+Utterence: *** do i have to meet a condition specific deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** do i have to meet a special service deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my plan have a condition specific deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my condition specific deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my special services deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my condition specific deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my special services deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** do i have a lifetime maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** how do i know when ive met my lifetime maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** is there a lifetime limit on any services covered on this plan *** Intent: *** benefit_coverage
+Utterence: *** is there a lifetime maximum plan benefit *** Intent: *** benefit_coverage
+Utterence: *** is there a lifetime plan maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** is there a monetary limit for covered services *** Intent: *** benefit_coverage
+Utterence: *** is there an annual limit on any services covered on this plan *** Intent: *** benefit_coverage
+Utterence: *** lifetime limit for covered services on plan *** Intent: *** benefit_coverage
+Utterence: *** lifetime maximum what is it *** Intent: *** deductible_oop_inquiry
+Utterence: *** lifetime plan maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** plan lifetime maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my lifetime maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my lifetime maximum on my plan *** Intent: *** deductible_oop_inquiry
+Utterence: *** amount of my in network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** amount of my non network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** amount of my out of network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** annual limit for the consumer choice plan *** Intent: *** benefit_coverage
+Utterence: *** are copays included in out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** at what point does the plan pay 100 percent *** Intent: *** benefit_coverage
+Utterence: *** can what i spend on copays count toward meeting my oopm *** Intent: *** benefit_coverage
+Utterence: *** can what i spend on copays count toward meeting my yearly max *** Intent: *** deductible_oop_inquiry
+Utterence: *** can what i spend on copays count toward my out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** can you confirm what the max out of pocket cost for my plan is *** Intent: *** benefit_coverage
+Utterence: *** can you tell me how much my non network out of pocket maximum is *** Intent: *** deductible_oop_inquiry
+Utterence: *** comparison of in network vs out of network for out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** copay count toward out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** definition of out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** do co insurance payments accumulate towards anything *** Intent: *** INTENT_NOT_FOUND
+Utterence: *** do i get money spent over my out of pocket maximum refunded to me *** Intent: *** deductible_oop_inquiry
+Utterence: *** do in network charges still count towards my oopm *** Intent: *** deductible_oop_inquiry
+Utterence: *** do my copays count towards the plan out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** do you know my in network out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** do you know what my in network out of pocket max is *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my coinsurance count toward my out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my copay accumulate to meeting my oopm *** Intent: *** benefit_coverage
+Utterence: *** does my copay accumulate to meeting my out of pocket maximum oopm *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my copay count toward my oopm *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my family have to meet the out of pocket maximum if i have met mine to be covered *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my pharmacy copay count towards the plan max *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my plan have an out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** does the family out of pocket maximum have to be reached before individual is covered *** Intent: *** deductible_oop_inquiry
+Utterence: *** does the plan every pay 100 percent *** Intent: *** deductible_oop_inquiry
+Utterence: *** have i met my out of pocket *** Intent: *** deductible_oop_inquiry
+Utterence: *** how do i check my out of pocket blanace *** Intent: *** benefit_coverage
+Utterence: *** how do i know how much i have spent out of pocket *** Intent: *** deductible_oop_inquiry
+Utterence: *** how do i meet my yearly maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** how does the in network out of pocket maximum compare to out of network *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much could i possibly have to pay in one year *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is in network out of pocket maximum compared to out of network *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my in network yearly limit *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my individual annual limit *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my non network out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my out of network out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my out of network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is my out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is the annual amount i have to pay *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much is the max in network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much of my max have i used this year so far *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much of my out of pocket have i met *** Intent: *** deductible_oop_inquiry
+Utterence: *** how much will i have to pay out of pocket *** Intent: *** benefit_coverage
+Utterence: *** how much will i pay out of pocket *** Intent: *** benefit_coverage
+Utterence: *** i am trying to figure out if the yearly limit is the same if i use providers who are not in the plan network *** Intent: *** deductible_oop_inquiry
+Utterence: *** i do not get it is the out of pocket maximum by individual or family *** Intent: *** deductible_oop_inquiry
+Utterence: *** i have a family plan is the max out of pocket per individual or per family *** Intent: *** deductible_oop_inquiry
+Utterence: *** i want to know what is the most i could possibly have to pay each year for health care *** Intent: *** benefit_coverage
+Utterence: *** if i go non network what is my out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** if i stay in network what is my annual limit *** Intent: *** deductible_oop_inquiry
+Utterence: *** if my service was in network does it count towards my oop max *** Intent: *** deductible_oop_inquiry
+Utterence: *** in network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** information on out of pocket maximum coverage *** Intent: *** deductible_oop_inquiry
+Utterence: *** is my coinsurance included in my out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** is my deductible amount the most i will have to pay in the year *** Intent: *** deductible_oop_inquiry
+Utterence: *** is the out of pocket max by family or individual *** Intent: *** deductible_oop_inquiry
+Utterence: *** is the out of pocket maximum by individual or do we have to keep paying until both my husband and i reach the maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** is there a maximum payment per year for a family *** Intent: *** benefit_coverage
+Utterence: *** is there a separate non network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** is there a separate out of pocket maximum for in and out of network *** Intent: *** deductible_oop_inquiry
+Utterence: *** most i can pay out of pocket a year on plan *** Intent: *** deductible_oop_inquiry
+Utterence: *** most i will have to pay out of pocket *** Intent: *** deductible_oop_inquiry
+Utterence: *** on my plan what is my out of network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** out of network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** out of pocket maximum what is it *** Intent: *** deductible_oop_inquiry
+Utterence: *** please tell me what the max is we have to pay per person for per family unit *** Intent: *** deductible_oop_inquiry
+Utterence: *** the most i will pay per person out of pocket *** Intent: *** deductible_oop_inquiry
+Utterence: *** what bills count toward my annual max *** Intent: *** deductible_oop_inquiry
+Utterence: *** what counts toward my out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** what counts toward my out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** what do co paymentss accumulate towards *** Intent: *** INTENT_NOT_FOUND
+Utterence: *** what do i need to spend to reach my out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** what does my copay accumulate towards *** Intent: *** benefit_coverage
+Utterence: *** what does the out of pocket maximum include *** Intent: *** deductible_oop_inquiry
+Utterence: *** what expenses counts towards my out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** what happens if i meet my out of pocket *** Intent: *** benefit_coverage
+Utterence: *** what happens if i spend over the out of pocket limit on my health plan *** Intent: *** benefit_coverage
+Utterence: *** what is an out of pocket max *** Intent: *** benefit_coverage
+Utterence: *** what is highest possible non network out of pocket cost *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is in included in maximum out of pocket expenses *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is maximum out of pocket expense *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my annual maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my current oop *** Intent: *** benefit_coverage
+Utterence: *** what is my in network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my in network vs out of network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my individual oop *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my max out of pocket *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my maximum out of pocket *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my non network out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my oop *** Intent: *** benefit_coverage
+Utterence: *** what is my oop max *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my out of network out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my out of network out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my out of pocket *** Intent: *** benefit_coverage
+Utterence: *** what is my out of pocket cost with my kaiser plan *** Intent: *** benefit_coverage
+Utterence: *** what is my out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my total out of pocket *** Intent: *** benefit_coverage
+Utterence: *** what is my yearly max *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my yearly out of pocket limit *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the annual maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the difference in out of pocket maximums for in network and out of network *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the highest amount i will have to pay per year *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the max i will pay in a year *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the maximum in network out of pocket cost *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the maximum out of network out of pocket cost *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the most i have to pay each year *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the most i have to pay each year for healthcare *** Intent: *** benefit_coverage
+Utterence: *** what is the most i have to pay in a year *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the most i might pay for care in a year on my plan *** Intent: *** benefit_coverage
+Utterence: *** what is the most i will have to pay this year *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the out of pocket limit on my health plan *** Intent: *** benefit_coverage
+Utterence: *** what is the out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is the out of pocket maximum for a family *** Intent: *** deductible_oop_inquiry
+Utterence: *** what would my highest out of pocket be *** Intent: *** benefit_coverage
+Utterence: *** what would the highest amount i have to pay for in the year be *** Intent: *** benefit_coverage
+Utterence: *** will my coinsurance count towards something *** Intent: *** deductible_oop_inquiry
+Utterence: *** will my copay count towards my out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** will my copays accumulate toward something *** Intent: *** benefit_coverage
+Utterence: *** will my prescription copays count toward out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** will paying copays help me reach my out of pocket max *** Intent: *** benefit_coverage
+Utterence: *** will the co pay count towards my my out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** will the coinsurance amounts count towards my oopm *** Intent: *** deductible_oop_inquiry
+Utterence: *** will the plan ever cover 100 percent *** Intent: *** benefit_coverage
+Utterence: *** will the plan ever pay for everything *** Intent: *** benefit_coverage
+Utterence: *** if i have coinsurance do i still have a out of pocket maximum i need to meet *** Intent: *** deductible_oop_inquiry
+Utterence: *** if ive already hit my out of pocket maximum does it matter if i go to an out of network provider *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my pharmacy deductable *** Intent: *** benefit_coverage
+Utterence: *** are my prescriptions subject to a deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** can you tell me if there is a different deductible for prescription meds *** Intent: *** benefit_coverage
+Utterence: *** do costs for perscriptions go toward my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** do i have a prescription deductible soemtimes pills are cheaper through insurance even tho we have not met deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** do i have a rx deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** do i have to meet the deductible when i buy a drug *** Intent: *** deductible_oop_inquiry
+Utterence: *** do my prescription medications go towards the deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** do pharmacy expenses have their own deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** do scripts have a deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** do you know how much my deductible is for an rx *** Intent: *** deductible_oop_inquiry
+Utterence: *** do you know if i will have to pay on a different dedcutible for my meds i need to find out thanks *** Intent: *** exclaimation_positive
+Utterence: *** does a pharmacy script apply towards the deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** does the dedictbile include my costs for prescription meds *** Intent: *** benefit_coverage
+Utterence: *** does the deductible apply to prescriptions *** Intent: *** deductible_oop_inquiry
+Utterence: *** does the entire cost of the meds go toward the deductible until it is met *** Intent: *** deductible_oop_inquiry
+Utterence: *** hi i am trying to figure out which prescriptions count for the deductible *** Intent: *** INTENT_NOT_FOUND
+Utterence: *** how much is my deductible for medication *** Intent: *** benefit_coverage
+Utterence: *** how much is prescription drugs deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** i am wondering if pharamcy scripts count towards my deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** i think my deductible is 5 800 so my prescription cost goes against this is that correct *** Intent: *** deductible_oop_inquiry
+Utterence: *** if i need an rx is there a different dedcutible for those do you know *** Intent: *** benefit_coverage
+Utterence: *** is there a pharmacy deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** is there a prescription medication deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** is there a separate deductible for rxs *** Intent: *** benefit_coverage
+Utterence: *** is there another deductible for the pharmacy *** Intent: *** benefit_coverage
+Utterence: *** is there any kind of different dollar amount that i have to pay before i get prescriptions *** Intent: *** benefit_coverage
+Utterence: *** once my prescription costs meet my deductible of 5 800 i would not have to pay anything towards my drugs *** Intent: *** deductible_oop_inquiry
+Utterence: *** tell me more about pharmacy deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what does it mean that my plan does not have pharmacy deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** what is my deductible for an rx *** Intent: *** benefit_coverage
+Utterence: *** what is my deductible for pres meds *** Intent: *** benefit_coverage
+Utterence: *** what is my pharmacy deductible for my meds *** Intent: *** benefit_coverage
+Utterence: *** what is the amount for the pharmacy deductible *** Intent: *** benefit_coverage
+Utterence: *** what is the prescription deductible *** Intent: *** deductible_oop_inquiry
+Utterence: *** is there a lifetime max on medication costs? *** Intent: *** benefit_coverage
+Utterence: *** does optum set a year-over-year maximum on rx services? *** Intent: *** INTENT_NOT_FOUND
+Utterence: *** how much will the play pay per lifetime for prescriptions? *** Intent: *** benefit_coverage
+Utterence: *** does the lifetime max apply to pharmacy services? *** Intent: *** INTENT_NOT_FOUND
+Utterence: *** lifetime cap for prescriptions *** Intent: *** benefit_coverage
+Utterence: *** do medication copays apply toward yearly out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** do rx copays count toward out of pocket limit *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my drug coverage have an out of pocket max too *** Intent: *** deductible_oop_inquiry
+Utterence: *** does my prescription copay count towards the out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** prescription copay count toward annual out of pocket maximum *** Intent: *** deductible_oop_inquiry
+Utterence: *** prescription copay counts toward annual limit *** Intent: *** deductible_oop_inquiry
+Utterence: *** would my rx costs go towards the year out of pocket max *** Intent: *** deductible_oop_inquiry
+Utterence: *** do medication copays apply toward yeearly out of pocket max *** Intent: *** INTENT_NOT_FOUND

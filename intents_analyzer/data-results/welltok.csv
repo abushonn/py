@@ -1,0 +1,856 @@
+ignore_masked,example,example_masked,intent
+,,Is the shingles vaccination covered under my plan?,benefit_coverage
+,,can i get a colonoscopy,benefit_coverage
+,,What are my benefits when it comes to MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,My wife is 7 months pregnant. Does she qualify to get a Translucency scan?,benefit_coverage
+,,I'm going to give MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,I'm going to give birth,benefit_coverage
+,,I'm pregnant,benefit_coverage
+,,I'm pregnant right now and my MASKING_PROFESSIONAL_GROUP_1 suggested I MASKING_PROCEDURE_NAME_4 a MASKING_PROCEDURE_NAME_1. Is that covered by my MASKING_PROCEDURE_NAME_2? How much is that going to cost? And where should I get this done?,benefit_coverage
+,,How much would I pay out of pocket for a mammogram?,benefit_coverage
+,,What is my expected out of pocket cost for procedure XYZ or surgery ABC?,benefit_coverage
+,,What is my expected out of pocket cost for procedure XYZ or MASKING_PROVIDER_SPECIALTY_1 MASKING_PROCEDURE_NAME_2?,benefit_coverage
+,,procedure of long bone fracture,benefit_coverage
+,,How much will a MASKING_PROCEDURE_NAME_1 be if my MASKING_PROFESSIONAL_GROUP_1 is out of network?,benefit_coverage
+,,How much will I pay out of pocket for an abdominal ultrasound?,benefit_coverage
+,,I need knee surgery.  Is that covered?,benefit_coverage
+,,I need surgery to replace a knee. Is that covered.,benefit_coverage
+,,I think I need to have a MASKING_PROCEDURE_NAME_1 done this year. Can you tell me how that will affect my coverage?,benefit_coverage
+,,"Are blood work tests for thyroid abnormalities covered? If not, how much does each test cost?",benefit_coverage
+,,Are crutches covered by my health insurance ?,benefit_coverage
+,,How much is my copay,benefit_coverage
+,,How much is the average MASKING_PROCEDURE_NAME_1? Does insurance cover that?,benefit_coverage
+,,How do I find out whether my plan covers knee replacement?,benefit_coverage
+,,How many MASKING_PROCEDURE_NAME_1 sessions are covered?,benefit_coverage
+,,How many MASKING_PROCEDURE_NAME_1 sessions are covered? What is my copay for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Is MASKING_PROVIDER_SPECIALTY_1 a covered benefit?,benefit_coverage
+,,Is my insurance covered my Cosmetic Surgery and Skin Health Center,benefit_coverage
+,,Is my insurance covered my MASKING_PROVIDER_SPECIALTY_1 and MASKING_FACILITY_NAME_1,benefit_coverage
+,,How do I find out whether my plan MASKING_PROCEDURE_NAME_2 MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,How much will I have to pay out of pocket for an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,How much of my MASKING_PROCEDURE_NAME_1 will you cover?,benefit_coverage
+,,How much will my out of pocket expenses be for my MASKING_MEDICAL_CONDITION_1 work requested by my MASKING_PROFESSIONAL_GROUP_1?,benefit_coverage
+,,My wife is having Routine mammogram at RPA Lagrange Hospital. What is our coverage?,benefit_coverage
+,,My kid is 9.  Are his well visits still covered by my insurance?,benefit_coverage
+,,My husband needs a flu shot,benefit_coverage
+,,My husband is considering Orthopedic surgery,benefit_coverage
+,,My doctor mentions that I may need both hips replaced,benefit_coverage
+,,My doctor informs me that I need to get a Routine mammogram and I wanted to check if my plan covers me for this?,benefit_coverage
+,,My daughter is getting tubes in her ears.  How much will insurance cover vs. my expense?  Are there any hidden fees?,benefit_coverage
+,,My daughter has been referred for a Speech/Language evaluation.  Is it a covered benefit?,benefit_coverage
+,,My MASKING_PROFESSIONAL_GROUP_1 mentions that I may need both MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,How much will I pay out of pocket for an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,How much will I owe for a certain procedure?,benefit_coverage
+,,How much will I have to pay to get my wisdom teeth removed?,benefit_coverage
+,,"If I think I need knee surgery, what do I do next? Do I need my doctor to talk to my health plan?",benefit_coverage
+,,I want to MASKING_PROCEDURE_NAME_1 my MASKING_PROFESSIONAL_GROUP_1 to see if I am healthy,benefit_coverage
+,,I want to find out what level of benefits I have for MASKING_PROCEDURE_NAME_1 and MASKING_PROVIDER_SPECIALTY_1,benefit_coverage
+,,can you explain what benefits are available for acupunture please?,benefit_coverage
+,,want to know if MASKING_PROCEDURE_NAME_1 are part of my benefits under my present insurance.,benefit_coverage
+,,"I have already had MASKING_NUMBER_a xrays this year,  how many more am I eligible for?",benefit_coverage
+,,"I have already had MASKING_NUMBER_a xrays this year, how many more am I eligible for?",benefit_coverage
+,,is my procedure covered by my health insurance,benefit_coverage
+,,Can I get my MASKING_PROCEDURE_NAME_1 checked?,benefit_coverage
+,,How much will I have to pay to get my MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,How much will I have to pay out of pocket for lab work?,benefit_coverage
+,,How much will I have to pay out of pocket for an MRI?,benefit_coverage
+,,How much will my copay be to see a MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,,How much will my copay be to see a dermatologist?,benefit_coverage
+,,How much will my out of pocket expenses be for my lab work requested by my doctor?,benefit_coverage
+,,"If I think I need MASKING_PROCEDURE_NAME_1, what do I do next? Do I need my MASKING_PROFESSIONAL_GROUP_1 to talk to my health plan?",benefit_coverage
+,,how should I treat a mild sprained ankle?,benefit_coverage
+,,"If I want to get MASKING_PROCEDURE_NAME_1 done because I have a family history of particular MASKING_MEDICAL_CONDITION_1, is it covered?",benefit_coverage
+,,Is a MASKING_PROCEDURE_NAME_1 covered,benefit_coverage
+,,internal medicine,benefit_coverage
+,,MASKING_MEDICAL_CONDITION_1 and septic shock procedure cost,benefit_coverage
+,,MASKING_PERSON_NAME_1 my insurance cover a MASKING_PROCEDURE_NAME_1 completely or partially?,benefit_coverage
+,,MASKING_PERSON_NAME_1 there be a deductible for this procedure?,benefit_coverage
+,,MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,How often should I get a colonoscopy?,benefit_coverage
+,,What is my MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,What MASKING_PROCEDURE_NAME_1 does my policy cover?,benefit_coverage
+,,Want to get MRI by Dr. Rumancik,benefit_coverage
+,,Want to get MASKING_PROCEDURE_NAME_1 by Dr. MASKING_PERSON_NAME_1,benefit_coverage
+,,"Under my present insurance, can I get a nuchal translucency scan",benefit_coverage
+,,"Under my present insurance, can I get a MASKING_PROCEDURE_NAME_1",benefit_coverage
+,,How much will an eye check up cost,benefit_coverage
+,,Am I covered for anything?,benefit_coverage
+,,Am I elegible to have a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Am I elegible to have a total knee replacement?,benefit_coverage
+,,Am I eligible for my MASKING_PROCEDURE_NAME_1 MASKING_PROCEDURE_NAME_2?,benefit_coverage
+,,Do you cover mental health benefits?,benefit_coverage
+,,Do I have to pay for flu shots or are they covered?,benefit_coverage
+,,MASKING_PROVIDER_SPECIALTY_1,benefit_coverage
+,,My MASKING_DEPENDENT_RELATIONSHIP_1 has been MASKING_PROCEDURE_NAME_1.  Is it a covered benefit?,benefit_coverage
+,,My MASKING_DEPENDENT_RELATIONSHIP_1 is MASKING_NUMBER_a.  Are his well MASKING_PROCEDURE_NAME_1 still covered by my insurance?,benefit_coverage
+,,My MASKING_DEPENDENT_RELATIONSHIP_1 is considering MASKING_PROVIDER_SPECIALTY_1,benefit_coverage
+,,Can I get an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,What will be my out of pocket cost for the MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Can I get an MRI?,benefit_coverage
+,,Is the MASKING_PROCEDURE_NAME_1 covered under my plan?,benefit_coverage
+,,Is the MASKING_PROVIDER_SPECIALTY_1 covered under my plan?,benefit_coverage
+,,"Are blood work MASKING_PROCEDURE_NAME_1? If not, how much does each MASKING_PROCEDURE_NAME_5 cost?",benefit_coverage
+,,Does my insurance cover knee replacement?,benefit_coverage
+,,Does my insurance cover nuchal translucency MASKING_PROCEDURE_NAME_1? Also does it cover MASKING_PROCEDURE_NAME_1? How much will I have to pay for both?,benefit_coverage
+,,Does my health insurance cover cosmetic treatments at the dermatologist?,benefit_coverage
+,,Does my health insurance cover cavity fillings at the dentist?,benefit_coverage
+,,Does my health insurance cover a dermatologist?,benefit_coverage
+,,Does my MASKING_PROCEDURE_NAME_1 have to be with an RMT for it to be covered?,benefit_coverage
+,,Does my MASKING_PROCEDURE_NAME_1 cover a MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,,Does my MASKING_PROCEDURE_NAME_1 cover MASKING_PROCEDURE_NAME_6 MASKING_PROCEDURE_NAME_3 at the MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,,What percentage will my insurance pay of this procedure?,benefit_coverage
+,,Can I get a new knee under my insurance plan?,benefit_coverage
+,,Can I get a new insulin pump paid for?,benefit_coverage
+,,Can I get a new MASKING_PROCEDURE_NAME_1 paid for?,benefit_coverage
+,,Can I get a breast pump under my insurance?,benefit_coverage
+,,Can I get a MASKING_PROCEDURE_NAME_1 under my insurance?,benefit_coverage
+,,Are you able to tell me about the services for pregnant women?,benefit_coverage
+,,Are voluntary reproductive health procedures covered?,benefit_coverage
+,,Are voluntary MASKING_PROVIDER_SPECIALTY_1 MASKING_PROCEDURE_NAME_2 covered?,benefit_coverage
+,,Are there benefit limitations under my plan for physical therapy treatments?,benefit_coverage
+,,What types of MASKING_PROCEDURE_NAME_1 are covered by my plan?,benefit_coverage
+,,What procedures are covered under a regular check-up?,benefit_coverage
+,,What is my deductible for an in-MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Will there be a deductible for this procedure?,benefit_coverage
+,,I'd like to know how much I need to pay for a doctor visit,benefit_coverage
+,,I would like to make an enquiry regarding a hip replacement please,benefit_coverage
+,,I would like to make an enquiry regarding a MASKING_PROCEDURE_NAME_1 please,benefit_coverage
+,,My MASKING_DEPENDENT_RELATIONSHIP_1 is having MASKING_PROCEDURE_NAME_1 at MASKING_FACILITY_NAME_1. What is our coverage?,benefit_coverage
+,,question about how to get MASKING_PROCEDURE_NAME_1 done,benefit_coverage
+,,question about how to get mri done,benefit_coverage
+,,question of MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,question of yearly checkup,benefit_coverage
+,,quick question about MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,quick question about mammogram,benefit_coverage
+,,What MASKING_PROCEDURE_NAME_3 are covered under a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Can I go to MASKING_FACILITY_NAME_1 for procedure ?,benefit_coverage
+,,What is my co-pay for specialist visits?,benefit_coverage
+,,What is my co-pay for specialist MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,How much will the procedure cost me out of pocket?,benefit_coverage
+,,How much will this cost?,benefit_coverage
+,,How much would I pay for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,What prenatal care does my policy cover?,benefit_coverage
+,,"Hello, can you please tell me if I have cover for MASKING_PROCEDURE_NAME_1?",benefit_coverage
+,,How much will I have to pay out of pocket for MASKING_MEDICAL_CONDITION_1 work?,benefit_coverage
+,,How much out of pocket costs will I have to pay for an x-ray?,benefit_coverage
+,,How much out of pocket costs will I have to pay for an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Are glasses covered?,benefit_coverage
+,,Are eye exams included in my insurance?,benefit_coverage
+,,Are dental xrays covered with my medical imaging insurance?,benefit_coverage
+,,How much of my MRI scan will you cover?,benefit_coverage
+,,Where can I get a new insulin pump?,benefit_coverage
+,,What kind of doctor do I need to see to have my strep test covered by Insurance?,benefit_coverage
+,,what will my coverage pay for the rehab my doctor recommended?,benefit_coverage
+,,will my insurance cover 100% of the cost of the proceedure,benefit_coverage
+,,My MASKING_DEPENDENT_RELATIONSHIP_1 is MASKING_NUMBER_a months pregnant. Does she qualify to get a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,will my insurance cover MASKING_NUMBER_a% of the cost of the proceedure,benefit_coverage
+,,"Hello, can you please tell me if I have cover for Influenza?",benefit_coverage
+,,How much does an H. pylori breath test cost?,benefit_coverage
+,,How much does an MASKING_PROCEDURE_NAME_1 cost out-of-pocket?,benefit_coverage
+,,How will my insurance cover a nuchal translucency scan?,benefit_coverage
+,,I am having MASKING_PROVIDER_SPECIALTY_1 at MASKING_FACILITY_NAME_1.? Can you tell me my coverage?,benefit_coverage
+,,I am having issues with MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,If I need to get a root canal is this covered by my insurance,benefit_coverage
+,,i need an MASKING_PROCEDURE_NAME_1 of my boobs,benefit_coverage
+,,i need an xray of my boobs,benefit_coverage
+,,Does my insurance cover talking to a MASKING_PROFESSIONAL_GROUP_1?,benefit_coverage
+,,Does my insurance cover talking to a therapist?,benefit_coverage
+,,Does my insurance cover this procedure?,benefit_coverage
+,,Does my insurance plan pay for a new MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Does my insurance plan pay for a new insulin pump?,benefit_coverage
+,,"Hello, can you please assist and tell me if I have cover on my policy for Chiropractic care?",benefit_coverage
+,,i have to MASKING_PROCEDURE_NAME_3 my MASKING_PROCEDURE_NAME_1 and want to know what my out of pocket cost will be,benefit_coverage
+,,i have to schedule my colonoscopy and want to know what my out of pocket cost will be,benefit_coverage
+,,how much will it cost for my MASKING_DEPENDENT_RELATIONSHIP_1 to do a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,how much will it cost for my wife to do a breast cancer exam?,benefit_coverage
+,,MASKING_PERSON_NAME_1 this MASKING_PROCEDURE_NAME_1 be covered MASKING_NUMBER_a% as MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,,how should I treat a mild MASKING_MEDICAL_CONDITION_1?,benefit_coverage
+,,Does my massage have to be with an RMT for it to be covered?,benefit_coverage
+,,Can I have a colonoscopy at RPA Lagrange Hospital?,benefit_coverage
+,,Can I have a MASKING_PROCEDURE_NAME_1 at MASKING_FACILITY_NAME_1?,benefit_coverage
+,,What is my out of pocket costs for facility and MASKING_PROFESSIONAL_GROUP_1 for a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,What is my maternity coverage?,benefit_coverage
+,,"Hello, can you please MASKING_PROCEDURE_NAME_3 and tell me if I have cover on my policy for MASKING_PROVIDER_SPECIALTY_1 care?",benefit_coverage
+,,Does my plan cover acupuncture?,benefit_coverage
+,,How am I covered for couples therapy,benefit_coverage
+,,How am I covered for MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,"Hi, I'm having orthopedic surgery. Can you help me figure out my coverage?",benefit_coverage
+,,"Hi, I'm having MASKING_PROVIDER_SPECIALTY_1. Can you help me figure out my coverage?",benefit_coverage
+,,"Hi Watson, I need to find out if my check-up is covered by my insurance",benefit_coverage
+,,Are dental xrays covered with my MASKING_PROCEDURE_NAME_1 insurance?,benefit_coverage
+,,severe sepsis and septic shock procedure cost,benefit_coverage
+,,want to know if breast pumps are part of my benefits under my present insurance.,benefit_coverage
+,,What's the cost of doing a CAT scan with my insurance policy?,benefit_coverage
+,,need a mammogram,benefit_coverage
+,,Where can I get a new MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Will my insurance cover a nuchal translucency scan completely or partially?,benefit_coverage
+,,How much will an eye MASKING_PROCEDURE_NAME_1 cost,benefit_coverage
+,,I want to have information about the MASKING_PROCEDURE_NAME_1 and whether my insurance will cover this procedure,benefit_coverage
+,,I want to find out what level of benefits I have for child birth and acupuncture,benefit_coverage
+,,What will my out of pocket cost be for this visit?,benefit_coverage
+,,What will my out of pocket cost be for this MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,is my procedure covered by my MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,"i need to get a flu shot, is that covered ?",benefit_coverage
+,,"i need to get a MASKING_PROCEDURE_NAME_1, is that covered ?",benefit_coverage
+,,I would like to know what the cost will be to get a MASKING_NUMBER_aD MASKING_PROCEDURE_NAME_3 instead of the standard MASKING_PROCEDURE_NAME_2?,benefit_coverage
+,,I would like to know what the cost will be to get a 3D Mammogram instead of the standard mammogram?,benefit_coverage
+,,I would like to know if breast pumps are part of my benefit,benefit_coverage
+,,I would like to know if MASKING_PROCEDURE_NAME_1 are part of my benefit,benefit_coverage
+,,"If I have to have a new insulin pump, will that be covered",benefit_coverage
+,,My MASKING_DEPENDENT_RELATIONSHIP_1 is getting MASKING_PROCEDURE_NAME_1.  How much will insurance cover vs. my expense?  Are there any hidden fees?,benefit_coverage
+,,i need me some to get some MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,What is my co-pay for an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,What is my co-pay for an office visit?,benefit_coverage
+,,What will I pay for out of network lab charges for a Pap?,benefit_coverage
+,,What will I pay for out of network MASKING_MEDICAL_CONDITION_1 charges for a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,What types of fertility treatments are covered by my plan?,benefit_coverage
+,,Does my plan cover MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,,MASKING_MEDICAL_CONDITION_1,benefit_coverage
+,,"Hi MASKING_PERSON_NAME_1, I need to find out if my MASKING_PROCEDURE_NAME_1 is covered by my insurance",benefit_coverage
+,,I am having orthopedic surgery at ETH Hospital.? Can you tell me my coverage?,benefit_coverage
+,,Can I receive rountine medical care?,benefit_coverage
+,,Are MASKING_PROCEDURE_NAME_1 covered?,benefit_coverage
+,,What is my deductible for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Are MASKING_PROVIDER_SPECIALTY_1 covered with my current insurance?,benefit_coverage
+,,Are MASKING_PROCEDURE_NAME_1 included in my insurance?,benefit_coverage
+,,How much does an H. pylori MASKING_PROCEDURE_NAME_1 cost?,benefit_coverage
+,,What would be my co-pay in a nuchal translucency scan>,benefit_coverage
+,,What would be my co-pay in a MASKING_PROCEDURE_NAME_1>,benefit_coverage
+,,What is my deductible on infertilitly treatments,benefit_coverage
+,,What is my deductible on infertilitly MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,What is my deductible for hearing aids?,benefit_coverage
+,,What is my deductible for an in-office visit?,benefit_coverage
+,,How much would I pay for in vitro procedures?,benefit_coverage
+,,What's the cost of doing a MASKING_PROCEDURE_NAME_1 with my insurance policy?,benefit_coverage
+,,Are MASKING_PROCEDURE_NAME_1 covered by my MASKING_PROCEDURE_NAME_1 ?,benefit_coverage
+,,Am I eligible for my annual check up visit?,benefit_coverage
+,,can i get a MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,Can I go to Duke Health Clinic for procedure ?,benefit_coverage
+,,Are orthotics covered with my current insurance?,benefit_coverage
+,,Can you me tell me about MASKING_PROVIDER_SPECIALTY_1 benefits please?,benefit_coverage
+,,my doctor suggested me to go for Colonoscopy. does it under my coverage?,benefit_coverage
+,,need a MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,How much would I pay out of pocket for a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,need to know how much my MASKING_PROCEDURE_NAME_1 exam will cost under my plan.,benefit_coverage
+,,Is the chiropractor covered under my plan?,benefit_coverage
+,,"Is the cost of MASKING_PROCEDURE_NAME_1 included? If yes, what's the maximum amount that is covered?",benefit_coverage
+,,"Is the cost of lab tests included? If yes, what's the maximum amount that is covered?",benefit_coverage
+,,Is this procedure covered under my plan?,benefit_coverage
+,,Is this procedure covered?,benefit_coverage
+,,Does my MASKING_PROCEDURE_NAME_1 cover MASKING_MEDICAL_CONDITION_1 fillings at the MASKING_PROFESSIONAL_GROUP_1?,benefit_coverage
+,,What are my benefits when it comes to Flu Vaccines?,benefit_coverage
+,,"If I have to have a new MASKING_PROCEDURE_NAME_1, will that be covered",benefit_coverage
+,,"If I have an outpatient procedure, how much or what percentage would I have to out of pocket?",benefit_coverage
+,,"If I have an MASKING_PROCEDURE_NAME_1, how much or what percentage would I have to out of pocket?",benefit_coverage
+,,What percentage of my bill will my insurance pay for this procedure / lab work / visit?,benefit_coverage
+,,What percentage of my bill will my insurance pay for this procedure / MASKING_MEDICAL_CONDITION_1 work / MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,What kind of MASKING_PROFESSIONAL_GROUP_1 do I need to see to have my MASKING_MEDICAL_CONDITION_1 MASKING_PROCEDURE_NAME_1 covered by Insurance?,benefit_coverage
+,,What is the estimated copay for my visit?,benefit_coverage
+,,What is the estimated copay for my MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,What is the copay for this session?,benefit_coverage
+,,What is the average cost of procedure XYZ?,benefit_coverage
+,,What is my out of pocket responsibility for an annual doctor visit?,benefit_coverage
+,,Do I have coverage for shoulder surgery?,benefit_coverage
+,,Is knee surgery covered for me? How much is it going to cost?,benefit_coverage
+,,What is my out of pocket expense for this procedure?,benefit_coverage
+,,What is my out of pocket costs for facility and physician for a total knee replacement?,benefit_coverage
+,,"I need MASKING_PROCEDURE_NAME_1 for my left knee, how much will that cost me? Is it covered?",benefit_coverage
+,,I need MASKING_PROCEDURE_NAME_1.  Is that covered?,benefit_coverage
+,,I need MASKING_PROVIDER_SPECIALTY_1 to MASKING_PROCEDURE_NAME_1. Is that covered.,benefit_coverage
+,,"I need knee surgery for my left knee, how much will that cost me? Is it covered?",benefit_coverage
+,,How many PT sessions are covered?,benefit_coverage
+,,My MASKING_PROFESSIONAL_GROUP_1 MASKING_PROCEDURE_NAME_3 me that I need to get a MASKING_PROCEDURE_NAME_1 and I wanted to check if my plan MASKING_PROCEDURE_NAME_3 me for this?,benefit_coverage
+,,My MASKING_DEPENDENT_RELATIONSHIP_1 needs a MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,need to know how much my annual physical exam will cost under my plan.,benefit_coverage
+,,How much will a regular checkup be if my doctor is out of network?,benefit_coverage
+,,Is a MASKING_PROCEDURE_NAME_1 from a MASKING_PROVIDER_SPECIALTY_1 covered under my plan?,benefit_coverage
+,,Is a checkup covered,benefit_coverage
+,,my MASKING_PROFESSIONAL_GROUP_1 suggested me to go for MASKING_PROCEDURE_NAME_1. does it under my coverage?,benefit_coverage
+,,Does my insurance cover MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Is a spinal adjustment from a Chiropractor covered under my plan?,benefit_coverage
+,,Is acupuncture a covered benefit?,benefit_coverage
+,,Is an EKG covered in my annual physical if my doctor feels it is appropriate based on our discussion during the physical?,benefit_coverage
+,,Is an MASKING_PROCEDURE_NAME_6 covered in my MASKING_PROCEDURE_NAME_1 if my MASKING_PROFESSIONAL_GROUP_1 feels it is appropriate based on our MASKING_PROCEDURE_NAME_2 during the MASKING_PROCEDURE_NAME_3?,benefit_coverage
+,,"Is bariatric surgery covered under the plan, and do I have use a specific facility?",benefit_coverage
+,,Is colonoscopy covered under PP with HSA at no cost?,benefit_coverage
+,,"If I want to get genetic testing done because I have a family history of particular diseases, is it covered?",benefit_coverage
+,,Im looking to see if I can have the MASKING_PROCEDURE_NAME_1 under my eyes removed,benefit_coverage
+,,Im looking to see if I can have the bags under my eyes removed,benefit_coverage
+,,Is LASIK covered by my plan?,benefit_coverage
+,,Is MASKING_PROCEDURE_NAME_1 covered by my plan?,benefit_coverage
+,,Is MASKING_PROCEDURE_NAME_1 covered for me? How much is it going to cost?,benefit_coverage
+,,Is MASKING_PROCEDURE_NAME_1 covered under PP with HSA at no cost?,benefit_coverage
+,,I am having issues with male infertility,benefit_coverage
+,,Also I need a new MASKING_PROCEDURE_NAME_1. How much is that? Does my insurance cover it?,benefit_coverage
+,,Also I need a new insulin pump. How much is that? Does my insurance cover it?,benefit_coverage
+,,Am I MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Am I covered for a strep throat test?,benefit_coverage
+,,How much does an endoscopy cost out-of-pocket?,benefit_coverage
+,,Can you me tell me about Acupuncture benefits please?,benefit_coverage
+,,Can I have weightloss surgery?,benefit_coverage
+,,Can I have weightloss MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,,How often should I get a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,How will my insurance cover a MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,What will my portion of the cost for this procedure be?,benefit_coverage
+,,"I have already had 2 xrays this year, how many more am I eligible for?",benefit_coverage
+,,"I have already had 2 xrays this year,  how many more am I eligible for?",benefit_coverage
+,,I would like to get a second opinion on the reading of my abdominal ultrasound. Is this covered and what is the process?,benefit_coverage
+,,I would like to get a second opinion on the reading of my MASKING_PROCEDURE_NAME_1. Is this covered and what is the process?,benefit_coverage
+,,I want to visit my doctor to see if I am healthy,benefit_coverage
+,,I want to have information about the nuchal translucency scan and whether my insurance will cover this procedure,benefit_coverage
+,,what will my coverage pay for the MASKING_PROVIDER_SPECIALTY_1 my MASKING_PROFESSIONAL_GROUP_1 recommended?,benefit_coverage
+,,How much can I claim back for a gp visit?,benefit_coverage
+,,How much can I claim back for a gp MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,How much am I covered for massages?,benefit_coverage
+,,How much am I covered for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,How many PT sessions are covered? What is my copay for PT?,benefit_coverage
+,,do I have MASKING_PROCEDURE_NAME_1 coverage as a benefit? My MASKING_DEPENDENT_RELATIONSHIP_1 will need this,benefit_coverage
+,,can i have a colonoscopy,benefit_coverage
+,,can i have a MASKING_PROCEDURE_NAME_1,benefit_coverage
+,,can i get a new hip?,benefit_coverage
+,,I've just dicovered that I'm pregnant and want to see what maternity care is available to me on my current plan.,benefit_coverage
+,,I've just dicovered that I'm pregnant and want to see what MASKING_PROVIDER_SPECIALTY_1 is available to me on my current plan.,benefit_coverage
+,,Are the MASKING_PROCEDURE_NAME_1 for MASKING_MEDICAL_CONDITION_1 covered? How much do I have to pay to get a new one? The one I have is old so I should probably replace it,benefit_coverage
+,,Does my insurance cover an MRI?,benefit_coverage
+,,Does my insurance cover an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Can I get my cholesterol levels checked?,benefit_coverage
+,,i need me some to get some prenatal care,benefit_coverage
+,,I think I need to have a knee replacement done this year. Can you tell me how that will affect my coverage?,benefit_coverage
+,,"Is MASKING_PROCEDURE_NAME_1 covered under the plan, and do I have use a specific facility?",benefit_coverage
+,,do I have prenatal care coverage as a benefit? My wife will need this,benefit_coverage
+,,does my dependents cover routine health check,benefit_coverage
+,,I'm pregnant right now and my doctor suggested I schedule a nuchal translucency scan. Is that covered by my health insurance? How much is that going to cost? And where should I get this done?,benefit_coverage
+,,How much is the average liver functionality test? Does insurance cover that?,benefit_coverage
+,,Do I have to pay for a breast pump or will my insurance cover that cost?,benefit_coverage
+,,Does my insurance cover nuchal translucency scans? Also does it cover breast pumps? How much will I have to pay for both?,benefit_coverage
+,,Do I have to pay for a MASKING_PROCEDURE_NAME_1 or will my insurance cover that cost?,benefit_coverage
+,,What is my out of pocket responsibility for an MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Do I have coverage for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Can you please tell me about benefits relating to orthopedic surgery?,benefit_coverage
+,,Can you please tell me about benefits relating to MASKING_PROVIDER_SPECIALTY_1?,benefit_coverage
+,,What will be my out of pocket cost for the visit?,benefit_coverage
+,,Are the pumps for diabetes covered? How much do I have to pay to get a new one? The one I have is old so I should probably replace it,benefit_coverage
+,,Are there benefit limitations under my plan for MASKING_PROCEDURE_NAME_1?,benefit_coverage
+,,Will this lab test be covered 100% as preventive care?,benefit_coverage
+,,Have I reached my annual deductible yet?,deductible_oop_inquiry
+,,What are my deductibles?,deductible_oop_inquiry
+,,Have I met my deductible?,deductible_oop_inquiry
+,,"I have a high deductible MASKING_PROCEDURE_NAME_1 policy with HSA, how much is the MASKING_DEPENDENT_RELATIONSHIP_1 deductible for this year?",deductible_oop_inquiry
+,,How much did I pay out-of-pocket in MASKING_NUMBER_a?,deductible_oop_inquiry
+,,how much is remaining in my deductible?,deductible_oop_inquiry
+,,Is there an individual deductible maximum within our family deductible amount?,deductible_oop_inquiry
+,,"I have a high deductible health insurance policy with HSA, how much is the family deductible for this year?",deductible_oop_inquiry
+,,What's the out of pocket maximum on my personal insurance plan?,deductible_oop_inquiry
+,,How much is my deductible?,deductible_oop_inquiry
+,,Where am I on hitting my deductible?,deductible_oop_inquiry
+,,What is my MASKING_DEPENDENT_RELATIONSHIP_1 deductible?,deductible_oop_inquiry
+,,How much of my annual deductible have I met?,deductible_oop_inquiry
+,,What is my family deductible?,deductible_oop_inquiry
+,,How close am I to hitting my deductible? ,deductible_oop_inquiry
+,,"Currently, how much of my deductible and my family deductible threshold amounts are satisfied for this year?",deductible_oop_inquiry
+,,How much do I have left until I hit my deductible? ,deductible_oop_inquiry
+,,what is my out-of-pocket-maximum for this year?,deductible_oop_inquiry
+,,I want to know if I have met my deductible yet this year.,deductible_oop_inquiry
+,,How much is left on my deductible?,deductible_oop_inquiry
+,,how much of my deductible is remaining?,deductible_oop_inquiry
+,,Will the cost of this service exhaust my deductible?,deductible_oop_inquiry
+,,What is my deductible?,deductible_oop_inquiry
+,,How much did I pay out-of-pocket in 2017?,deductible_oop_inquiry
+,,does the co-pay for office visit count towards my deductible?,deductible_oop_inquiry
+,,does the co-pay for MASKING_PROCEDURE_NAME_1 count towards my deductible?,deductible_oop_inquiry
+,,Hi! I wanted to know how much is my deductible?,deductible_oop_inquiry
+,,How much more do I have to spend to meet the deductible of my high-deductible plan?,deductible_oop_inquiry
+,,Has my child met his individual annual deductible?,deductible_oop_inquiry
+,,How close to my deductible am I?,deductible_oop_inquiry
+,,What is my deductible for in-network?,deductible_oop_inquiry
+,,"What happens when I exceed my ""Annual Deductible""?",deductible_oop_inquiry
+,,Where am I relative to my out of pocket max?,deductible_oop_inquiry
+,,What is my out of pocket maximum?,deductible_oop_inquiry
+,,Is there an individual deductible maximum within our MASKING_DEPENDENT_RELATIONSHIP_1 deductible amount?,deductible_oop_inquiry
+,,How much of my deductible do I have left?,deductible_oop_inquiry
+,,Can you tell me if my deductible has been met on my insurance ?,deductible_oop_inquiry
+,,What is my coinsurance out of pocket maximum?,deductible_oop_inquiry
+,,how do i know if i met my detectible ,deductible_oop_inquiry
+,,"Currently, how much of my deductible and my MASKING_DEPENDENT_RELATIONSHIP_1 deductible threshold amounts are satisfied for this year?",deductible_oop_inquiry
+,,MASKING_PERSON_NAME_1 the cost of this service MASKING_MEDICAL_CONDITION_1 my deductible?,deductible_oop_inquiry
+,,How much is my out of pocket maximum?,deductible_oop_inquiry
+,,MASKING_PROCEDURE_NAME_1 met his individual annual deductible?,deductible_oop_inquiry
+,,I can not choose now,dont_know_yet_maybe
+,,I haven't decided yet,dont_know_yet_maybe
+,,Both options seems relevant,dont_know_yet_maybe
+,,unknown,dont_know_yet_maybe
+,,I don't know,dont_know_yet_maybe
+,,I'm not sure what option to take,dont_know_yet_maybe
+,,no idea,dont_know_yet_maybe
+,,Maybe I will choose X option,dont_know_yet_maybe
+,,"i can, just one sec",exclaimation_positive
+,,thank you,exclaimation_positive
+,,Cool,exclaimation_positive
+,,Super,exclaimation_positive
+,,terrific,exclaimation_positive
+,,cool beans,exclaimation_positive
+,,amazing!,exclaimation_positive
+,,i love this,exclaimation_positive
+,,"good, thanks",exclaimation_positive
+,,adorable,exclaimation_positive
+,,alright,exclaimation_positive
+,,"thanks, good",exclaimation_positive
+,,wonderful,exclaimation_positive
+,,that would be great,exclaimation_positive
+,,this is awesome,exclaimation_positive
+,,excellent,exclaimation_positive
+,,thx,exclaimation_positive
+,,Awesome,exclaimation_positive
+,,incredible,exclaimation_positive
+,,thats cute,exclaimation_positive
+,,shit,exclamation_negative
+,,ugh. annoyed,exclamation_negative
+,,I dont think so,exclamation_negative
+,,wrong answer,exclamation_negative
+,,that did not work,exclamation_negative
+,,absolutely not,exclamation_negative
+,,that sucks,exclamation_negative
+,,you are not right,exclamation_negative
+,,there is an error,exclamation_negative
+,,you are wrong,exclamation_negative
+,,it didnt work,exclamation_negative
+,,ive been better,feelings_bad
+,,not good,feelings_bad
+,,terrible,feelings_bad
+,,really bad,feelings_bad
+,,ive had better days,feelings_bad
+,,not too goo,feelings_bad
+,,the worst!,feelings_bad
+,,not well,feelings_bad
+,,not great,feelings_bad
+,,horrible!,feelings_bad
+,,not okay,feelings_bad
+,,not the best,feelings_bad
+,,this is frustrating,feelings_bad
+,,not too good...,feelings_bad
+,,this is the worst,feelings_bad
+,,awful,feelings_bad
+,,not too great,feelings_bad
+,,that's dissapointing,feelings_bad
+,,im unhappy,feelings_bad
+,,i hate you,feelings_bad
+,,poor,feelings_bad
+,,this is awful,feelings_bad
+,,bad,feelings_bad
+,,not doing good,feelings_bad
+,,not doing well,feelings_bad
+,,this sucks,feelings_bad
+,,sucks,feelings_bad
+,,im sad,feelings_bad
+,,crappy,feelings_bad
+,,im quite dissapointed,feelings_bad
+,,shitty,feelings_bad
+,,very disapointing to hear that,feelings_bad
+,,i am not happy,feelings_bad
+,,not so good,feelings_bad
+,,unwell,feelings_bad
+,,well,feelings_good
+,,cooooooooooooool,feelings_good
+,,good goo,feelings_good
+,,not too bad,feelings_good
+,,im happy,feelings_good
+,,not bad,feelings_good
+,,pretty good,feelings_good
+,,pretty great,feelings_good
+,,goo,feelings_good
+,,great,feelings_good
+,,pretty well,feelings_good
+,,I'm doing well,feelings_good
+,,goo u,feelings_good
+,,really good,feelings_good
+,,no complaints,feelings_good
+,,can't complain,feelings_good
+,,good,feelings_good
+,,I need to go to ER what is my coverage,medical_emergency
+,,I need to go to MASKING_PROCEDURE_NAME_1 what is my coverage,medical_emergency
+,,I'm having severe pain in the belly. Can I go to ER?,medical_emergency
+,,Do I have to MASKING_PROCEDURE_NAME_4 you before going to MASKING_PROCEDURE_NAME_1?,medical_emergency
+,,Do I have to inform you before going to emergency care?,medical_emergency
+,,I'm having MASKING_PROCEDURE_NAME_1. Can I go to MASKING_PROCEDURE_NAME_2?,medical_emergency
+,,do i need to get approval for an emergency?,medical_emergency
+,,how does it work with medical emergency,medical_emergency
+,,should I let you know when I have a medical emergency?,medical_emergency
+,,do i need to get approval for an MASKING_PROCEDURE_NAME_1?,medical_emergency
+,,I have an emergency...,medical_emergency
+,,Do I need to call the insurance department if I am having a medical emergency?,medical_emergency
+,,"Help, I'm out of town and am injured. Who should I see?",medical_emergency
+,,I have an MASKING_PROCEDURE_NAME_1...,medical_emergency
+,,"sorry, no",no
+,,nothing,no
+,,no,no
+,,don't want,no
+,,"No, that's it",no
+,,n,no
+,,no thanks,no
+,,not,no
+,,nop,no
+,,y,yes
+,,okay,yes
+,,ok,yes
+,,k,yes
+,,sure,yes
+,,yup,yes
+,,yes,yes
+,,yep,yes
+,,is there a separate deductible for mental health benefits,deductible_oop_inquiry
+,,mental health deductible,deductible_oop_inquiry
+,,deductible for MASKING_PROCEDURE_NAME_1,deductible_oop_inquiry
+,,do MASKING_PROVIDER_SPECIALTY_1 services apply toward the regular deductible,deductible_oop_inquiry
+,,what is the deductible for mental health,deductible_oop_inquiry
+,,Is there a lifetime MASKING_PROCEDURE_NAME_1 on MASKING_PROCEDURE_NAME_1,deductible_oop_inquiry
+,,MASKING_PROVIDER_SPECIALTY_1 lifetime limit,deductible_oop_inquiry
+,,Is there a year-over-year limit on MASKING_PROVIDER_SPECIALTY_1 expenses?,deductible_oop_inquiry
+,,Lifetime max for mental health,deductible_oop_inquiry
+,,MASKING_PROCEDURE_NAME_1 life time maximum,deductible_oop_inquiry
+,,What is the out of pocket maximum for MASKING_PROCEDURE_NAME_1?,deductible_oop_inquiry
+,,What's the most I could possibly pay if I have to send my MASKING_DEPENDENT_RELATIONSHIP_1 to MASKING_PROVIDER_SPECIALTY_1,deductible_oop_inquiry
+,,Do MASKING_PROCEDURE_NAME_1 apply to the out of pocket max?,deductible_oop_inquiry
+,,Is there a separate annual limit for mental health benefits?,deductible_oop_inquiry
+,,Maximum yearly amount for MASKING_PROCEDURE_NAME_1,deductible_oop_inquiry
+,,after meeting deductable,deductible_oop_inquiry
+,,am i close to meeting my deductible,deductible_oop_inquiry
+,,calendar year or plan year deductible accumulation,deductible_oop_inquiry
+,,can i get the cost that has to be paid before i do anything can you help with that thanks,deductible_oop_inquiry
+,,can i meet my deductible with copays,deductible_oop_inquiry
+,,can i satisfy the whole MASKING_DEPENDENT_RELATIONSHIP_1 deductible myself,deductible_oop_inquiry
+,,can the full MASKING_NUMBER_a deductible be met by one participant in the plan,deductible_oop_inquiry
+,,can what i spend on copays count toward meeting my deductible,deductible_oop_inquiry
+,,can you see how much i have paid towards my deductable,deductible_oop_inquiry
+,,can you tell me what my deductible is,deductible_oop_inquiry
+,,carryover of deductible,deductible_oop_inquiry
+,,cost to meet in network deductible,deductible_oop_inquiry
+,,cost to meet out of network deductible,deductible_oop_inquiry
+,,deductible amount,deductible_oop_inquiry
+,,deductible based on calendar year or plan year,deductible_oop_inquiry
+,,deductible limit,deductible_oop_inquiry
+,,deductible totals,deductible_oop_inquiry
+,,do i have a deductible,deductible_oop_inquiry
+,,do i have to pay for claims before the plan starts to pay,deductible_oop_inquiry
+,,do i need to meet my deductible for MASKING_PROVIDER_SPECIALTY_1,deductible_oop_inquiry
+,,do i need to meet my deductible for preventive MASKING_PROCEDURE_NAME_1,deductible_oop_inquiry
+,,do i pay MASKING_NUMBER_a percent until i meet the individual deductable,deductible_oop_inquiry
+,,do you know if i have a deductible that i need to pay thanks,deductible_oop_inquiry
+,,do you know if i have met my deductible yet,deductible_oop_inquiry
+,,does deductible carryover,deductible_oop_inquiry
+,,does my copay accumulate toward my deductible,deductible_oop_inquiry
+,,does my copay count toward my deductible,deductible_oop_inquiry
+,,does my deductible accumulate during my calendar year or plan year,deductible_oop_inquiry
+,,does my deductible need to be met before my plan will pay on claims,deductible_oop_inquiry
+,,does my plan have an in network deductible,deductible_oop_inquiry
+,,does my plan have an overall in network deductible,deductible_oop_inquiry
+,,does paying copays help me reach my overall in network deductible,deductible_oop_inquiry
+,,does the deductible apply for MASKING_PROVIDER_SPECIALTY_1,deductible_oop_inquiry
+,,MASKING_DEPENDENT_RELATIONSHIP_1 deductable,deductible_oop_inquiry
+,,has my deductible been met,deductible_oop_inquiry
+,,have i met m y deductible,deductible_oop_inquiry
+,,have i met my deductible,deductible_oop_inquiry
+,,have i reached my deductubles,deductible_oop_inquiry
+,,have i used my deductible,deductible_oop_inquiry
+,,hello what is my deductible,deductible_oop_inquiry
+,,hi can you tell me how does a deductible work i need to find out thanks,deductible_oop_inquiry
+,,hi can you tell me if i have met my deductible thanks,deductible_oop_inquiry
+,,hi i thought that i had already met my deductible so why did i get a bill,deductible_oop_inquiry
+,,how do i find out if i have met my deductable,deductible_oop_inquiry
+,,how do i meet my deductible,deductible_oop_inquiry
+,,how do i meet my overall in network deductible,deductible_oop_inquiry
+,,how do i meet my overall out of network deductible,deductible_oop_inquiry
+,,how does it work with with my deductible,deductible_oop_inquiry
+,,how does my deductible work,deductible_oop_inquiry
+,,how does the deductible work,deductible_oop_inquiry
+,,how much do i have left on my deductible,deductible_oop_inquiry
+,,how much do i have to pay before medical insurance will cover my expenses,deductible_oop_inquiry
+,,how much do i have to pay before the plan begins to pay,deductible_oop_inquiry
+,,how much do i have to pay before the plan pays,deductible_oop_inquiry
+,,how much do i have to spend before i meet my deductible,deductible_oop_inquiry
+,,how much do i need to spend before meeting my in network deductible,deductible_oop_inquiry
+,,how much have i paid towards my deductible so far,deductible_oop_inquiry
+,,how much have i paid towards my deductiblee,deductible_oop_inquiry
+,,how much is left in my deductible,deductible_oop_inquiry
+,,how much is left on my deductible,deductible_oop_inquiry
+,,how much is the deductable,deductible_oop_inquiry
+,,how much is my deductible,deductible_oop_inquiry
+,,how much is my non network deductible,deductible_oop_inquiry
+,,how much of my deductible has been met,deductible_oop_inquiry
+,,how much of my deductible i have spent already,deductible_oop_inquiry
+,,i know that i have that amount i have to pay toward medical first can you tell me how much is left to pay,deductible_oop_inquiry
+,,i know there is an amount that i have to pay first can you tell me more about that,deductible_oop_inquiry
+,,i need to find out what my deductible MASKING_PROCEDURE_NAME_1 is do you know,deductible_oop_inquiry
+,,if i am paying for MASKING_PROCEDURE_NAME_1 outside of the network is there ways i can save money or it go to my deductible,deductible_oop_inquiry
+,,if i have covered MASKING_DEPENDENT_RELATIONSHIP_1 under an hsa eligible plan option how do the deductibles work,deductible_oop_inquiry
+,,in network deductible,deductible_oop_inquiry
+,,is a deductible on a per MASKING_PROVIDER_SPECIALTY_1 basis or once you hit the MASKING_NUMBER_a deductible you no longer pay,deductible_oop_inquiry
+,,is the deductible based on the calendar year or plan year,deductible_oop_inquiry
+,,is there a dollar amount that has to be paid before i go to a MASKING_PROFESSIONAL_GROUP_1,deductible_oop_inquiry
+,,is there a limit per participant on reaching the maximum MASKING_DEPENDENT_RELATIONSHIP_1 deductible,deductible_oop_inquiry
+,,is there a MASKING_PROVIDER_SPECIALTY_1 deductible,deductible_oop_inquiry
+,,is there a preventive MASKING_PROCEDURE_NAME_1 care deductible,deductible_oop_inquiry
+,,is there an amount of charges i have to pay before the plan starts to pay,deductible_oop_inquiry
+,,is there a deductible on my plan,deductible_oop_inquiry
+,,must individual meet the MASKING_DEPENDENT_RELATIONSHIP_1 deductible,deductible_oop_inquiry
+,,my deductible is how much,deductible_oop_inquiry
+,,my insurance year is MASKING_PERSON_NAME_1 will costs in may and june count towards this years deductible,deductible_oop_inquiry
+,,non network deductible,deductible_oop_inquiry
+,,on my plan what is the deductable amount,deductible_oop_inquiry
+,,out of network deductible,deductible_oop_inquiry
+,,tracking my deductable,deductible_oop_inquiry
+,,uhc only paid a part of my MASKING_PROCEDURE_NAME_1 even though i met my deductible,deductible_oop_inquiry
+,,ways to meet my deductible,deductible_oop_inquiry
+,,wha tis my deductible,deductible_oop_inquiry
+,,what are my current deductibles,deductible_oop_inquiry
+,,what are my deductibles,deductible_oop_inquiry
+,,what are my in network limits,deductible_oop_inquiry
+,,what are the deductibles,deductible_oop_inquiry
+,,what counts toward meeting my deductible,deductible_oop_inquiry
+,,what deductible amount do i have to meet,deductible_oop_inquiry
+,,what does insurance cover once i meet my deductible,deductible_oop_inquiry
+,,what goes against the deducatble,deductible_oop_inquiry
+,,what happens after deductible has been met,deductible_oop_inquiry
+,,what helps me meet my deductible,deductible_oop_inquiry
+,,what is my annual deductible,deductible_oop_inquiry
+,,what is my current deductible amount,deductible_oop_inquiry
+,,what is my ded,deductible_oop_inquiry
+,,what is my deductable,deductible_oop_inquiry
+,,what is my deductibe,deductible_oop_inquiry
+,,what is my deductible,deductible_oop_inquiry
+,,what is my MASKING_DEPENDENT_RELATIONSHIP_1 deductible,deductible_oop_inquiry
+,,what is my health deductible,deductible_oop_inquiry
+,,what is my individual ded,deductible_oop_inquiry
+,,what is my individual deductible,deductible_oop_inquiry
+,,what is my medical deductable,deductible_oop_inquiry
+,,what is my overall deductible,deductible_oop_inquiry
+,,what is my overall non network deductible,deductible_oop_inquiry
+,,what is my plan deductible,deductible_oop_inquiry
+,,what is my plans individual deductible,deductible_oop_inquiry
+,,what is my preventive deductible,deductible_oop_inquiry
+,,what is my preventive MASKING_PROCEDURE_NAME_1 deductible,deductible_oop_inquiry
+,,what is my total deductable,deductible_oop_inquiry
+,,what is the amount for meeting my deductible,deductible_oop_inquiry
+,,what is the amount i need to meet before coverage applies,deductible_oop_inquiry
+,,what is the amount of money i need to meet each year before things are covered,deductible_oop_inquiry
+,,what is the deductible,deductible_oop_inquiry
+,,what is the deductible on my plan,deductible_oop_inquiry
+,,what is the deductible this year,deductible_oop_inquiry
+,,what is the in network deductible,deductible_oop_inquiry
+,,what is the maximum out of pocket deductable,deductible_oop_inquiry
+,,what is the out of network deductible amount,deductible_oop_inquiry
+,,what is the overall deductible,deductible_oop_inquiry
+,,what will i pay after meeting MASKING_DEPENDENT_RELATIONSHIP_1 deductable,deductible_oop_inquiry
+,,when does my deductible reset,deductible_oop_inquiry
+,,where am i with my deductible,deductible_oop_inquiry
+,,why am i getting bills if i met my deductible,deductible_oop_inquiry
+,,why did my plan not pay for everything after i met my deductible,deductible_oop_inquiry
+,,why do i still get a bill after meeting my deductible,deductible_oop_inquiry
+,,why does insurance only cover part of MASKING_PROCEDURE_NAME_1 even after i meet my deductible,deductible_oop_inquiry
+,,why does MASKING_PERSON_NAME_1 only pay for a portion of my procedure costs,deductible_oop_inquiry
+,,will paying copays help me reach my deductible,deductible_oop_inquiry
+,,with family coverage does each participant have to contribute a portion towards deductible,deductible_oop_inquiry
+,,yes can you tell me if i have a deductible or not,deductible_oop_inquiry
+,,how much is my deductible,deductible_oop_inquiry
+,,What out of pocket expenses are put toward my deductible,deductible_oop_inquiry
+,,are there MASKING_MEDICAL_CONDITION_1 specific deductibles,deductible_oop_inquiry
+,,are there other deductibles for special services,deductible_oop_inquiry
+,,are there special service deductibles,deductible_oop_inquiry
+,,do i have to meet a MASKING_MEDICAL_CONDITION_1 specific deductible,deductible_oop_inquiry
+,,do i have to meet a special service deductible,deductible_oop_inquiry
+,,does my plan have a MASKING_MEDICAL_CONDITION_1 specific deductible,deductible_oop_inquiry
+,,how much is my MASKING_MEDICAL_CONDITION_1 specific deductible,deductible_oop_inquiry
+,,how much is my special services deductible,deductible_oop_inquiry
+,,what is my MASKING_MEDICAL_CONDITION_1 specific deductible,deductible_oop_inquiry
+,,what is my special services deductible,deductible_oop_inquiry
+,,do i have a lifetime maximum,deductible_oop_inquiry
+,,how do i know when ive met my lifetime maximum,deductible_oop_inquiry
+,,is there a lifetime limit on any services covered on this plan,deductible_oop_inquiry
+,,is there a lifetime maximum plan benefit,deductible_oop_inquiry
+,,is there a lifetime plan maximum,deductible_oop_inquiry
+,,is there a monetary limit for covered services,deductible_oop_inquiry
+,,is there an annual limit on any services covered on this plan,deductible_oop_inquiry
+,,lifetime limit for covered MASKING_PROCEDURE_NAME_1,deductible_oop_inquiry
+,,lifetime maximum what is it,deductible_oop_inquiry
+,,lifetime plan maximum,deductible_oop_inquiry
+,,plan lifetime maximum,deductible_oop_inquiry
+,,what is my lifetime maximum,deductible_oop_inquiry
+,,what is my lifetime maximum on my plan,deductible_oop_inquiry
+,,amount of my in network out of pocket maximum,deductible_oop_inquiry
+,,amount of my non network out of pocket maximum,deductible_oop_inquiry
+,,amount of my out of network out of pocket maximum,deductible_oop_inquiry
+,,annual limit for the consumer choice plan,deductible_oop_inquiry
+,,are copays included in out of pocket max,deductible_oop_inquiry
+,,at what point does the plan pay MASKING_NUMBER_a percent,deductible_oop_inquiry
+,,can what i spend on copays count toward meeting my oopm,deductible_oop_inquiry
+,,can what i spend on copays count toward meeting my yearly max,deductible_oop_inquiry
+,,can what i spend on copays count toward my out of pocket maximum,deductible_oop_inquiry
+,,can you confirm what the max out of pocket cost for my plan is,deductible_oop_inquiry
+,,can you tell me how much my non network out of pocket maximum is,deductible_oop_inquiry
+,,comparison of in network vs out of network for out of pocket max,deductible_oop_inquiry
+,,copay count toward out of pocket maximum,deductible_oop_inquiry
+,,definition of out of pocket maximum,deductible_oop_inquiry
+,,do co insurance MASKING_PROCEDURE_NAME_1 accumulate towards anything,deductible_oop_inquiry
+,,do i get money spent over my out of pocket maximum refunded to me,deductible_oop_inquiry
+,,do in network charges still count towards my oopm,deductible_oop_inquiry
+,,do my copays count towards the plan out of pocket maximum,deductible_oop_inquiry
+,,do you know my in network out of pocket max,deductible_oop_inquiry
+,,do you know what my in network out of pocket max is,deductible_oop_inquiry
+,,does my coinsurance count toward my out of pocket maximum,deductible_oop_inquiry
+,,does my copay accumulate to meeting my oopm,deductible_oop_inquiry
+,,does my copay accumulate to meeting my out of pocket maximum oopm,deductible_oop_inquiry
+,,does my copay count toward my oopm,deductible_oop_inquiry
+,,does my MASKING_DEPENDENT_RELATIONSHIP_1 have to meet the out of pocket maximum if i have met mine to be covered,deductible_oop_inquiry
+,,does my MASKING_PROVIDER_SPECIALTY_1 copay count towards the plan max,deductible_oop_inquiry
+,,does my plan have an out of pocket maximum,deductible_oop_inquiry
+,,does the MASKING_DEPENDENT_RELATIONSHIP_1 out of pocket maximum have to be reached before individual is covered,deductible_oop_inquiry
+,,does the plan every pay MASKING_NUMBER_a percent,deductible_oop_inquiry
+,,have i met my out of pocket,deductible_oop_inquiry
+,,how do i check my out of pocket blanace,deductible_oop_inquiry
+,,how do i know how much i have spent out of pocket,deductible_oop_inquiry
+,,how do i meet my yearly maximum,deductible_oop_inquiry
+,,how does the in network out of pocket maximum compare to out of network,deductible_oop_inquiry
+,,how much could i possibly have to pay in one year,deductible_oop_inquiry
+,,how much is in network out of pocket maximum compared to out of network,deductible_oop_inquiry
+,,how much is my in network yearly limit,deductible_oop_inquiry
+,,how much is my individual annual limit,deductible_oop_inquiry
+,,how much is my non network out of pocket max,deductible_oop_inquiry
+,,how much is my out of network out of pocket max,deductible_oop_inquiry
+,,how much is my out of network out of pocket maximum,deductible_oop_inquiry
+,,how much is my out of pocket maximum,deductible_oop_inquiry
+,,how much is the annual amount i have to pay,deductible_oop_inquiry
+,,how much is the max in network out of pocket maximum,deductible_oop_inquiry
+,,how much of my max have i used this year so far,deductible_oop_inquiry
+,,how much of my out of pocket have i met,deductible_oop_inquiry
+,,how much will i have to pay out of pocket,deductible_oop_inquiry
+,,how much will i pay out of pocket,deductible_oop_inquiry
+,,i am trying to figure out if the yearly limit is the same if i use providers who are not in the plan network,deductible_oop_inquiry
+,,i do not get it is the out of pocket maximum by individual or MASKING_DEPENDENT_RELATIONSHIP_1,deductible_oop_inquiry
+,,i have a MASKING_DEPENDENT_RELATIONSHIP_1 plan is the max out of pocket per individual or per MASKING_DEPENDENT_RELATIONSHIP_1,deductible_oop_inquiry
+,,i want to know what is the most i could possibly have to pay each year for MASKING_PROCEDURE_NAME_1,deductible_oop_inquiry
+,,if i go non network what is my out of pocket max,deductible_oop_inquiry
+,,if i stay in network what is my annual limit,deductible_oop_inquiry
+,,if my service was in network does it count towards my oop max,deductible_oop_inquiry
+,,in network out of pocket maximum,deductible_oop_inquiry
+,,information on out of pocket maximum coverage,deductible_oop_inquiry
+,,is my coinsurance included in my out of pocket max,deductible_oop_inquiry
+,,is my deductible amount the most i will have to pay in the year,deductible_oop_inquiry
+,,is the out of pocket max by MASKING_DEPENDENT_RELATIONSHIP_1 or individual,deductible_oop_inquiry
+,,is the out of pocket maximum by individual or do we have to keep paying until both my MASKING_DEPENDENT_RELATIONSHIP_1 and i reach the maximum,deductible_oop_inquiry
+,,is there a maximum payment per year for a MASKING_DEPENDENT_RELATIONSHIP_1,deductible_oop_inquiry
+,,is there a separate non network out of pocket maximum,deductible_oop_inquiry
+,,is there a separate out of pocket maximum for in and out of network,deductible_oop_inquiry
+,,most i can pay out of pocket a year on plan,deductible_oop_inquiry
+,,most i will have to pay out of pocket,deductible_oop_inquiry
+,,on my plan what is my out of network out of pocket maximum,deductible_oop_inquiry
+,,out of network out of pocket maximum,deductible_oop_inquiry
+,,out of pocket maximum what is it,deductible_oop_inquiry
+,,please tell me what the max is we have to pay per person for per MASKING_DEPENDENT_RELATIONSHIP_1 unit,deductible_oop_inquiry
+,,the most i will pay per person out of pocket,deductible_oop_inquiry
+,,what bills count toward my annual max,deductible_oop_inquiry
+,,what counts toward my out of pocket max,deductible_oop_inquiry
+,,what counts toward my out of pocket maximum,deductible_oop_inquiry
+,,what do co paymentss accumulate towards,deductible_oop_inquiry
+,,what do i need to spend to reach my out of pocket max,deductible_oop_inquiry
+,,what does my copay accumulate towards,deductible_oop_inquiry
+,,what does the out of pocket maximum include,deductible_oop_inquiry
+,,what expenses counts towards my out of pocket maximum,deductible_oop_inquiry
+,,what happens if i meet my out of pocket,deductible_oop_inquiry
+,,what happens if i spend over the out of pocket limit on my health plan,deductible_oop_inquiry
+,,what is an out of pocket max,deductible_oop_inquiry
+,,what is highest possible non network out of pocket cost,deductible_oop_inquiry
+,,what is in included in maximum out of pocket expenses,deductible_oop_inquiry
+,,what is maximum out of pocket expense,deductible_oop_inquiry
+,,what is my annual maximum,deductible_oop_inquiry
+,,what is my current oop,deductible_oop_inquiry
+,,what is my in network out of pocket maximum,deductible_oop_inquiry
+,,what is my in network vs out of network out of pocket maximum,deductible_oop_inquiry
+,,what is my individual oop,deductible_oop_inquiry
+,,what is my max out of pocket,deductible_oop_inquiry
+,,what is my maximum out of pocket,deductible_oop_inquiry
+,,what is my non network out of pocket max,deductible_oop_inquiry
+,,what is my oop,deductible_oop_inquiry
+,,what is my oop max,deductible_oop_inquiry
+,,what is my out of network out of pocket max,deductible_oop_inquiry
+,,what is my out of network out of pocket maximum,deductible_oop_inquiry
+,,what is my out of pocket,deductible_oop_inquiry
+,,what is my out of pocket cost with my kaiser plan,deductible_oop_inquiry
+,,what is my out of pocket max,deductible_oop_inquiry
+,,what is my out of pocket maximum,deductible_oop_inquiry
+,,what is my total out of pocket,deductible_oop_inquiry
+,,what is my yearly max,deductible_oop_inquiry
+,,what is my yearly out of pocket limit,deductible_oop_inquiry
+,,what is the annual maximum,deductible_oop_inquiry
+,,what is the difference in out of pocket maximums for in network and out of network,deductible_oop_inquiry
+,,what is the highest amount i will have to pay per year,deductible_oop_inquiry
+,,what is the max i will pay in a year,deductible_oop_inquiry
+,,what is the maximum in network out of pocket cost,deductible_oop_inquiry
+,,what is the maximum out of network out of pocket cost,deductible_oop_inquiry
+,,what is the most i have to pay each year,deductible_oop_inquiry
+,,what is the most i have to pay each year for healthcare,deductible_oop_inquiry
+,,what is the most i have to pay in a year,deductible_oop_inquiry
+,,what is the most i might pay for care in a year on my plan,deductible_oop_inquiry
+,,what is the most i will have to pay this year,deductible_oop_inquiry
+,,what is the out of pocket limit on my health plan,deductible_oop_inquiry
+,,what is the out of pocket max,deductible_oop_inquiry
+,,what is the out of pocket maximum for a MASKING_DEPENDENT_RELATIONSHIP_1,deductible_oop_inquiry
+,,what would my highest out of pocket be,deductible_oop_inquiry
+,,what would the highest amount i have to pay for in the year be,deductible_oop_inquiry
+,,will my coinsurance count towards something,deductible_oop_inquiry
+,,will my copay count towards my out of pocket max,deductible_oop_inquiry
+,,will my copays accumulate toward something,deductible_oop_inquiry
+,,will my prescription copays count toward out of pocket max,deductible_oop_inquiry
+,,will paying copays help me reach my out of pocket max,deductible_oop_inquiry
+,,will the co pay count towards my my out of pocket maximum,deductible_oop_inquiry
+,,will the coinsurance amounts count towards my oopm,deductible_oop_inquiry
+,,will the plan ever cover MASKING_NUMBER_a percent,deductible_oop_inquiry
+,,will the plan ever pay for everything,deductible_oop_inquiry
+,,if i have coinsurance do i still have a out of pocket maximum i need to meet,deductible_oop_inquiry
+,,if ive already hit my out of pocket maximum does it matter if i go to an out of network provider,deductible_oop_inquiry
+,,what is my MASKING_PROVIDER_SPECIALTY_1 deductable,deductible_oop_inquiry
+,,are my MASKING_PROCEDURE_NAME_1 subject to a deductible,deductible_oop_inquiry
+,,can you tell me if there is a different deductible for prescription MASKING_PROVIDER_SPECIALTY_1,deductible_oop_inquiry
+,,do costs for perscriptions go toward my deductible,deductible_oop_inquiry
+,,do i have a prescription deductible soemtimes pills are cheaper through insurance even tho we have not met deductible,deductible_oop_inquiry
+,,do i have a rx deductible,deductible_oop_inquiry
+,,do i have to meet the deductible when i buy a drug,deductible_oop_inquiry
+,,do my prescription medications go towards the deductible,deductible_oop_inquiry
+,,do MASKING_PROVIDER_SPECIALTY_1 expenses have their own deductible,deductible_oop_inquiry
+,,do scripts have a deductible,deductible_oop_inquiry
+,,do you know how much my deductible is for an rx,deductible_oop_inquiry
+,,do you know if i will have to pay on a different dedcutible for my MASKING_PROVIDER_SPECIALTY_1 i need to find out thanks,deductible_oop_inquiry
+,,does a MASKING_PROVIDER_SPECIALTY_1 script apply towards the deductible,deductible_oop_inquiry
+,,does the dedictbile include my costs for prescription MASKING_PROVIDER_SPECIALTY_1,deductible_oop_inquiry
+,,does the deductible apply to MASKING_PROCEDURE_NAME_1,deductible_oop_inquiry
+,,does the entire cost of the MASKING_PROVIDER_SPECIALTY_1 go toward the deductible until it is met,deductible_oop_inquiry
+,,hi i am trying to figure out which MASKING_PROCEDURE_NAME_1 count for the deductible,deductible_oop_inquiry
+,,how much is my deductible for medication,deductible_oop_inquiry
+,,how much is MASKING_MEDICATION_1 deductible,deductible_oop_inquiry
+,,i am wondering if pharamcy scripts count towards my deductible,deductible_oop_inquiry
+,,i think my deductible is MASKING_NUMBER_a MASKING_NUMBER_b so my prescription cost goes against this is that correct,deductible_oop_inquiry
+,,if i need an rx is there a different dedcutible for those do you know,deductible_oop_inquiry
+,,is there a MASKING_PROVIDER_SPECIALTY_1 deductible,deductible_oop_inquiry
+,,is there a prescription medication deductible,deductible_oop_inquiry
+,,is there a separate deductible for rxs,deductible_oop_inquiry
+,,is there another deductible for the MASKING_PROVIDER_SPECIALTY_1,deductible_oop_inquiry
+,,is there any kind of different dollar amount that i have to pay before i get MASKING_PROCEDURE_NAME_1,deductible_oop_inquiry
+,,once my prescription costs meet my deductible of MASKING_NUMBER_a MASKING_NUMBER_b i would not have to pay anything towards my drugs,deductible_oop_inquiry
+,,tell me more about MASKING_PROVIDER_SPECIALTY_1 deductible,deductible_oop_inquiry
+,,what does it mean that my plan does not have MASKING_PROVIDER_SPECIALTY_1 deductible,deductible_oop_inquiry
+,,what is my deductible for an rx,deductible_oop_inquiry
+,,what is my deductible for MASKING_PROCEDURE_NAME_1,deductible_oop_inquiry
+,,what is my MASKING_PROVIDER_SPECIALTY_1 deductible for my MASKING_PROVIDER_SPECIALTY_2,deductible_oop_inquiry
+,,what is the amount for the MASKING_PROVIDER_SPECIALTY_1 deductible,deductible_oop_inquiry
+,,what is the prescription deductible,deductible_oop_inquiry
+,,is there a lifetime max on medication costs?,deductible_oop_inquiry
+,,does optum set a year-over-year maximum on rx services?,deductible_oop_inquiry
+,,how much will the play pay per lifetime for MASKING_PROCEDURE_NAME_1?,deductible_oop_inquiry
+,,does the lifetime max apply to MASKING_PROCEDURE_NAME_1?,deductible_oop_inquiry
+,,lifetime MASKING_PROCEDURE_NAME_1 for MASKING_PROCEDURE_NAME_1,deductible_oop_inquiry
+,,do medication copays apply toward yearly out of pocket maximum,deductible_oop_inquiry
+,,do rx copays count toward out of pocket limit,deductible_oop_inquiry
+,,does my drug coverage have an out of pocket max too,deductible_oop_inquiry
+,,does my prescription copay count towards the out of pocket maximum,deductible_oop_inquiry
+,,prescription copay count toward annual out of pocket maximum,deductible_oop_inquiry
+,,prescription copay counts toward annual limit,deductible_oop_inquiry
+,,would my rx costs go towards the year out of pocket max,deductible_oop_inquiry
+,,do medication copays apply toward yeearly out of pocket max,deductible_oop_inquiry

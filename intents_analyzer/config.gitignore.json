@@ -1,0 +1,65 @@
+{
+  "data_source": {
+    "dir_name": "C:/dev/wafhb/Core/WFBWCSWorkspaces/src/python/intents_analyzer/data-results",
+    "file_name": "examples.csv"
+  },
+  "results_dirname": "results",
+  "masking_options": {
+    "train": "ORIGINAL_AND_MASKED",
+    "test": "MASKED"
+  },
+  "n_splits": 2,
+  "wa": {
+    "version": "2018-07-10",
+    "username": "apikey",
+    "password": "_MsFeAeo1v1Hw4AuEzhhQIluyRrd38P1ooBpk3URLayX",
+    "url": "https://gateway.watsonplatform.net/assistant/api",
+    "max_wait": 300,
+    "workspace_name" : "Intent classification test ",
+    "workspace_descr" : "Core WA "
+  },
+   "wa_welltok": {
+    "version": "2018-07-10",
+    "username": "apikey",
+    "password": "FiSr8VZUrxT81kyxSWXR1XUONQa7QY2jQAE-tFU8Ltwe",
+    "url": "https://gateway.watsonplatform.net/assistant/api",
+    "max_wait": 300,
+    "workspace_name" : "Intent classification test ",
+    "workspace_descr" : "auto generated ws for intents classification testing"
+  },
+  "wcslp": {
+    "input_template_filename": "wcs_test_questions_empty.xlsx",
+    "input_filename": "wcs_test_questions.xlsx",
+    "output_template_filename": "wcs_test_results_empty.xlsx",
+    "output_filename": "wcs_test_results.xlsx",
+    "output_file_summary_sheet_name": "Summary",
+    "output_file_detail_sheet_name": "WCS Mapping",
+    "output_expected_intent_colname": "Expected Intent",
+    "output_detected_intent_colname": "Intent 1",
+    "output_top_result_colname": "Top Result",
+    "dirname": "WCS-LearningProgress-master",
+    "data_subdir_name": "data",
+    "main_module_name": "wcs_tester.py"
+  },
+  "wa_notebook": {
+    "dirname": "assistant-improve-recommendations-notebook-master/notebook",
+    "notebook_fname": "Effectiveness Notebook WFB.ipynb",
+    "data_subdir_name": "data",
+    "template_fname": "annotation_template.xlsx",
+    "template_sheet_name": "data",
+    "data_fname": "annotation_wfb.xlsx",
+    "result_fnames": [
+      "Effectiveness Notebook WFB.html",
+      "WorstPrecisionIntents.csv",
+      "WorstRecallIntents.csv",
+      "WorstOverallIntents.csv",
+      "ConfusedIntentPairs.csv"
+    ]
+  },
+  "analysis": {
+    "selected_intent_name": "deductible_oop_inquiry",
+    "stats_fname": "stats.csv",
+    "details_fname": "details.csv",
+    "summary_fname": "summary.csv"
+  }
+}
