@@ -51,9 +51,9 @@ def get_text_intent(assistant, workspace_id, input_text):
     '''
     if (len(intents) >0):
         #print('intent %s'%(intents[0]['intent']))
-        print('Utterence: *** %s *** Intent: *** %s'%(input_text, (intents[0]['intent']) + ' : ' +str(intents[0]['confidence']) ))
+        print(' %s :: %s'%(input_text, (intents[0]['intent']) + ' :: ' +str(intents[0]['confidence']) ))
     else:
-        print('Utterence: *** %s *** Intent: *** %s' % (input_text, 'INTENT_NOT_FOUND'))
+        print('%s :: %s' % (input_text, 'INTENT_NOT_FOUND'))
 
 
 def get_intents_for_list_of_utterances(assistant, workspace_id, file_of_utterances):
@@ -77,13 +77,16 @@ if __name__ == "__main__":
 
     #workspace_id = '8c47515b-9aef-4f6c-9274-215a71e2bcf6' #<--------------------------
     # CORE
-    workspace_id = 'e82583d8-debb-4ef6-97eb-a2a8aef4233c'
+    # workspace_id = 'e82583d8-debb-4ef6-97eb-a2a8aef4233c'
+    workspace_id = '6c5c69dd-b3b1-4ec8-9a0d-e82e7c16f645' #yan test
+    # Welltok
+    #workspace_id = '3962dbf1-2be8-47b3-8fff-75eab61a0566'
 
     ''' ================= Test intents for a single utterance  ================='''
-    # get_text_intent(assistant, workspace_id, 'can i meet my deductible with copays?')
+    #get_text_intent(assistant, workspace_id, 'can i meet my deductible with copays?')
 
     ''' ================= Test intents for a file with list of utterance  ================='''
-    IN_FILE = 'yes.txt'
+    IN_FILE = 'welltok-utter-s14.txt'
     get_intents_for_list_of_utterances(assistant, workspace_id, IN_FILE)
 
 

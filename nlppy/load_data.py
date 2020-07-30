@@ -27,5 +27,7 @@ def load_data():
     # If it's the same job description in the same city, for the same job title, we consider it duplicate.
     df = df.drop_duplicates(subset=['job_description', 'city', 'job_title'])
 
+    print(df.shape)
+
     return df
 

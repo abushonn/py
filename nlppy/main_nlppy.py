@@ -22,8 +22,8 @@ degree_list = []
 # print(skill_list)
 # print('========= degree_list ============')
 # print(degree_list)
-
-visualize.visualize_tools(df, tool_list)
-visualize.visualize_skils(df, skill_list)
-visualize.visualize_education(df, degree_list)
+#
+# visualize.visualize_tools(df, tool_list)
+# visualize.visualize_skils(df, skill_list)
+# visualize.visualize_education(df, degree_list)
 

@@ -1,0 +1,37 @@
+﻿Utterance,Actual Intent,Expected intent,IsEqual
+if i go out of network is MASKING_PROCEDURE_NAME_ covered , faq_out_of_network_provider , benefit_coverage , NOT_EQUAL
+what does MASKING_PROCEDURE_NAME_ cost before i meet my deductible , deductible_oop_inquiry , benefit_coverage , NOT_EQUAL
+coverage for cpap machine , ask_for_agent , benefit_coverage , NOT_EQUAL
+do i have to get MASKING_PROCEDURE_NAME_ from an in network provider for it to be covered , provider_verification , benefit_coverage , NOT_EQUAL
+how much is my in network durable medical benefit , provider_verification , benefit_coverage , NOT_EQUAL
+if i go out of network is MASKING_PROCEDURE_NAME_ still covered , faq_out_of_network_provider , benefit_coverage , NOT_EQUAL
+in network co pay for MASKING_PROCEDURE_NAME_ , provider_verification , benefit_coverage , NOT_EQUAL
+what MASKING_PROCEDURE_NAME_ are covered , faq_review_medication_coverage , benefit_coverage , NOT_EQUAL
+what percentage does my plan pay towards MASKING_PROCEDURE_NAME_ , faq_late_payment , benefit_coverage , NOT_EQUAL
+my MASKING_DEPENDENT_RELATIONSHIP_ is really MASKING_MEDICAL_CONDITION_ and not getting better what do i do , faq_review_dependent_details , benefit_coverage , NOT_EQUAL
+will my plan pay for me to go to the MASKING_PROCEDURE_NAME_ , faq_late_payment , benefit_coverage , NOT_EQUAL
+will my plan pay for me to stay in the MASKING_PROCEDURE_NAME_ , faq_late_payment , benefit_coverage , NOT_EQUAL
+will out of network MASKING_PROCEDURE_NAME_ be more expensive , faq_purchase_healthcare_plan , benefit_coverage , NOT_EQUAL
+i need an MASKING_PROCEDURE_NAME_ but i have no idea what is in network and i do not know what to do , medical_emergency , benefit_coverage , NOT_EQUAL
+what amount is covered on my plan if i use an out of network MASKING_PROCEDURE_NAME_ , faq_out_of_network_provider , benefit_coverage , NOT_EQUAL
+i do not know if i can get to the MASKING_HEALTH_ORG_ , definition , benefit_coverage , NOT_EQUAL
+do you know if a nurse come to where i live for care , ask_for_agent , benefit_coverage , NOT_EQUAL
+hey what is the coinsurance for preadmission appointments if i have not met the deductible and i have to out of the network , deductible_oop_inquiry , benefit_coverage , NOT_EQUAL
+can i only MASKING_PROCEDURE_NAME_ at an in network MASKING_HEALTH_ORG_ or can i choose the MASKING_HEALTH_ORG_ i want , search_facility_by_criteria , benefit_coverage , NOT_EQUAL
+does MASKING_PERSON_NAME_ cover MASKING_PROCEDURE_NAME_ and labor if i have to go to a MASKING_HEALTH_ORG_ outside the network , search_facility_by_criteria , benefit_coverage , NOT_EQUAL
+hi i need to know how much my plan MASKING_PROCEDURE_NAME_ for MASKING_PROCEDURE_NAME_ can you help me with that , medical_guidelines , benefit_coverage , NOT_EQUAL
+i want to deliver at an out of network MASKING_HEALTH_ORG_ is that an option , faq_out_of_network_provider , benefit_coverage , NOT_EQUAL
+if i have not met my oop max yet what is the out of pocket cost for using an out of network MASKING_PROCEDURE_NAME_ center , faq_out_of_network_provider , benefit_coverage , NOT_EQUAL
+is MASKING_PROCEDURE_NAME_ more expensive , faq_purchase_healthcare_plan , benefit_coverage , NOT_EQUAL
+do you know if i have not met the deductible how much does my plan pay towards mental health thanks , deductible_oop_inquiry , benefit_coverage , NOT_EQUAL
+does my plan cover mental health MASKING_PROCEDURE_NAME_ at out of network providers , faq_out_of_network_provider , benefit_coverage , NOT_EQUAL
+does uhc offer mental health coverage , INTENT_NOT_FOUND , benefit_coverage , NOT_EQUAL
+how many mental health MASKING_PROCEDURE_NAME_ are authorized per year , health_insurance_report_fraudulent_use , benefit_coverage , NOT_EQUAL
+ive hit my deductible but not my oop max can you tell me my coinsurance amount for an in network MASKING_PROFESSIONAL_GROUP_ , deductible_oop_inquiry , benefit_coverage , NOT_EQUAL
+,,,
+how much do i have to pay before medical insurance will cover my expenses , benefit_coverage , deductible_oop_inquiry , NOT_EQUAL
+is there a separate deductible for mental health benefits , benefit_coverage , deductible_oop_inquiry , NOT_EQUAL
+mental health deductible , benefit_coverage , deductible_oop_inquiry , NOT_EQUAL
+what is the deductible for mental health , definition , deductible_oop_inquiry , NOT_EQUAL
+is there a separate annual limit for mental health benefits , benefit_coverage , deductible_oop_inquiry , NOT_EQUAL
+maximum yearly amount for MASKING_PROCEDURE_NAME_ , benefit_coverage , deductible_oop_inquiry , NOT_EQUAL

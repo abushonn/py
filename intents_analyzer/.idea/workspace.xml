@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba3f411c-841c-4b09-adac-d44372b2e957" name="Default Changelist" comment="" />
+    <list default="true" id="ba3f411c-841c-4b09-adac-d44372b2e957" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../graphs_plotly/figure.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphs_plotly/kaleido01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphs_plotly/line_charts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphs_plotly/plot_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../graphs_plotly/plotty_express_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compare_intents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandas/data/titanic3.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandas/panda10min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pandas/titanic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_intents_analyzer.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_intents_analyzer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nlppy/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nlppy/load_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nlppy/main_nlppy.py" beforeDir="false" afterPath="$PROJECT_DIR$/../nlppy/main_nlppy.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1dKVU7NxnGBzATqVjxoEm80c0Un" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,7 +33,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../regression" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
