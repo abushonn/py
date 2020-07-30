@@ -1,0 +1,4 @@
+xlrd
+xlwt
+Openpyxl
+watson_developer_cloud

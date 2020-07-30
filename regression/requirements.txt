@@ -1,0 +1,7 @@
+pandas
+watson_developer_cloud==2.8.0
+xlrd
+xlwt
+openpyxl==2.4.7
+Jupyter
+sklearn
