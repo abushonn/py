@@ -1,0 +1,16 @@
+
+cb2623c (HEAD -> 02-yan-history, origin/02-yan-history, 03-yan-branch) Revert "Updated to 003"
+e85b418 Updated to 003
+22230f4 Updated 002 git_03.py <-----
+37ad53c (master, 01-yan-regression-ptr, 01-yan-regression) Added history files
+667c66a (origin/master, origin/HEAD, 01-yan-regression_ptr2) Merge pull request #2 from abushonn/01-yan-regression
+6cace83 (origin/01-yan-regression) added regression tool
+0ffc1a8 Merge pull request #1 from abushonn/01-yan-regression
+9930077 updated .gitignore in intents_analyzer
+4fc5c4c Added nlppy, intents_analyzer and graph_plotly
+21eba6d added run-2020-07-23.ipynb (python notebook file)
+fc92739 moved nlp-py README.md to nlp-py
+c9977df moved nlp-py README.md to nlp-py
+b186523 initial commit of "How to use NLP in Python"
+b4d1e4c initial commit of intents_analyzer
+843871d Initial commit
