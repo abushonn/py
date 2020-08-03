@@ -36,6 +36,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'blog.apps.BlogConfig',
     'articles.apps.ArticlesConfig',
     'grappelli',
     'django.contrib.admin',
