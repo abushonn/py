@@ -44,14 +44,28 @@ class LinkedList:
 
 
     def get(self, index):
-        cur = self.head.next #self.head is an emty element
         if (index >= self.length()):
-            print('ERROR: index out of scope!!!')
+            print('ERROR: index out of scope!!! Length={}, index={}'.format(self.length(), index))
             return
+        cur = self.head.next  # self.head is an emty element
         for i in range(index):
             cur = cur.next
 
         return  cur
+
+    def erase(self, index):
+        if (index >= self.length()):
+            print('ERROR: index out of scope!!! Length={}, index={}'.format(self.length(), index))
+            return
+        cur = self.head.next  # self.head is an emty element
+        for i in range(index-1):
+            cur = cur.next
+
+        del_node = cur.next
+        cur.next = del_node.next
+
+        #return deleted node
+        return  del_node
 
 
 print('============ Test Node=================')
@@ -63,9 +77,20 @@ lst1 = LinkedList('lst1')
 lst1.append('10')
 lst1.append('20')
 lst1.append('30')
+lst1.append('40')
+print('The list after adding:')
+lst1.display()
 
 print('============ Test List: count, get =================')
 print('lst1 length : ' + str(lst1.length()))
 
 print(lst1.name + '[2] : ' + str(lst1.get(2)))
 print(lst1.name + '[5] : ' + str(lst1.get(5)))
+
+print('============ Test List: erase =================')
+print('Before:')
+lst1.display()
+print('Erasing element index=2:')
+lst1.erase(2)
+print('After:')
+lst1.display()
