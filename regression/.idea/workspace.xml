@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b5ac1af-8b9e-465f-9900-d9e2352a68a5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/doc/eval.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/doc/eval.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1ey4yBcRNbIYKV4kscLf9HV95im" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -42,6 +43,7 @@
       <recent name="C:\dev\wafhb\Core\WFBWCSWorkspaces\src\python\regression\assistant-improve-recommendations-notebook-master" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -230,11 +232,11 @@
     </state>
     <state x="781" y="344" key="SettingsEditor/-1920.0.1536.832/2560.0.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1595943743109" />
     <state x="586" y="256" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1596048496093" />
-    <state x="740" y="322" width="645" height="534" key="find.popup" timestamp="1596049985146">
+    <state x="740" y="322" width="645" height="534" key="find.popup" timestamp="1598706740273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="986" y="433" width="859" height="556" key="find.popup/-1920.0.1536.832/2560.0.1920.1160/0.0.2560.1400@0.0.2560.1400" timestamp="1596037239964" />
-    <state x="740" y="322" width="645" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596049985146" />
+    <state x="740" y="322" width="645" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598706740273" />
     <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1596010221235">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
